@@ -1,0 +1,1136 @@
+Date: (datetime.date(2024, 4, 3),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-03 13:08:34-04:00 to 2024-04-03 13:38:36-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-04-03 15:08:42-04:00 to 2024-04-03 15:23:43-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 3),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-04-03 13:08:09-04:00 to 2024-04-03 14:23:14-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-04-03 14:38:15-04:00 to 2024-04-03 15:38:19-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-04-03 16:23:22-04:00 to 2024-04-03 16:38:23-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 9),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-09 16:18:30-04:00 to 2024-04-09 23:03:58-04:00, duration: 0 days 06:45:28
+Date: (datetime.date(2024, 4, 9),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-04-09 21:33:27-04:00 to 2024-04-09 21:48:28-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 10),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-10 09:04:38-04:00 to 2024-04-10 14:04:58-04:00, duration: 0 days 05:00:20
+Date: (datetime.date(2024, 4, 10),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-10 14:04:33-04:00 to 2024-04-10 15:19:39-04:00, duration: 0 days 01:15:06
+    Demand exceeded D0 from 2024-04-10 16:49:45-04:00 to 2024-04-10 23:50:13-04:00, duration: 0 days 07:00:28
+Date: (datetime.date(2024, 4, 11),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 11),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-11 00:05:14-04:00 to 2024-04-11 01:05:18-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-04-11 08:05:46-04:00 to 2024-04-11 08:20:47-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-11 09:20:52-04:00 to 2024-04-11 23:51:50-04:00, duration: 0 days 14:30:58
+Date: (datetime.date(2024, 4, 12),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 12),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-12 00:36:53-04:00 to 2024-04-12 04:37:10-04:00, duration: 0 days 04:00:17
+    Demand exceeded D0 from 2024-04-12 05:22:13-04:00 to 2024-04-12 07:22:21-04:00, duration: 0 days 02:00:08
+    Demand exceeded D0 from 2024-04-12 08:37:26-04:00 to 2024-04-12 10:37:34-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 4, 14),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 14),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-14 15:26:08-04:00 to 2024-04-14 15:41:09-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 16),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 16),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-16 20:14:42-04:00 to 2024-04-16 21:14:46-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 4, 17),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 17),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-04-17 13:15:51-04:00 to 2024-04-17 13:30:52-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 18),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-18 10:47:43-04:00 to 2024-04-18 11:17:45-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-04-18 13:32:54-04:00 to 2024-04-18 13:47:55-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-18 14:02:56-04:00 to 2024-04-18 15:48:03-04:00, duration: 0 days 01:45:07
+Date: (datetime.date(2024, 4, 18),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-18 15:17:36-04:00 to 2024-04-18 16:02:39-04:00, duration: 0 days 00:45:03
+Date: (datetime.date(2024, 4, 19),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-19 15:04:37-04:00 to 2024-04-19 15:34:39-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-04-19 16:49:44-04:00 to 2024-04-19 17:19:47-04:00, duration: 0 days 00:30:03
+Date: (datetime.date(2024, 4, 19),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-19 16:34:18-04:00 to 2024-04-19 16:49:19-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 23),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-23 14:59:19-04:00 to 2024-04-23 15:14:21-04:00, duration: 0 days 00:15:02
+    Demand exceeded D0 from 2024-04-23 15:44:25-04:00 to 2024-04-23 20:30:02-04:00, duration: 0 days 04:45:37
+Date: (datetime.date(2024, 4, 23),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-23 19:44:56-04:00 to 2024-04-23 20:30:02-04:00, duration: 0 days 00:45:06
+    Demand exceeded D0 from 2024-04-23 20:45:03-04:00 to 2024-04-23 21:00:05-04:00, duration: 0 days 00:15:02
+Date: (datetime.date(2024, 4, 24),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 24),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-24 11:31:04-04:00 to 2024-04-24 11:46:05-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-24 14:01:34-04:00 to 2024-04-24 14:31:37-04:00, duration: 0 days 00:30:03
+Date: (datetime.date(2024, 4, 25),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 25),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-25 20:50:15-04:00 to 2024-04-25 21:20:17-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 4, 26),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 26),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-26 20:21:52-04:00 to 2024-04-26 21:51:58-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 4, 28),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-04-28 13:09:51-04:00 to 2024-04-28 13:54:54-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-04-28 15:25:00-04:00 to 2024-04-28 16:55:06-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-04-28 18:25:12-04:00 to 2024-04-28 22:55:30-04:00, duration: 0 days 04:30:18
+Date: (datetime.date(2024, 4, 28),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-28 20:10:05-04:00 to 2024-04-28 23:25:18-04:00, duration: 0 days 03:15:13
+Date: (datetime.date(2024, 4, 29),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 29),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-29 20:26:45-04:00 to 2024-04-29 21:56:51-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 4, 30),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 30),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-30 11:27:45-04:00 to 2024-04-30 11:42:46-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-30 13:27:53-04:00 to 2024-04-30 15:13:01-04:00, duration: 0 days 01:45:08
+    Demand exceeded D0 from 2024-04-30 17:28:10-04:00 to 2024-04-30 17:43:11-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-30 19:58:20-04:00 to 2024-04-30 22:13:29-04:00, duration: 0 days 02:15:09
+Date: (datetime.date(2024, 5, 1),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-01 17:45:01-04:00 to 2024-05-01 22:45:21-04:00, duration: 0 days 05:00:20
+Date: (datetime.date(2024, 5, 1),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 2),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-02 19:16:44-04:00 to 2024-05-02 20:16:48-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 5, 2),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 3),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-03 13:32:58-04:00 to 2024-05-03 13:47:59-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-03 14:18:01-04:00 to 2024-05-03 15:03:05-04:00, duration: 0 days 00:45:04
+    Demand exceeded D0 from 2024-05-03 16:18:10-04:00 to 2024-05-03 17:03:13-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-05-03 17:18:14-04:00 to 2024-05-03 17:33:15-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-03 17:48:16-04:00 to 2024-05-03 21:18:30-04:00, duration: 0 days 03:30:14
+Date: (datetime.date(2024, 5, 3),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 7),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-07 17:09:45-04:00 to 2024-05-07 17:24:46-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 5, 7),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 8),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-08 15:26:15-04:00 to 2024-05-08 16:56:21-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 5, 8),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 14),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-14 12:05:46-04:00 to 2024-05-14 12:50:49-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-05-14 13:35:52-04:00 to 2024-05-14 15:05:58-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 5, 14),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 17),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-17 12:25:39-04:00 to 2024-05-17 15:10:50-04:00, duration: 0 days 02:45:11
+    Demand exceeded D0 from 2024-05-17 15:25:51-04:00 to 2024-05-17 18:41:04-04:00, duration: 0 days 03:15:13
+Date: (datetime.date(2024, 5, 17),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 18),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-18 14:42:25-04:00 to 2024-05-18 15:12:27-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-05-18 17:42:37-04:00 to 2024-05-18 18:42:41-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-05-18 20:42:50-04:00 to 2024-05-18 22:42:58-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 5, 18),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 19),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-19 11:13:48-04:00 to 2024-05-19 11:28:49-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-19 11:43:50-04:00 to 2024-05-19 11:58:51-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-19 12:13:52-04:00 to 2024-05-19 12:28:53-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-19 12:43:54-04:00 to 2024-05-19 13:28:58-04:00, duration: 0 days 00:45:04
+    Demand exceeded D0 from 2024-05-19 14:14:01-04:00 to 2024-05-19 14:59:04-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-05-19 17:44:15-04:00 to 2024-05-19 23:29:38-04:00, duration: 0 days 05:45:23
+Date: (datetime.date(2024, 5, 19),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 20),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-20 09:45:20-04:00 to 2024-05-20 10:00:21-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-20 11:15:26-04:00 to 2024-05-20 12:30:31-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-05-20 12:45:32-04:00 to 2024-05-20 23:46:16-04:00, duration: 0 days 11:00:44
+Date: (datetime.date(2024, 5, 20),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 21),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-21 00:01:17-04:00 to 2024-05-21 09:46:57-04:00, duration: 0 days 09:45:40
+    Demand exceeded D0 from 2024-05-21 10:01:58-04:00 to 2024-05-21 23:47:54-04:00, duration: 0 days 13:45:56
+Date: (datetime.date(2024, 5, 21),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 22),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-22 00:02:55-04:00 to 2024-05-22 07:18:24-04:00, duration: 0 days 07:15:29
+    Demand exceeded D0 from 2024-05-22 07:33:25-04:00 to 2024-05-22 23:49:31-04:00, duration: 0 days 16:16:06
+Date: (datetime.date(2024, 5, 22),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 23),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-23 00:04:32-04:00 to 2024-05-23 03:49:47-04:00, duration: 0 days 03:45:15
+    Demand exceeded D0 from 2024-05-23 08:35:07-04:00 to 2024-05-23 20:20:54-04:00, duration: 0 days 11:45:47
+Date: (datetime.date(2024, 5, 23),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 24),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-24 09:06:46-04:00 to 2024-05-24 20:22:31-04:00, duration: 0 days 11:15:45
+Date: (datetime.date(2024, 5, 24),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 25),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-25 20:54:11-04:00 to 2024-05-25 22:09:17-04:00, duration: 0 days 01:15:06
+Date: (datetime.date(2024, 5, 25),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 26),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-26 13:25:19-04:00 to 2024-05-26 19:40:44-04:00, duration: 0 days 06:15:25
+    Demand exceeded D0 from 2024-05-26 19:55:45-04:00 to 2024-05-26 20:25:47-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 5, 26),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 27),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-27 09:11:39-04:00 to 2024-05-27 10:26:44-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-05-27 11:26:48-04:00 to 2024-05-27 20:27:24-04:00, duration: 0 days 09:00:36
+Date: (datetime.date(2024, 5, 27),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 28),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-28 09:13:16-04:00 to 2024-05-28 17:13:49-04:00, duration: 0 days 08:00:33
+Date: (datetime.date(2024, 5, 28),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 29),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-29 13:45:12-04:00 to 2024-05-29 14:15:14-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 5, 29),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 31),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-31 14:48:30-04:00 to 2024-05-31 16:18:37-04:00, duration: 0 days 01:30:07
+    Demand exceeded D0 from 2024-05-31 16:33:38-04:00 to 2024-05-31 17:33:42-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 5, 31),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 3),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-03 10:38:05-04:00 to 2024-06-03 22:38:54-04:00, duration: 0 days 12:00:49
+Date: (datetime.date(2024, 6, 3),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 4),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-04 08:39:34-04:00 to 2024-06-04 23:55:36-04:00, duration: 0 days 15:16:02
+Date: (datetime.date(2024, 6, 4),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 5),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-05 07:26:07-04:00 to 2024-06-05 23:57:14-04:00, duration: 0 days 16:31:07
+Date: (datetime.date(2024, 6, 5),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 6),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-06 00:12:15-04:00 to 2024-06-06 04:42:33-04:00, duration: 0 days 04:30:18
+    Demand exceeded D0 from 2024-06-06 06:57:42-04:00 to 2024-06-06 20:43:38-04:00, duration: 0 days 13:45:56
+Date: (datetime.date(2024, 6, 6),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 7),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-06-07 10:14:32-04:00 to 2024-06-07 11:44:38-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-06-07 12:44:43-04:00 to 2024-06-07 14:14:49-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 6, 7),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 12),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-06-12 12:52:49-04:00 to 2024-06-12 15:38:00-04:00, duration: 0 days 02:45:11
+Date: (datetime.date(2024, 6, 12),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 13),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-13 09:39:13-04:00 to 2024-06-13 23:55:11-04:00, duration: 0 days 14:15:58
+Date: (datetime.date(2024, 6, 13),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 14),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-14 00:10:12-04:00 to 2024-06-14 01:25:17-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-06-14 08:25:46-04:00 to 2024-06-14 19:56:32-04:00, duration: 0 days 11:30:46
+Date: (datetime.date(2024, 6, 14),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 16),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-06-16 16:29:33-04:00 to 2024-06-16 20:59:51-04:00, duration: 0 days 04:30:18
+Date: (datetime.date(2024, 6, 16),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 17),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-17 07:30:33-04:00 to 2024-06-17 23:46:39-04:00, duration: 0 days 16:16:06
+Date: (datetime.date(2024, 6, 17),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 18),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-18 00:01:40-04:00 to 2024-06-18 23:48:17-04:00, duration: 0 days 23:46:37
+Date: (datetime.date(2024, 6, 18),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 19),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-19 00:03:18-04:00 to 2024-06-19 23:49:54-04:00, duration: 0 days 23:46:36
+Date: (datetime.date(2024, 6, 19),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 20),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-20 00:04:55-04:00 to 2024-06-20 23:51:31-04:00, duration: 0 days 23:46:36
+Date: (datetime.date(2024, 6, 20),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 21),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-21 00:06:32-04:00 to 2024-06-21 23:53:09-04:00, duration: 0 days 23:46:37
+Date: (datetime.date(2024, 6, 21),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 22),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-22 00:08:10-04:00 to 2024-06-22 23:54:46-04:00, duration: 0 days 23:46:36
+Date: (datetime.date(2024, 6, 22),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 23),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-23 00:09:47-04:00 to 2024-06-23 22:41:18-04:00, duration: 0 days 22:31:31
+Date: (datetime.date(2024, 6, 23),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 24),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-06-24 10:12:05-04:00 to 2024-06-24 22:42:55-04:00, duration: 0 days 12:30:50
+Date: (datetime.date(2024, 6, 24),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 25),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-25 08:43:36-04:00 to 2024-06-25 23:59:38-04:00, duration: 0 days 15:16:02
+Date: (datetime.date(2024, 6, 25),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 26),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-26 00:14:39-04:00 to 2024-06-26 19:45:58-04:00, duration: 0 days 19:31:19
+Date: (datetime.date(2024, 6, 26),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 27),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-06-27 08:46:51-04:00 to 2024-06-27 09:01:52-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-06-27 12:02:04-04:00 to 2024-06-27 17:32:26-04:00, duration: 0 days 05:30:22
+Date: (datetime.date(2024, 6, 27),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 28),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-06-28 10:33:35-04:00 to 2024-06-28 10:48:36-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-06-28 11:03:37-04:00 to 2024-06-28 11:18:38-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-06-28 13:03:46-04:00 to 2024-06-28 17:49:05-04:00, duration: 0 days 04:45:19
+    Demand exceeded D0 from 2024-06-28 21:19:20-04:00 to 2024-06-28 21:34:21-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 6, 28),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 29),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-29 09:20:08-04:00 to 2024-06-29 23:51:07-04:00, duration: 0 days 14:30:59
+Date: (datetime.date(2024, 6, 29),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 30),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-30 00:06:08-04:00 to 2024-06-30 13:52:04-04:00, duration: 0 days 13:45:56
+Date: (datetime.date(2024, 6, 30),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 3),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-03 11:56:48-04:00 to 2024-07-03 19:27:18-04:00, duration: 0 days 07:30:30
+    Demand exceeded D0 from 2024-07-03 19:42:19-04:00 to 2024-07-03 19:57:20-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 7, 3),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 5),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-07-05 11:45:01-04:00 to 2024-07-05 12:15:03-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-07-05 14:00:11-04:00 to 2024-07-05 18:15:28-04:00, duration: 0 days 04:15:17
+Date: (datetime.date(2024, 7, 5),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 6),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-07-06 14:46:51-04:00 to 2024-07-06 16:31:58-04:00, duration: 0 days 01:45:07
+Date: (datetime.date(2024, 7, 6),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 8),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-08 11:34:52-04:00 to 2024-07-08 18:05:19-04:00, duration: 0 days 06:30:27
+Date: (datetime.date(2024, 7, 8),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 9),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-07-09 09:51:23-04:00 to 2024-07-09 22:52:15-04:00, duration: 0 days 13:00:52
+Date: (datetime.date(2024, 7, 9),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 10),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-10 10:08:01-04:00 to 2024-07-10 18:38:35-04:00, duration: 0 days 08:30:34
+Date: (datetime.date(2024, 7, 10),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 12),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-12 10:41:18-04:00 to 2024-07-12 19:11:52-04:00, duration: 0 days 08:30:34
+Date: (datetime.date(2024, 7, 12),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 15),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-07-15 09:01:02-04:00 to 2024-07-15 18:01:39-04:00, duration: 0 days 09:00:37
+    Demand exceeded D0 from 2024-07-15 18:31:41-04:00 to 2024-07-15 20:01:47-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 7, 15),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 16),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-07-16 09:47:43-04:00 to 2024-07-16 19:48:23-04:00, duration: 0 days 10:00:40
+Date: (datetime.date(2024, 7, 16),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 17),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-07-17 10:49:24-04:00 to 2024-07-17 15:19:42-04:00, duration: 0 days 04:30:18
+Date: (datetime.date(2024, 7, 17),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 22),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-22 11:42:34-04:00 to 2024-07-22 12:42:38-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-07-22 13:42:42-04:00 to 2024-07-22 17:42:58-04:00, duration: 0 days 04:00:16
+Date: (datetime.date(2024, 7, 22),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 23),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-23 10:59:08-04:00 to 2024-07-23 15:44:27-04:00, duration: 0 days 04:45:19
+Date: (datetime.date(2024, 7, 23),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 24),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-24 10:00:41-04:00 to 2024-07-24 19:16:19-04:00, duration: 0 days 09:15:38
+Date: (datetime.date(2024, 7, 24),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 29),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-07-29 12:53:59-04:00 to 2024-07-29 17:24:17-04:00, duration: 0 days 04:30:18
+Date: (datetime.date(2024, 7, 29),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 30),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-07-30 10:25:26-04:00 to 2024-07-30 19:26:03-04:00, duration: 0 days 09:00:37
+Date: (datetime.date(2024, 7, 30),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 31),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-31 08:56:58-04:00 to 2024-07-31 19:42:41-04:00, duration: 0 days 10:45:43
+    Demand exceeded D0 from 2024-07-31 19:57:42-04:00 to 2024-07-31 20:42:45-04:00, duration: 0 days 00:45:03
+Date: (datetime.date(2024, 7, 31),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 1),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-01 08:58:35-04:00 to 2024-08-01 23:59:36-04:00, duration: 0 days 15:01:01
+Date: (datetime.date(2024, 8, 1),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-01 00:12:47-04:00 to 2024-08-01 08:43:22-04:00, duration: 0 days 08:30:35
+    Demand exceeded D0 from 2024-08-01 15:13:48-04:00 to 2024-08-01 15:28:49-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-01 16:28:53-04:00 to 2024-08-01 16:58:55-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-01 17:13:56-04:00 to 2024-08-01 17:28:57-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-01 18:29:01-04:00 to 2024-08-01 23:59:24-04:00, duration: 0 days 05:30:23
+Date: (datetime.date(2024, 8, 2),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-02 08:30:10-04:00 to 2024-08-02 19:00:53-04:00, duration: 0 days 10:30:43
+    Demand exceeded D0 from 2024-08-02 20:00:57-04:00 to 2024-08-02 23:46:12-04:00, duration: 0 days 03:45:15
+Date: (datetime.date(2024, 8, 2),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-02 00:14:25-04:00 to 2024-08-02 08:14:57-04:00, duration: 0 days 08:00:32
+    Demand exceeded D0 from 2024-08-02 09:00:00-04:00 to 2024-08-02 14:45:23-04:00, duration: 0 days 05:45:23
+    Demand exceeded D0 from 2024-08-02 15:15:25-04:00 to 2024-08-02 23:46:00-04:00, duration: 0 days 08:30:35
+Date: (datetime.date(2024, 8, 3),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-03 10:31:56-04:00 to 2024-08-03 11:01:58-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-03 11:47:01-04:00 to 2024-08-03 12:17:03-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-03 15:47:17-04:00 to 2024-08-03 18:02:26-04:00, duration: 0 days 02:15:09
+Date: (datetime.date(2024, 8, 3),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-03 00:01:01-04:00 to 2024-08-03 08:01:33-04:00, duration: 0 days 08:00:32
+    Demand exceeded D0 from 2024-08-03 12:46:53-04:00 to 2024-08-03 13:16:55-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-03 16:32:08-04:00 to 2024-08-03 17:17:11-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-03 17:47:13-04:00 to 2024-08-03 18:02:14-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-03 18:17:15-04:00 to 2024-08-03 23:47:37-04:00, duration: 0 days 05:30:22
+Date: (datetime.date(2024, 8, 4),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-04 12:33:41-04:00 to 2024-08-04 14:03:47-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-08-04 14:18:48-04:00 to 2024-08-04 16:18:56-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 8, 4),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-04 00:02:38-04:00 to 2024-08-04 06:18:04-04:00, duration: 0 days 06:15:26
+    Demand exceeded D0 from 2024-08-04 19:48:58-04:00 to 2024-08-04 23:49:15-04:00, duration: 0 days 04:00:17
+Date: (datetime.date(2024, 8, 5),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-05 11:35:14-04:00 to 2024-08-05 19:05:45-04:00, duration: 0 days 07:30:31
+    Demand exceeded D0 from 2024-08-05 20:50:52-04:00 to 2024-08-05 22:05:57-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 8, 5),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-05 00:04:16-04:00 to 2024-08-05 04:49:35-04:00, duration: 0 days 04:45:19
+    Demand exceeded D0 from 2024-08-05 05:19:37-04:00 to 2024-08-05 06:49:43-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-08-05 08:04:48-04:00 to 2024-08-05 08:49:51-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-05 09:49:55-04:00 to 2024-08-05 10:34:58-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-05 12:50:07-04:00 to 2024-08-05 13:20:09-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-05 14:20:13-04:00 to 2024-08-05 14:35:14-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-05 16:05:21-04:00 to 2024-08-05 16:35:23-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-05 16:50:24-04:00 to 2024-08-05 23:50:52-04:00, duration: 0 days 07:00:28
+Date: (datetime.date(2024, 8, 6),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 6),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-06 00:05:53-04:00 to 2024-08-06 14:51:53-04:00, duration: 0 days 14:46:00
+    Demand exceeded D0 from 2024-08-06 16:06:58-04:00 to 2024-08-06 16:21:59-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-06 17:52:05-04:00 to 2024-08-06 23:52:29-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 8, 7),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 7),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-07 00:07:30-04:00 to 2024-08-07 00:22:31-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-07 19:23:48-04:00 to 2024-08-07 23:54:07-04:00, duration: 0 days 04:30:19
+Date: (datetime.date(2024, 8, 8),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-08 10:55:03-04:00 to 2024-08-08 19:40:39-04:00, duration: 0 days 08:45:36
+    Demand exceeded D0 from 2024-08-08 20:25:42-04:00 to 2024-08-08 22:25:50-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 8, 8),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-08 00:09:08-04:00 to 2024-08-08 00:54:11-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-08 10:39:50-04:00 to 2024-08-08 10:54:51-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-08 11:09:52-04:00 to 2024-08-08 11:24:53-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-08 11:39:54-04:00 to 2024-08-08 12:09:56-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-08 12:24:57-04:00 to 2024-08-08 12:39:58-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-08 12:54:59-04:00 to 2024-08-08 13:40:02-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-08 13:55:03-04:00 to 2024-08-08 23:55:44-04:00, duration: 0 days 10:00:41
+Date: (datetime.date(2024, 8, 9),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-09 07:56:28-04:00 to 2024-08-09 08:11:29-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-09 10:26:38-04:00 to 2024-08-09 19:42:16-04:00, duration: 0 days 09:15:38
+    Demand exceeded D0 from 2024-08-09 20:12:18-04:00 to 2024-08-09 21:27:23-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 8, 9),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-09 00:10:45-04:00 to 2024-08-09 14:11:42-04:00, duration: 0 days 14:00:57
+    Demand exceeded D0 from 2024-08-09 14:26:43-04:00 to 2024-08-09 15:11:46-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-09 15:26:47-04:00 to 2024-08-09 15:56:49-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-09 16:26:51-04:00 to 2024-08-09 17:56:57-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-08-09 18:42:00-04:00 to 2024-08-09 23:57:21-04:00, duration: 0 days 05:15:21
+Date: (datetime.date(2024, 8, 10),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 10),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-10 00:12:22-04:00 to 2024-08-10 02:42:32-04:00, duration: 0 days 02:30:10
+    Demand exceeded D0 from 2024-08-10 20:43:45-04:00 to 2024-08-10 21:58:50-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 8, 11),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 11),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-11 21:15:25-04:00 to 2024-08-11 22:45:31-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 8, 12),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-12 14:16:46-04:00 to 2024-08-12 14:31:47-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 8, 12),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-12 10:46:19-04:00 to 2024-08-12 11:16:21-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-12 15:01:37-04:00 to 2024-08-12 15:16:38-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-12 15:31:39-04:00 to 2024-08-12 15:46:40-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-12 16:16:42-04:00 to 2024-08-12 16:31:43-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-12 20:01:57-04:00 to 2024-08-12 23:47:12-04:00, duration: 0 days 03:45:15
+Date: (datetime.date(2024, 8, 13),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-13 14:18:23-04:00 to 2024-08-13 15:48:29-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 8, 13),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-13 10:47:57-04:00 to 2024-08-13 11:02:58-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-13 11:33:00-04:00 to 2024-08-13 11:48:01-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-13 14:03:10-04:00 to 2024-08-13 14:18:11-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-13 14:48:13-04:00 to 2024-08-13 15:03:14-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-13 18:33:28-04:00 to 2024-08-13 23:48:49-04:00, duration: 0 days 05:15:21
+Date: (datetime.date(2024, 8, 14),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-14 10:34:45-04:00 to 2024-08-14 11:04:47-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-14 11:34:49-04:00 to 2024-08-14 18:05:15-04:00, duration: 0 days 06:30:26
+Date: (datetime.date(2024, 8, 14),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-14 00:03:50-04:00 to 2024-08-14 01:03:55-04:00, duration: 0 days 01:00:05
+    Demand exceeded D0 from 2024-08-14 19:20:09-04:00 to 2024-08-14 22:50:23-04:00, duration: 0 days 03:30:14
+Date: (datetime.date(2024, 8, 15),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-15 11:06:24-04:00 to 2024-08-15 11:21:25-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-15 11:36:26-04:00 to 2024-08-15 17:21:50-04:00, duration: 0 days 05:45:24
+    Demand exceeded D0 from 2024-08-15 17:36:51-04:00 to 2024-08-15 18:06:53-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 8, 15),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-15 18:21:42-04:00 to 2024-08-15 23:52:04-04:00, duration: 0 days 05:30:22
+Date: (datetime.date(2024, 8, 16),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-16 10:53:01-04:00 to 2024-08-16 16:53:25-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 8, 16),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-16 00:07:05-04:00 to 2024-08-16 03:37:19-04:00, duration: 0 days 03:30:14
+    Demand exceeded D0 from 2024-08-16 15:23:07-04:00 to 2024-08-16 15:53:09-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-16 16:38:12-04:00 to 2024-08-16 23:53:41-04:00, duration: 0 days 07:15:29
+Date: (datetime.date(2024, 8, 17),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-17 10:54:38-04:00 to 2024-08-17 17:25:04-04:00, duration: 0 days 06:30:26
+Date: (datetime.date(2024, 8, 17),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-17 00:08:42-04:00 to 2024-08-17 07:24:12-04:00, duration: 0 days 07:15:30
+    Demand exceeded D0 from 2024-08-17 12:09:31-04:00 to 2024-08-17 12:24:32-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-17 16:54:50-04:00 to 2024-08-17 23:55:19-04:00, duration: 0 days 07:00:29
+Date: (datetime.date(2024, 8, 18),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-18 11:41:18-04:00 to 2024-08-18 18:56:48-04:00, duration: 0 days 07:15:30
+    Demand exceeded D0 from 2024-08-18 20:11:53-04:00 to 2024-08-18 21:11:57-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 8, 18),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-18 00:10:20-04:00 to 2024-08-18 08:10:52-04:00, duration: 0 days 08:00:32
+    Demand exceeded D0 from 2024-08-18 10:41:02-04:00 to 2024-08-18 10:56:03-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-18 14:11:17-04:00 to 2024-08-18 14:41:19-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-18 15:26:22-04:00 to 2024-08-18 17:41:31-04:00, duration: 0 days 02:15:09
+    Demand exceeded D0 from 2024-08-18 17:56:32-04:00 to 2024-08-18 23:56:56-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 8, 19),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 19),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-19 00:11:57-04:00 to 2024-08-19 12:12:46-04:00, duration: 0 days 12:00:49
+    Demand exceeded D0 from 2024-08-19 13:12:50-04:00 to 2024-08-19 13:27:51-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-19 13:57:53-04:00 to 2024-08-19 14:12:54-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-19 14:42:56-04:00 to 2024-08-19 14:57:57-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-19 15:43:00-04:00 to 2024-08-19 16:58:05-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-08-19 17:13:06-04:00 to 2024-08-19 23:13:30-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 8, 20),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 20),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-20 13:44:29-04:00 to 2024-08-20 13:59:30-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-20 14:14:31-04:00 to 2024-08-20 14:44:33-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-20 14:59:34-04:00 to 2024-08-20 15:14:35-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-20 16:59:42-04:00 to 2024-08-20 17:14:43-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-20 19:59:54-04:00 to 2024-08-20 23:30:09-04:00, duration: 0 days 03:30:15
+Date: (datetime.date(2024, 8, 21),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 21),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-21 11:00:55-04:00 to 2024-08-21 11:45:58-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-21 13:16:04-04:00 to 2024-08-21 13:31:05-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-21 15:46:15-04:00 to 2024-08-21 16:16:17-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-21 19:31:30-04:00 to 2024-08-21 23:31:46-04:00, duration: 0 days 04:00:16
+Date: (datetime.date(2024, 8, 22),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 22),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-22 15:32:51-04:00 to 2024-08-22 15:47:52-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-22 16:17:54-04:00 to 2024-08-22 16:32:55-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-22 19:03:05-04:00 to 2024-08-22 23:48:24-04:00, duration: 0 days 04:45:19
+Date: (datetime.date(2024, 8, 23),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-23 13:19:31-04:00 to 2024-08-23 16:49:45-04:00, duration: 0 days 03:30:14
+Date: (datetime.date(2024, 8, 23),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-23 13:19:19-04:00 to 2024-08-23 13:34:20-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-23 14:19:23-04:00 to 2024-08-23 14:49:25-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-23 15:04:26-04:00 to 2024-08-23 15:19:27-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-23 15:49:29-04:00 to 2024-08-23 16:04:30-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-23 16:34:32-04:00 to 2024-08-23 17:04:34-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-23 17:49:37-04:00 to 2024-08-23 23:50:02-04:00, duration: 0 days 06:00:25
+Date: (datetime.date(2024, 8, 24),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-24 15:21:17-04:00 to 2024-08-24 17:06:24-04:00, duration: 0 days 01:45:07
+Date: (datetime.date(2024, 8, 24),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-24 00:05:03-04:00 to 2024-08-24 00:50:06-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-24 17:06:12-04:00 to 2024-08-24 17:21:13-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-24 18:06:16-04:00 to 2024-08-24 23:51:39-04:00, duration: 0 days 05:45:23
+Date: (datetime.date(2024, 8, 25),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-25 15:07:53-04:00 to 2024-08-25 18:23:06-04:00, duration: 0 days 03:15:13
+Date: (datetime.date(2024, 8, 25),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-25 00:06:40-04:00 to 2024-08-25 01:51:47-04:00, duration: 0 days 01:45:07
+    Demand exceeded D0 from 2024-08-25 14:07:37-04:00 to 2024-08-25 14:22:38-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-25 18:07:53-04:00 to 2024-08-25 23:53:16-04:00, duration: 0 days 05:45:23
+Date: (datetime.date(2024, 8, 26),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-26 09:54:09-04:00 to 2024-08-26 23:10:03-04:00, duration: 0 days 13:15:54
+Date: (datetime.date(2024, 8, 26),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-26 00:08:17-04:00 to 2024-08-26 04:23:35-04:00, duration: 0 days 04:15:18
+    Demand exceeded D0 from 2024-08-26 07:23:47-04:00 to 2024-08-26 08:23:51-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-08-26 14:39:16-04:00 to 2024-08-26 14:54:17-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-26 15:09:18-04:00 to 2024-08-26 23:54:54-04:00, duration: 0 days 08:45:36
+Date: (datetime.date(2024, 8, 27),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-27 08:55:42-04:00 to 2024-08-27 23:56:43-04:00, duration: 0 days 15:01:01
+Date: (datetime.date(2024, 8, 27),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-27 00:09:55-04:00 to 2024-08-27 09:25:32-04:00, duration: 0 days 09:15:37
+    Demand exceeded D0 from 2024-08-27 14:40:53-04:00 to 2024-08-27 23:56:31-04:00, duration: 0 days 09:15:38
+Date: (datetime.date(2024, 8, 28),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-28 00:11:44-04:00 to 2024-08-28 02:56:55-04:00, duration: 0 days 02:45:11
+    Demand exceeded D0 from 2024-08-28 05:27:05-04:00 to 2024-08-28 22:13:13-04:00, duration: 0 days 16:46:08
+Date: (datetime.date(2024, 8, 28),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-28 00:11:32-04:00 to 2024-08-28 12:12:21-04:00, duration: 0 days 12:00:49
+    Demand exceeded D0 from 2024-08-28 13:27:26-04:00 to 2024-08-28 13:42:27-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-28 14:27:30-04:00 to 2024-08-28 14:42:31-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-28 16:12:37-04:00 to 2024-08-28 23:58:08-04:00, duration: 0 days 07:45:31
+Date: (datetime.date(2024, 8, 29),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-29 11:14:06-04:00 to 2024-08-29 16:44:28-04:00, duration: 0 days 05:30:22
+    Demand exceeded D0 from 2024-08-29 20:14:42-04:00 to 2024-08-29 22:14:50-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 8, 29),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-29 00:13:09-04:00 to 2024-08-29 04:13:25-04:00, duration: 0 days 04:00:16
+    Demand exceeded D0 from 2024-08-29 04:58:29-04:00 to 2024-08-29 08:58:45-04:00, duration: 0 days 04:00:16
+    Demand exceeded D0 from 2024-08-29 09:13:46-04:00 to 2024-08-29 13:59:05-04:00, duration: 0 days 04:45:19
+    Demand exceeded D0 from 2024-08-29 14:14:06-04:00 to 2024-08-29 14:29:07-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-29 14:44:08-04:00 to 2024-08-29 23:59:46-04:00, duration: 0 days 09:15:38
+Date: (datetime.date(2024, 8, 30),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-30 09:15:35-04:00 to 2024-08-30 23:46:34-04:00, duration: 0 days 14:30:59
+Date: (datetime.date(2024, 8, 30),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-30 00:14:47-04:00 to 2024-08-30 09:15:23-04:00, duration: 0 days 09:00:36
+    Demand exceeded D0 from 2024-08-30 10:00:26-04:00 to 2024-08-30 10:15:27-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-30 10:30:28-04:00 to 2024-08-30 11:45:33-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-08-30 12:00:34-04:00 to 2024-08-30 12:15:35-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-30 12:30:36-04:00 to 2024-08-30 13:00:38-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-30 13:30:40-04:00 to 2024-08-30 13:45:41-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-30 14:00:42-04:00 to 2024-08-30 14:15:43-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-30 15:00:46-04:00 to 2024-08-30 15:30:48-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-30 16:00:50-04:00 to 2024-08-30 23:46:22-04:00, duration: 0 days 07:45:32
+Date: (datetime.date(2024, 8, 31),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-31 11:02:20-04:00 to 2024-08-31 23:18:09-04:00, duration: 0 days 12:15:49
+Date: (datetime.date(2024, 8, 31),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-31 00:01:23-04:00 to 2024-08-31 09:32:01-04:00, duration: 0 days 09:30:38
+    Demand exceeded D0 from 2024-08-31 09:47:02-04:00 to 2024-08-31 11:32:10-04:00, duration: 0 days 01:45:08
+    Demand exceeded D0 from 2024-08-31 12:32:14-04:00 to 2024-08-31 12:47:15-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-31 13:17:17-04:00 to 2024-08-31 15:02:24-04:00, duration: 0 days 01:45:07
+    Demand exceeded D0 from 2024-08-31 15:17:25-04:00 to 2024-08-31 23:47:59-04:00, duration: 0 days 08:30:34
+Date: (datetime.date(2024, 9, 6),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 6),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-06 15:42:10-04:00 to 2024-09-06 16:12:12-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-09-06 16:27:13-04:00 to 2024-09-06 17:27:17-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 9, 12),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-12 16:37:09-04:00 to 2024-09-12 17:37:13-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 9, 12),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-12 20:22:12-04:00 to 2024-09-12 21:22:16-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 9, 13),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-13 14:53:39-04:00 to 2024-09-13 16:53:47-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 9, 13),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 14),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 14),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-14 16:55:12-04:00 to 2024-09-14 18:10:17-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 9, 16),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 16),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-09-16 10:13:00-04:00 to 2024-09-16 19:58:39-04:00, duration: 0 days 09:45:39
+    Demand exceeded D0 from 2024-09-16 20:13:40-04:00 to 2024-09-16 20:43:42-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 9, 17),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 17),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-09-17 10:59:40-04:00 to 2024-09-17 19:00:13-04:00, duration: 0 days 08:00:33
+Date: (datetime.date(2024, 9, 18),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 18),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-09-18 10:16:15-04:00 to 2024-09-18 18:01:47-04:00, duration: 0 days 07:45:32
+Date: (datetime.date(2024, 9, 19),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 19),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-09-19 11:32:58-04:00 to 2024-09-19 20:03:32-04:00, duration: 0 days 08:30:34
+    Demand exceeded D0 from 2024-09-19 20:18:33-04:00 to 2024-09-19 20:48:35-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 9, 20),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 20),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-09-20 09:49:28-04:00 to 2024-09-20 18:35:03-04:00, duration: 0 days 08:45:35
+    Demand exceeded D0 from 2024-09-20 19:50:08-04:00 to 2024-09-20 20:05:09-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-09-20 20:20:10-04:00 to 2024-09-20 21:35:15-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 9, 22),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 22),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-22 16:38:10-04:00 to 2024-09-22 17:38:14-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-09-22 20:23:25-04:00 to 2024-09-22 21:08:28-04:00, duration: 0 days 00:45:03
+Date: (datetime.date(2024, 9, 23),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 23),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-23 10:39:23-04:00 to 2024-09-23 16:24:46-04:00, duration: 0 days 05:45:23
+Date: (datetime.date(2024, 9, 24),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 24),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-24 12:26:07-04:00 to 2024-09-24 12:41:08-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-09-24 12:56:09-04:00 to 2024-09-24 13:41:12-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-09-24 13:56:13-04:00 to 2024-09-24 15:41:20-04:00, duration: 0 days 01:45:07
+Date: (datetime.date(2024, 9, 25),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 25),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-25 12:57:47-04:00 to 2024-09-25 13:27:49-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-09-25 13:57:51-04:00 to 2024-09-25 16:43:02-04:00, duration: 0 days 02:45:11
+Date: (datetime.date(2024, 9, 26),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 26),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-26 11:14:17-04:00 to 2024-09-26 17:14:41-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 9, 27),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-09-27 12:01:08-04:00 to 2024-09-27 23:16:54-04:00, duration: 0 days 11:15:46
+Date: (datetime.date(2024, 9, 27),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-27 11:00:53-04:00 to 2024-09-27 11:45:56-04:00, duration: 0 days 00:45:03
+Date: (datetime.date(2024, 4, 3),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-03 13:08:34-04:00 to 2024-04-03 13:38:36-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-04-03 15:08:42-04:00 to 2024-04-03 15:23:43-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 3),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-04-03 13:08:09-04:00 to 2024-04-03 14:23:14-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-04-03 14:38:15-04:00 to 2024-04-03 15:38:19-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-04-03 16:23:22-04:00 to 2024-04-03 16:38:23-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 9),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-09 16:18:30-04:00 to 2024-04-09 23:03:58-04:00, duration: 0 days 06:45:28
+Date: (datetime.date(2024, 4, 9),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-04-09 21:33:27-04:00 to 2024-04-09 21:48:28-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 10),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-10 09:04:38-04:00 to 2024-04-10 14:04:58-04:00, duration: 0 days 05:00:20
+Date: (datetime.date(2024, 4, 10),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-10 14:04:33-04:00 to 2024-04-10 15:19:39-04:00, duration: 0 days 01:15:06
+    Demand exceeded D0 from 2024-04-10 16:49:45-04:00 to 2024-04-10 23:50:13-04:00, duration: 0 days 07:00:28
+Date: (datetime.date(2024, 4, 11),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 11),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-11 00:05:14-04:00 to 2024-04-11 01:05:18-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-04-11 08:05:46-04:00 to 2024-04-11 08:20:47-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-11 09:20:52-04:00 to 2024-04-11 23:51:50-04:00, duration: 0 days 14:30:58
+Date: (datetime.date(2024, 4, 12),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 12),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-12 00:36:53-04:00 to 2024-04-12 04:37:10-04:00, duration: 0 days 04:00:17
+    Demand exceeded D0 from 2024-04-12 05:22:13-04:00 to 2024-04-12 07:22:21-04:00, duration: 0 days 02:00:08
+    Demand exceeded D0 from 2024-04-12 08:37:26-04:00 to 2024-04-12 10:37:34-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 4, 14),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 14),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-14 15:26:08-04:00 to 2024-04-14 15:41:09-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 16),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 16),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-16 20:14:42-04:00 to 2024-04-16 21:14:46-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 4, 17),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 17),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-04-17 13:15:51-04:00 to 2024-04-17 13:30:52-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 18),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-18 10:47:43-04:00 to 2024-04-18 11:17:45-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-04-18 13:32:54-04:00 to 2024-04-18 13:47:55-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-18 14:02:56-04:00 to 2024-04-18 15:48:03-04:00, duration: 0 days 01:45:07
+Date: (datetime.date(2024, 4, 18),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-18 15:17:36-04:00 to 2024-04-18 16:02:39-04:00, duration: 0 days 00:45:03
+Date: (datetime.date(2024, 4, 19),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-19 15:04:37-04:00 to 2024-04-19 15:34:39-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-04-19 16:49:44-04:00 to 2024-04-19 17:19:47-04:00, duration: 0 days 00:30:03
+Date: (datetime.date(2024, 4, 19),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-04-19 16:34:18-04:00 to 2024-04-19 16:49:19-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 4, 23),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-23 14:59:19-04:00 to 2024-04-23 15:14:21-04:00, duration: 0 days 00:15:02
+    Demand exceeded D0 from 2024-04-23 15:44:25-04:00 to 2024-04-23 20:30:02-04:00, duration: 0 days 04:45:37
+Date: (datetime.date(2024, 4, 23),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-23 19:44:56-04:00 to 2024-04-23 20:30:02-04:00, duration: 0 days 00:45:06
+    Demand exceeded D0 from 2024-04-23 20:45:03-04:00 to 2024-04-23 21:00:05-04:00, duration: 0 days 00:15:02
+Date: (datetime.date(2024, 4, 24),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 24),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-24 11:31:04-04:00 to 2024-04-24 11:46:05-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-24 14:01:34-04:00 to 2024-04-24 14:31:37-04:00, duration: 0 days 00:30:03
+Date: (datetime.date(2024, 4, 25),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 25),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-25 20:50:15-04:00 to 2024-04-25 21:20:17-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 4, 26),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 26),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-26 20:21:52-04:00 to 2024-04-26 21:51:58-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 4, 28),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-04-28 13:09:51-04:00 to 2024-04-28 13:54:54-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-04-28 15:25:00-04:00 to 2024-04-28 16:55:06-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-04-28 18:25:12-04:00 to 2024-04-28 22:55:30-04:00, duration: 0 days 04:30:18
+Date: (datetime.date(2024, 4, 28),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-28 20:10:05-04:00 to 2024-04-28 23:25:18-04:00, duration: 0 days 03:15:13
+Date: (datetime.date(2024, 4, 29),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 29),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-29 20:26:45-04:00 to 2024-04-29 21:56:51-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 4, 30),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 4, 30),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-04-30 11:27:45-04:00 to 2024-04-30 11:42:46-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-30 13:27:53-04:00 to 2024-04-30 15:13:01-04:00, duration: 0 days 01:45:08
+    Demand exceeded D0 from 2024-04-30 17:28:10-04:00 to 2024-04-30 17:43:11-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-04-30 19:58:20-04:00 to 2024-04-30 22:13:29-04:00, duration: 0 days 02:15:09
+Date: (datetime.date(2024, 5, 1),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-01 17:45:01-04:00 to 2024-05-01 22:45:21-04:00, duration: 0 days 05:00:20
+Date: (datetime.date(2024, 5, 1),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 2),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-02 19:16:44-04:00 to 2024-05-02 20:16:48-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 5, 2),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 3),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-03 13:32:58-04:00 to 2024-05-03 13:47:59-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-03 14:18:01-04:00 to 2024-05-03 15:03:05-04:00, duration: 0 days 00:45:04
+    Demand exceeded D0 from 2024-05-03 16:18:10-04:00 to 2024-05-03 17:03:13-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-05-03 17:18:14-04:00 to 2024-05-03 17:33:15-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-03 17:48:16-04:00 to 2024-05-03 21:18:30-04:00, duration: 0 days 03:30:14
+Date: (datetime.date(2024, 5, 3),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 7),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-07 17:09:45-04:00 to 2024-05-07 17:24:46-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 5, 7),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 8),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-08 15:26:15-04:00 to 2024-05-08 16:56:21-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 5, 8),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 14),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-14 12:05:46-04:00 to 2024-05-14 12:50:49-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-05-14 13:35:52-04:00 to 2024-05-14 15:05:58-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 5, 14),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 17),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-17 12:25:39-04:00 to 2024-05-17 15:10:50-04:00, duration: 0 days 02:45:11
+    Demand exceeded D0 from 2024-05-17 15:25:51-04:00 to 2024-05-17 18:41:04-04:00, duration: 0 days 03:15:13
+Date: (datetime.date(2024, 5, 17),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 18),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-18 14:42:25-04:00 to 2024-05-18 15:12:27-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-05-18 17:42:37-04:00 to 2024-05-18 18:42:41-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-05-18 20:42:50-04:00 to 2024-05-18 22:42:58-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 5, 18),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 19),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-19 11:13:48-04:00 to 2024-05-19 11:28:49-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-19 11:43:50-04:00 to 2024-05-19 11:58:51-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-19 12:13:52-04:00 to 2024-05-19 12:28:53-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-19 12:43:54-04:00 to 2024-05-19 13:28:58-04:00, duration: 0 days 00:45:04
+    Demand exceeded D0 from 2024-05-19 14:14:01-04:00 to 2024-05-19 14:59:04-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-05-19 17:44:15-04:00 to 2024-05-19 23:29:38-04:00, duration: 0 days 05:45:23
+Date: (datetime.date(2024, 5, 19),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 20),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-20 09:45:20-04:00 to 2024-05-20 10:00:21-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-05-20 11:15:26-04:00 to 2024-05-20 12:30:31-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-05-20 12:45:32-04:00 to 2024-05-20 23:46:16-04:00, duration: 0 days 11:00:44
+Date: (datetime.date(2024, 5, 20),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 21),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-21 00:01:17-04:00 to 2024-05-21 09:46:57-04:00, duration: 0 days 09:45:40
+    Demand exceeded D0 from 2024-05-21 10:01:58-04:00 to 2024-05-21 23:47:54-04:00, duration: 0 days 13:45:56
+Date: (datetime.date(2024, 5, 21),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 22),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-22 00:02:55-04:00 to 2024-05-22 07:18:24-04:00, duration: 0 days 07:15:29
+    Demand exceeded D0 from 2024-05-22 07:33:25-04:00 to 2024-05-22 23:49:31-04:00, duration: 0 days 16:16:06
+Date: (datetime.date(2024, 5, 22),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 23),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-05-23 00:04:32-04:00 to 2024-05-23 03:49:47-04:00, duration: 0 days 03:45:15
+    Demand exceeded D0 from 2024-05-23 08:35:07-04:00 to 2024-05-23 20:20:54-04:00, duration: 0 days 11:45:47
+Date: (datetime.date(2024, 5, 23),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 24),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-24 09:06:46-04:00 to 2024-05-24 20:22:31-04:00, duration: 0 days 11:15:45
+Date: (datetime.date(2024, 5, 24),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 25),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-25 20:54:11-04:00 to 2024-05-25 22:09:17-04:00, duration: 0 days 01:15:06
+Date: (datetime.date(2024, 5, 25),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 26),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-26 13:25:19-04:00 to 2024-05-26 19:40:44-04:00, duration: 0 days 06:15:25
+    Demand exceeded D0 from 2024-05-26 19:55:45-04:00 to 2024-05-26 20:25:47-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 5, 26),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 27),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-27 09:11:39-04:00 to 2024-05-27 10:26:44-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-05-27 11:26:48-04:00 to 2024-05-27 20:27:24-04:00, duration: 0 days 09:00:36
+Date: (datetime.date(2024, 5, 27),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 28),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-05-28 09:13:16-04:00 to 2024-05-28 17:13:49-04:00, duration: 0 days 08:00:33
+Date: (datetime.date(2024, 5, 28),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 29),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-29 13:45:12-04:00 to 2024-05-29 14:15:14-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 5, 29),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 5, 31),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-05-31 14:48:30-04:00 to 2024-05-31 16:18:37-04:00, duration: 0 days 01:30:07
+    Demand exceeded D0 from 2024-05-31 16:33:38-04:00 to 2024-05-31 17:33:42-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 5, 31),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 3),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-03 10:38:05-04:00 to 2024-06-03 22:38:54-04:00, duration: 0 days 12:00:49
+Date: (datetime.date(2024, 6, 3),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 4),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-04 08:39:34-04:00 to 2024-06-04 23:55:36-04:00, duration: 0 days 15:16:02
+Date: (datetime.date(2024, 6, 4),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 5),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-05 07:26:07-04:00 to 2024-06-05 23:57:14-04:00, duration: 0 days 16:31:07
+Date: (datetime.date(2024, 6, 5),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 6),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-06 00:12:15-04:00 to 2024-06-06 04:42:33-04:00, duration: 0 days 04:30:18
+    Demand exceeded D0 from 2024-06-06 06:57:42-04:00 to 2024-06-06 20:43:38-04:00, duration: 0 days 13:45:56
+Date: (datetime.date(2024, 6, 6),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 7),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-06-07 10:14:32-04:00 to 2024-06-07 11:44:38-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-06-07 12:44:43-04:00 to 2024-06-07 14:14:49-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 6, 7),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 12),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-06-12 12:52:49-04:00 to 2024-06-12 15:38:00-04:00, duration: 0 days 02:45:11
+Date: (datetime.date(2024, 6, 12),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 13),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-13 09:39:13-04:00 to 2024-06-13 23:55:11-04:00, duration: 0 days 14:15:58
+Date: (datetime.date(2024, 6, 13),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 14),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-14 00:10:12-04:00 to 2024-06-14 01:25:17-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-06-14 08:25:46-04:00 to 2024-06-14 19:56:32-04:00, duration: 0 days 11:30:46
+Date: (datetime.date(2024, 6, 14),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 16),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-06-16 16:29:33-04:00 to 2024-06-16 20:59:51-04:00, duration: 0 days 04:30:18
+Date: (datetime.date(2024, 6, 16),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 17),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-17 07:30:33-04:00 to 2024-06-17 23:46:39-04:00, duration: 0 days 16:16:06
+Date: (datetime.date(2024, 6, 17),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 18),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-18 00:01:40-04:00 to 2024-06-18 23:48:17-04:00, duration: 0 days 23:46:37
+Date: (datetime.date(2024, 6, 18),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 19),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-19 00:03:18-04:00 to 2024-06-19 23:49:54-04:00, duration: 0 days 23:46:36
+Date: (datetime.date(2024, 6, 19),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 20),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-20 00:04:55-04:00 to 2024-06-20 23:51:31-04:00, duration: 0 days 23:46:36
+Date: (datetime.date(2024, 6, 20),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 21),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-21 00:06:32-04:00 to 2024-06-21 23:53:09-04:00, duration: 0 days 23:46:37
+Date: (datetime.date(2024, 6, 21),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 22),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-22 00:08:10-04:00 to 2024-06-22 23:54:46-04:00, duration: 0 days 23:46:36
+Date: (datetime.date(2024, 6, 22),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 23),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-23 00:09:47-04:00 to 2024-06-23 22:41:18-04:00, duration: 0 days 22:31:31
+Date: (datetime.date(2024, 6, 23),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 24),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-06-24 10:12:05-04:00 to 2024-06-24 22:42:55-04:00, duration: 0 days 12:30:50
+Date: (datetime.date(2024, 6, 24),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 25),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-25 08:43:36-04:00 to 2024-06-25 23:59:38-04:00, duration: 0 days 15:16:02
+Date: (datetime.date(2024, 6, 25),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 26),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-26 00:14:39-04:00 to 2024-06-26 19:45:58-04:00, duration: 0 days 19:31:19
+Date: (datetime.date(2024, 6, 26),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 27),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-06-27 08:46:51-04:00 to 2024-06-27 09:01:52-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-06-27 12:02:04-04:00 to 2024-06-27 17:32:26-04:00, duration: 0 days 05:30:22
+Date: (datetime.date(2024, 6, 27),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 28),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-06-28 10:33:35-04:00 to 2024-06-28 10:48:36-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-06-28 11:03:37-04:00 to 2024-06-28 11:18:38-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-06-28 13:03:46-04:00 to 2024-06-28 17:49:05-04:00, duration: 0 days 04:45:19
+    Demand exceeded D0 from 2024-06-28 21:19:20-04:00 to 2024-06-28 21:34:21-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 6, 28),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 29),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-29 09:20:08-04:00 to 2024-06-29 23:51:07-04:00, duration: 0 days 14:30:59
+Date: (datetime.date(2024, 6, 29),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 6, 30),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-06-30 00:06:08-04:00 to 2024-06-30 13:52:04-04:00, duration: 0 days 13:45:56
+Date: (datetime.date(2024, 6, 30),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 3),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-03 11:56:48-04:00 to 2024-07-03 19:27:18-04:00, duration: 0 days 07:30:30
+    Demand exceeded D0 from 2024-07-03 19:42:19-04:00 to 2024-07-03 19:57:20-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 7, 3),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 5),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-07-05 11:45:01-04:00 to 2024-07-05 12:15:03-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-07-05 14:00:11-04:00 to 2024-07-05 18:15:28-04:00, duration: 0 days 04:15:17
+Date: (datetime.date(2024, 7, 5),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 6),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-07-06 14:46:51-04:00 to 2024-07-06 16:31:58-04:00, duration: 0 days 01:45:07
+Date: (datetime.date(2024, 7, 6),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 8),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-08 11:34:52-04:00 to 2024-07-08 18:05:19-04:00, duration: 0 days 06:30:27
+Date: (datetime.date(2024, 7, 8),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 9),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-07-09 09:51:23-04:00 to 2024-07-09 22:52:15-04:00, duration: 0 days 13:00:52
+Date: (datetime.date(2024, 7, 9),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 10),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-10 10:08:01-04:00 to 2024-07-10 18:38:35-04:00, duration: 0 days 08:30:34
+Date: (datetime.date(2024, 7, 10),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 12),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-12 10:41:18-04:00 to 2024-07-12 19:11:52-04:00, duration: 0 days 08:30:34
+Date: (datetime.date(2024, 7, 12),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 15),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-07-15 09:01:02-04:00 to 2024-07-15 18:01:39-04:00, duration: 0 days 09:00:37
+    Demand exceeded D0 from 2024-07-15 18:31:41-04:00 to 2024-07-15 20:01:47-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 7, 15),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 16),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-07-16 09:47:43-04:00 to 2024-07-16 19:48:23-04:00, duration: 0 days 10:00:40
+Date: (datetime.date(2024, 7, 16),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 17),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-07-17 10:49:24-04:00 to 2024-07-17 15:19:42-04:00, duration: 0 days 04:30:18
+Date: (datetime.date(2024, 7, 17),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 22),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-22 11:42:34-04:00 to 2024-07-22 12:42:38-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-07-22 13:42:42-04:00 to 2024-07-22 17:42:58-04:00, duration: 0 days 04:00:16
+Date: (datetime.date(2024, 7, 22),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 23),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-23 10:59:08-04:00 to 2024-07-23 15:44:27-04:00, duration: 0 days 04:45:19
+Date: (datetime.date(2024, 7, 23),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 24),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-24 10:00:41-04:00 to 2024-07-24 19:16:19-04:00, duration: 0 days 09:15:38
+Date: (datetime.date(2024, 7, 24),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 29),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-07-29 12:53:59-04:00 to 2024-07-29 17:24:17-04:00, duration: 0 days 04:30:18
+Date: (datetime.date(2024, 7, 29),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 30),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-07-30 10:25:26-04:00 to 2024-07-30 19:26:03-04:00, duration: 0 days 09:00:37
+Date: (datetime.date(2024, 7, 30),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 7, 31),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-07-31 08:56:58-04:00 to 2024-07-31 19:42:41-04:00, duration: 0 days 10:45:43
+    Demand exceeded D0 from 2024-07-31 19:57:42-04:00 to 2024-07-31 20:42:45-04:00, duration: 0 days 00:45:03
+Date: (datetime.date(2024, 7, 31),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 1),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-01 08:58:35-04:00 to 2024-08-01 23:59:36-04:00, duration: 0 days 15:01:01
+Date: (datetime.date(2024, 8, 1),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-01 00:12:47-04:00 to 2024-08-01 08:43:22-04:00, duration: 0 days 08:30:35
+    Demand exceeded D0 from 2024-08-01 15:13:48-04:00 to 2024-08-01 15:28:49-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-01 16:28:53-04:00 to 2024-08-01 16:58:55-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-01 17:13:56-04:00 to 2024-08-01 17:28:57-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-01 18:29:01-04:00 to 2024-08-01 23:59:24-04:00, duration: 0 days 05:30:23
+Date: (datetime.date(2024, 8, 2),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-02 08:30:10-04:00 to 2024-08-02 19:00:53-04:00, duration: 0 days 10:30:43
+    Demand exceeded D0 from 2024-08-02 20:00:57-04:00 to 2024-08-02 23:46:12-04:00, duration: 0 days 03:45:15
+Date: (datetime.date(2024, 8, 2),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-02 00:14:25-04:00 to 2024-08-02 08:14:57-04:00, duration: 0 days 08:00:32
+    Demand exceeded D0 from 2024-08-02 09:00:00-04:00 to 2024-08-02 14:45:23-04:00, duration: 0 days 05:45:23
+    Demand exceeded D0 from 2024-08-02 15:15:25-04:00 to 2024-08-02 23:46:00-04:00, duration: 0 days 08:30:35
+Date: (datetime.date(2024, 8, 3),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-03 10:31:56-04:00 to 2024-08-03 11:01:58-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-03 11:47:01-04:00 to 2024-08-03 12:17:03-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-03 15:47:17-04:00 to 2024-08-03 18:02:26-04:00, duration: 0 days 02:15:09
+Date: (datetime.date(2024, 8, 3),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-03 00:01:01-04:00 to 2024-08-03 08:01:33-04:00, duration: 0 days 08:00:32
+    Demand exceeded D0 from 2024-08-03 12:46:53-04:00 to 2024-08-03 13:16:55-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-03 16:32:08-04:00 to 2024-08-03 17:17:11-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-03 17:47:13-04:00 to 2024-08-03 18:02:14-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-03 18:17:15-04:00 to 2024-08-03 23:47:37-04:00, duration: 0 days 05:30:22
+Date: (datetime.date(2024, 8, 4),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-04 12:33:41-04:00 to 2024-08-04 14:03:47-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-08-04 14:18:48-04:00 to 2024-08-04 16:18:56-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 8, 4),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-04 00:02:38-04:00 to 2024-08-04 06:18:04-04:00, duration: 0 days 06:15:26
+    Demand exceeded D0 from 2024-08-04 19:48:58-04:00 to 2024-08-04 23:49:15-04:00, duration: 0 days 04:00:17
+Date: (datetime.date(2024, 8, 5),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-05 11:35:14-04:00 to 2024-08-05 19:05:45-04:00, duration: 0 days 07:30:31
+    Demand exceeded D0 from 2024-08-05 20:50:52-04:00 to 2024-08-05 22:05:57-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 8, 5),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-05 00:04:16-04:00 to 2024-08-05 04:49:35-04:00, duration: 0 days 04:45:19
+    Demand exceeded D0 from 2024-08-05 05:19:37-04:00 to 2024-08-05 06:49:43-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-08-05 08:04:48-04:00 to 2024-08-05 08:49:51-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-05 09:49:55-04:00 to 2024-08-05 10:34:58-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-05 12:50:07-04:00 to 2024-08-05 13:20:09-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-05 14:20:13-04:00 to 2024-08-05 14:35:14-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-05 16:05:21-04:00 to 2024-08-05 16:35:23-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-05 16:50:24-04:00 to 2024-08-05 23:50:52-04:00, duration: 0 days 07:00:28
+Date: (datetime.date(2024, 8, 6),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 6),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-06 00:05:53-04:00 to 2024-08-06 14:51:53-04:00, duration: 0 days 14:46:00
+    Demand exceeded D0 from 2024-08-06 16:06:58-04:00 to 2024-08-06 16:21:59-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-06 17:52:05-04:00 to 2024-08-06 23:52:29-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 8, 7),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 7),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-07 00:07:30-04:00 to 2024-08-07 00:22:31-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-07 19:23:48-04:00 to 2024-08-07 23:54:07-04:00, duration: 0 days 04:30:19
+Date: (datetime.date(2024, 8, 8),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-08 10:55:03-04:00 to 2024-08-08 19:40:39-04:00, duration: 0 days 08:45:36
+    Demand exceeded D0 from 2024-08-08 20:25:42-04:00 to 2024-08-08 22:25:50-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 8, 8),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-08 00:09:08-04:00 to 2024-08-08 00:54:11-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-08 10:39:50-04:00 to 2024-08-08 10:54:51-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-08 11:09:52-04:00 to 2024-08-08 11:24:53-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-08 11:39:54-04:00 to 2024-08-08 12:09:56-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-08 12:24:57-04:00 to 2024-08-08 12:39:58-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-08 12:54:59-04:00 to 2024-08-08 13:40:02-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-08 13:55:03-04:00 to 2024-08-08 23:55:44-04:00, duration: 0 days 10:00:41
+Date: (datetime.date(2024, 8, 9),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-09 07:56:28-04:00 to 2024-08-09 08:11:29-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-09 10:26:38-04:00 to 2024-08-09 19:42:16-04:00, duration: 0 days 09:15:38
+    Demand exceeded D0 from 2024-08-09 20:12:18-04:00 to 2024-08-09 21:27:23-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 8, 9),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-09 00:10:45-04:00 to 2024-08-09 14:11:42-04:00, duration: 0 days 14:00:57
+    Demand exceeded D0 from 2024-08-09 14:26:43-04:00 to 2024-08-09 15:11:46-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-09 15:26:47-04:00 to 2024-08-09 15:56:49-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-09 16:26:51-04:00 to 2024-08-09 17:56:57-04:00, duration: 0 days 01:30:06
+    Demand exceeded D0 from 2024-08-09 18:42:00-04:00 to 2024-08-09 23:57:21-04:00, duration: 0 days 05:15:21
+Date: (datetime.date(2024, 8, 10),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 10),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-10 00:12:22-04:00 to 2024-08-10 02:42:32-04:00, duration: 0 days 02:30:10
+    Demand exceeded D0 from 2024-08-10 20:43:45-04:00 to 2024-08-10 21:58:50-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 8, 11),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 11),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-11 21:15:25-04:00 to 2024-08-11 22:45:31-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 8, 12),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-12 14:16:46-04:00 to 2024-08-12 14:31:47-04:00, duration: 0 days 00:15:01
+Date: (datetime.date(2024, 8, 12),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-12 10:46:19-04:00 to 2024-08-12 11:16:21-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-12 15:01:37-04:00 to 2024-08-12 15:16:38-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-12 15:31:39-04:00 to 2024-08-12 15:46:40-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-12 16:16:42-04:00 to 2024-08-12 16:31:43-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-12 20:01:57-04:00 to 2024-08-12 23:47:12-04:00, duration: 0 days 03:45:15
+Date: (datetime.date(2024, 8, 13),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-13 14:18:23-04:00 to 2024-08-13 15:48:29-04:00, duration: 0 days 01:30:06
+Date: (datetime.date(2024, 8, 13),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-13 10:47:57-04:00 to 2024-08-13 11:02:58-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-13 11:33:00-04:00 to 2024-08-13 11:48:01-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-13 14:03:10-04:00 to 2024-08-13 14:18:11-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-13 14:48:13-04:00 to 2024-08-13 15:03:14-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-13 18:33:28-04:00 to 2024-08-13 23:48:49-04:00, duration: 0 days 05:15:21
+Date: (datetime.date(2024, 8, 14),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-14 10:34:45-04:00 to 2024-08-14 11:04:47-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-14 11:34:49-04:00 to 2024-08-14 18:05:15-04:00, duration: 0 days 06:30:26
+Date: (datetime.date(2024, 8, 14),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-14 00:03:50-04:00 to 2024-08-14 01:03:55-04:00, duration: 0 days 01:00:05
+    Demand exceeded D0 from 2024-08-14 19:20:09-04:00 to 2024-08-14 22:50:23-04:00, duration: 0 days 03:30:14
+Date: (datetime.date(2024, 8, 15),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-15 11:06:24-04:00 to 2024-08-15 11:21:25-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-15 11:36:26-04:00 to 2024-08-15 17:21:50-04:00, duration: 0 days 05:45:24
+    Demand exceeded D0 from 2024-08-15 17:36:51-04:00 to 2024-08-15 18:06:53-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 8, 15),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-15 18:21:42-04:00 to 2024-08-15 23:52:04-04:00, duration: 0 days 05:30:22
+Date: (datetime.date(2024, 8, 16),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-16 10:53:01-04:00 to 2024-08-16 16:53:25-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 8, 16),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-16 00:07:05-04:00 to 2024-08-16 03:37:19-04:00, duration: 0 days 03:30:14
+    Demand exceeded D0 from 2024-08-16 15:23:07-04:00 to 2024-08-16 15:53:09-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-16 16:38:12-04:00 to 2024-08-16 23:53:41-04:00, duration: 0 days 07:15:29
+Date: (datetime.date(2024, 8, 17),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-17 10:54:38-04:00 to 2024-08-17 17:25:04-04:00, duration: 0 days 06:30:26
+Date: (datetime.date(2024, 8, 17),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-17 00:08:42-04:00 to 2024-08-17 07:24:12-04:00, duration: 0 days 07:15:30
+    Demand exceeded D0 from 2024-08-17 12:09:31-04:00 to 2024-08-17 12:24:32-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-17 16:54:50-04:00 to 2024-08-17 23:55:19-04:00, duration: 0 days 07:00:29
+Date: (datetime.date(2024, 8, 18),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-18 11:41:18-04:00 to 2024-08-18 18:56:48-04:00, duration: 0 days 07:15:30
+    Demand exceeded D0 from 2024-08-18 20:11:53-04:00 to 2024-08-18 21:11:57-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 8, 18),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-18 00:10:20-04:00 to 2024-08-18 08:10:52-04:00, duration: 0 days 08:00:32
+    Demand exceeded D0 from 2024-08-18 10:41:02-04:00 to 2024-08-18 10:56:03-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-18 14:11:17-04:00 to 2024-08-18 14:41:19-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-18 15:26:22-04:00 to 2024-08-18 17:41:31-04:00, duration: 0 days 02:15:09
+    Demand exceeded D0 from 2024-08-18 17:56:32-04:00 to 2024-08-18 23:56:56-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 8, 19),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 19),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-19 00:11:57-04:00 to 2024-08-19 12:12:46-04:00, duration: 0 days 12:00:49
+    Demand exceeded D0 from 2024-08-19 13:12:50-04:00 to 2024-08-19 13:27:51-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-19 13:57:53-04:00 to 2024-08-19 14:12:54-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-19 14:42:56-04:00 to 2024-08-19 14:57:57-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-19 15:43:00-04:00 to 2024-08-19 16:58:05-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-08-19 17:13:06-04:00 to 2024-08-19 23:13:30-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 8, 20),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 20),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-20 13:44:29-04:00 to 2024-08-20 13:59:30-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-20 14:14:31-04:00 to 2024-08-20 14:44:33-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-20 14:59:34-04:00 to 2024-08-20 15:14:35-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-20 16:59:42-04:00 to 2024-08-20 17:14:43-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-20 19:59:54-04:00 to 2024-08-20 23:30:09-04:00, duration: 0 days 03:30:15
+Date: (datetime.date(2024, 8, 21),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 21),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-21 11:00:55-04:00 to 2024-08-21 11:45:58-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-21 13:16:04-04:00 to 2024-08-21 13:31:05-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-21 15:46:15-04:00 to 2024-08-21 16:16:17-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-21 19:31:30-04:00 to 2024-08-21 23:31:46-04:00, duration: 0 days 04:00:16
+Date: (datetime.date(2024, 8, 22),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 8, 22),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-22 15:32:51-04:00 to 2024-08-22 15:47:52-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-22 16:17:54-04:00 to 2024-08-22 16:32:55-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-22 19:03:05-04:00 to 2024-08-22 23:48:24-04:00, duration: 0 days 04:45:19
+Date: (datetime.date(2024, 8, 23),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-23 13:19:31-04:00 to 2024-08-23 16:49:45-04:00, duration: 0 days 03:30:14
+Date: (datetime.date(2024, 8, 23),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-23 13:19:19-04:00 to 2024-08-23 13:34:20-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-23 14:19:23-04:00 to 2024-08-23 14:49:25-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-23 15:04:26-04:00 to 2024-08-23 15:19:27-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-23 15:49:29-04:00 to 2024-08-23 16:04:30-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-23 16:34:32-04:00 to 2024-08-23 17:04:34-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-23 17:49:37-04:00 to 2024-08-23 23:50:02-04:00, duration: 0 days 06:00:25
+Date: (datetime.date(2024, 8, 24),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-24 15:21:17-04:00 to 2024-08-24 17:06:24-04:00, duration: 0 days 01:45:07
+Date: (datetime.date(2024, 8, 24),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-24 00:05:03-04:00 to 2024-08-24 00:50:06-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-08-24 17:06:12-04:00 to 2024-08-24 17:21:13-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-24 18:06:16-04:00 to 2024-08-24 23:51:39-04:00, duration: 0 days 05:45:23
+Date: (datetime.date(2024, 8, 25),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-08-25 15:07:53-04:00 to 2024-08-25 18:23:06-04:00, duration: 0 days 03:15:13
+Date: (datetime.date(2024, 8, 25),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-25 00:06:40-04:00 to 2024-08-25 01:51:47-04:00, duration: 0 days 01:45:07
+    Demand exceeded D0 from 2024-08-25 14:07:37-04:00 to 2024-08-25 14:22:38-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-25 18:07:53-04:00 to 2024-08-25 23:53:16-04:00, duration: 0 days 05:45:23
+Date: (datetime.date(2024, 8, 26),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-26 09:54:09-04:00 to 2024-08-26 23:10:03-04:00, duration: 0 days 13:15:54
+Date: (datetime.date(2024, 8, 26),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-26 00:08:17-04:00 to 2024-08-26 04:23:35-04:00, duration: 0 days 04:15:18
+    Demand exceeded D0 from 2024-08-26 07:23:47-04:00 to 2024-08-26 08:23:51-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-08-26 14:39:16-04:00 to 2024-08-26 14:54:17-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-26 15:09:18-04:00 to 2024-08-26 23:54:54-04:00, duration: 0 days 08:45:36
+Date: (datetime.date(2024, 8, 27),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-27 08:55:42-04:00 to 2024-08-27 23:56:43-04:00, duration: 0 days 15:01:01
+Date: (datetime.date(2024, 8, 27),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-27 00:09:55-04:00 to 2024-08-27 09:25:32-04:00, duration: 0 days 09:15:37
+    Demand exceeded D0 from 2024-08-27 14:40:53-04:00 to 2024-08-27 23:56:31-04:00, duration: 0 days 09:15:38
+Date: (datetime.date(2024, 8, 28),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-28 00:11:44-04:00 to 2024-08-28 02:56:55-04:00, duration: 0 days 02:45:11
+    Demand exceeded D0 from 2024-08-28 05:27:05-04:00 to 2024-08-28 22:13:13-04:00, duration: 0 days 16:46:08
+Date: (datetime.date(2024, 8, 28),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-28 00:11:32-04:00 to 2024-08-28 12:12:21-04:00, duration: 0 days 12:00:49
+    Demand exceeded D0 from 2024-08-28 13:27:26-04:00 to 2024-08-28 13:42:27-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-28 14:27:30-04:00 to 2024-08-28 14:42:31-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-28 16:12:37-04:00 to 2024-08-28 23:58:08-04:00, duration: 0 days 07:45:31
+Date: (datetime.date(2024, 8, 29),), Circuit: A, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-08-29 11:14:06-04:00 to 2024-08-29 16:44:28-04:00, duration: 0 days 05:30:22
+    Demand exceeded D0 from 2024-08-29 20:14:42-04:00 to 2024-08-29 22:14:50-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 8, 29),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-29 00:13:09-04:00 to 2024-08-29 04:13:25-04:00, duration: 0 days 04:00:16
+    Demand exceeded D0 from 2024-08-29 04:58:29-04:00 to 2024-08-29 08:58:45-04:00, duration: 0 days 04:00:16
+    Demand exceeded D0 from 2024-08-29 09:13:46-04:00 to 2024-08-29 13:59:05-04:00, duration: 0 days 04:45:19
+    Demand exceeded D0 from 2024-08-29 14:14:06-04:00 to 2024-08-29 14:29:07-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-29 14:44:08-04:00 to 2024-08-29 23:59:46-04:00, duration: 0 days 09:15:38
+Date: (datetime.date(2024, 8, 30),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-30 09:15:35-04:00 to 2024-08-30 23:46:34-04:00, duration: 0 days 14:30:59
+Date: (datetime.date(2024, 8, 30),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-30 00:14:47-04:00 to 2024-08-30 09:15:23-04:00, duration: 0 days 09:00:36
+    Demand exceeded D0 from 2024-08-30 10:00:26-04:00 to 2024-08-30 10:15:27-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-30 10:30:28-04:00 to 2024-08-30 11:45:33-04:00, duration: 0 days 01:15:05
+    Demand exceeded D0 from 2024-08-30 12:00:34-04:00 to 2024-08-30 12:15:35-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-30 12:30:36-04:00 to 2024-08-30 13:00:38-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-30 13:30:40-04:00 to 2024-08-30 13:45:41-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-30 14:00:42-04:00 to 2024-08-30 14:15:43-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-30 15:00:46-04:00 to 2024-08-30 15:30:48-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-08-30 16:00:50-04:00 to 2024-08-30 23:46:22-04:00, duration: 0 days 07:45:32
+Date: (datetime.date(2024, 8, 31),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-31 11:02:20-04:00 to 2024-08-31 23:18:09-04:00, duration: 0 days 12:15:49
+Date: (datetime.date(2024, 8, 31),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-08-31 00:01:23-04:00 to 2024-08-31 09:32:01-04:00, duration: 0 days 09:30:38
+    Demand exceeded D0 from 2024-08-31 09:47:02-04:00 to 2024-08-31 11:32:10-04:00, duration: 0 days 01:45:08
+    Demand exceeded D0 from 2024-08-31 12:32:14-04:00 to 2024-08-31 12:47:15-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-08-31 13:17:17-04:00 to 2024-08-31 15:02:24-04:00, duration: 0 days 01:45:07
+    Demand exceeded D0 from 2024-08-31 15:17:25-04:00 to 2024-08-31 23:47:59-04:00, duration: 0 days 08:30:34
+Date: (datetime.date(2024, 9, 6),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 6),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-06 15:42:10-04:00 to 2024-09-06 16:12:12-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-09-06 16:27:13-04:00 to 2024-09-06 17:27:17-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 9, 12),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-12 16:37:09-04:00 to 2024-09-12 17:37:13-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 9, 12),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-12 20:22:12-04:00 to 2024-09-12 21:22:16-04:00, duration: 0 days 01:00:04
+Date: (datetime.date(2024, 9, 13),), Circuit: A, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-13 14:53:39-04:00 to 2024-09-13 16:53:47-04:00, duration: 0 days 02:00:08
+Date: (datetime.date(2024, 9, 13),), Circuit: B, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 14),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 14),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-14 16:55:12-04:00 to 2024-09-14 18:10:17-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 9, 16),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 16),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-09-16 10:13:00-04:00 to 2024-09-16 19:58:39-04:00, duration: 0 days 09:45:39
+    Demand exceeded D0 from 2024-09-16 20:13:40-04:00 to 2024-09-16 20:43:42-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 9, 17),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 17),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-09-17 10:59:40-04:00 to 2024-09-17 19:00:13-04:00, duration: 0 days 08:00:33
+Date: (datetime.date(2024, 9, 18),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 18),), Circuit: B, Maximum Demand Limit Reached: D2
+    Demand exceeded D0 from 2024-09-18 10:16:15-04:00 to 2024-09-18 18:01:47-04:00, duration: 0 days 07:45:32
+Date: (datetime.date(2024, 9, 19),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 19),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-09-19 11:32:58-04:00 to 2024-09-19 20:03:32-04:00, duration: 0 days 08:30:34
+    Demand exceeded D0 from 2024-09-19 20:18:33-04:00 to 2024-09-19 20:48:35-04:00, duration: 0 days 00:30:02
+Date: (datetime.date(2024, 9, 20),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 20),), Circuit: B, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-09-20 09:49:28-04:00 to 2024-09-20 18:35:03-04:00, duration: 0 days 08:45:35
+    Demand exceeded D0 from 2024-09-20 19:50:08-04:00 to 2024-09-20 20:05:09-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-09-20 20:20:10-04:00 to 2024-09-20 21:35:15-04:00, duration: 0 days 01:15:05
+Date: (datetime.date(2024, 9, 22),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 22),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-22 16:38:10-04:00 to 2024-09-22 17:38:14-04:00, duration: 0 days 01:00:04
+    Demand exceeded D0 from 2024-09-22 20:23:25-04:00 to 2024-09-22 21:08:28-04:00, duration: 0 days 00:45:03
+Date: (datetime.date(2024, 9, 23),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 23),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-23 10:39:23-04:00 to 2024-09-23 16:24:46-04:00, duration: 0 days 05:45:23
+Date: (datetime.date(2024, 9, 24),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 24),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-24 12:26:07-04:00 to 2024-09-24 12:41:08-04:00, duration: 0 days 00:15:01
+    Demand exceeded D0 from 2024-09-24 12:56:09-04:00 to 2024-09-24 13:41:12-04:00, duration: 0 days 00:45:03
+    Demand exceeded D0 from 2024-09-24 13:56:13-04:00 to 2024-09-24 15:41:20-04:00, duration: 0 days 01:45:07
+Date: (datetime.date(2024, 9, 25),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 25),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-25 12:57:47-04:00 to 2024-09-25 13:27:49-04:00, duration: 0 days 00:30:02
+    Demand exceeded D0 from 2024-09-25 13:57:51-04:00 to 2024-09-25 16:43:02-04:00, duration: 0 days 02:45:11
+Date: (datetime.date(2024, 9, 26),), Circuit: A, Maximum Demand Limit Reached: D0
+Date: (datetime.date(2024, 9, 26),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-26 11:14:17-04:00 to 2024-09-26 17:14:41-04:00, duration: 0 days 06:00:24
+Date: (datetime.date(2024, 9, 27),), Circuit: A, Maximum Demand Limit Reached: D3
+    Demand exceeded D0 from 2024-09-27 12:01:08-04:00 to 2024-09-27 23:16:54-04:00, duration: 0 days 11:15:46
+Date: (datetime.date(2024, 9, 27),), Circuit: B, Maximum Demand Limit Reached: D1
+    Demand exceeded D0 from 2024-09-27 11:00:53-04:00 to 2024-09-27 11:45:56-04:00, duration: 0 days 00:45:03
