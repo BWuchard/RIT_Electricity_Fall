@@ -1,0 +1,1595 @@
+--- Daily Demand Report by Circuit ---
+2024-04-03 Circuit B D2 Duration: 15 minutes Start Time: 13:08 End Time: 13:23
+Date: 2024-04-03, Circuit: B
+  Total Transitions: 1
+  D1 Transitions: 0 (Avg: 0.00 minutes)
+  D2 Transitions: 1 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D2
+
+2024-04-09 Circuit A D1 Duration: 60 minutes Start Time: 16:18 End Time: 17:18
+2024-04-09 Circuit A D2 Duration: 30 minutes Start Time: 17:18 End Time: 17:48
+2024-04-09 Circuit A D3 Duration: 210 minutes Start Time: 17:48 End Time: 21:18
+2024-04-09 Circuit A D2 Duration: 15 minutes Start Time: 21:18 End Time: 21:33
+Date: 2024-04-09, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 1 (Avg: 60.00 minutes)
+  D2 Transitions: 2 (Avg: 22.50 minutes)
+  D3 Transitions: 1 (Avg: 210.00 minutes)
+  Transitions: D1, D2, D3, D2
+
+2024-04-10 Circuit B D2 Duration: 15 minutes Start Time: 14:04 End Time: 14:19
+2024-04-10 Circuit B D3 Duration: 75 minutes Start Time: 14:19 End Time: 16:49
+2024-04-10 Circuit B D1 Duration: 15 minutes Start Time: 16:49 End Time: 17:04
+2024-04-10 Circuit B D2 Duration: 45 minutes Start Time: 17:04 End Time: 17:49
+2024-04-10 Circuit B D3 Duration: 315 minutes Start Time: 17:49 End Time: 23:05
+2024-04-10 Circuit B D2 Duration: 30 minutes Start Time: 23:05 End Time: 23:35
+Date: 2024-04-10, Circuit: B
+  Total Transitions: 6
+  D1 Transitions: 1 (Avg: 15.00 minutes)
+  D2 Transitions: 3 (Avg: 30.00 minutes)
+  D3 Transitions: 2 (Avg: 195.00 minutes)
+  Transitions: D2, D3, D1, D2, D3, D2
+
+2024-04-10 Circuit A D1 Duration: 60 minutes Start Time: 09:04 End Time: 10:04
+2024-04-10 Circuit A D2 Duration: 15 minutes Start Time: 10:04 End Time: 10:19
+2024-04-10 Circuit A D1 Duration: 45 minutes Start Time: 10:19 End Time: 11:04
+2024-04-10 Circuit A D2 Duration: 15 minutes Start Time: 11:04 End Time: 11:19
+2024-04-10 Circuit A D3 Duration: 30 minutes Start Time: 11:19 End Time: 11:49
+2024-04-10 Circuit A D2 Duration: 60 minutes Start Time: 11:49 End Time: 12:34
+Date: 2024-04-10, Circuit: A
+  Total Transitions: 6
+  D1 Transitions: 2 (Avg: 52.50 minutes)
+  D2 Transitions: 3 (Avg: 30.00 minutes)
+  D3 Transitions: 1 (Avg: 30.00 minutes)
+  Transitions: D1, D2, D1, D2, D3, D2
+
+2024-04-11 Circuit B D1 Duration: 75 minutes Start Time: 00:05 End Time: 09:35
+2024-04-11 Circuit B D3 Duration: 15 minutes Start Time: 09:35 End Time: 09:50
+2024-04-11 Circuit B D2 Duration: 30 minutes Start Time: 09:50 End Time: 10:20
+2024-04-11 Circuit B D3 Duration: 15 minutes Start Time: 10:20 End Time: 10:35
+2024-04-11 Circuit B D1 Duration: 45 minutes Start Time: 10:35 End Time: 11:21
+2024-04-11 Circuit B D3 Duration: 90 minutes Start Time: 11:21 End Time: 12:51
+2024-04-11 Circuit B D1 Duration: 30 minutes Start Time: 12:51 End Time: 13:06
+2024-04-11 Circuit B D3 Duration: 660 minutes Start Time: 13:06 End Time: 23:51
+Date: 2024-04-11, Circuit: B
+  Total Transitions: 8
+  D1 Transitions: 3 (Avg: 50.00 minutes)
+  D2 Transitions: 1 (Avg: 30.00 minutes)
+  D3 Transitions: 4 (Avg: 195.00 minutes)
+  Transitions: D1, D3, D2, D3, D1, D3, D1, D3
+
+2024-04-12 Circuit B D3 Duration: 45 minutes Start Time: 00:36 End Time: 01:21
+2024-04-12 Circuit B D2 Duration: 15 minutes Start Time: 01:21 End Time: 01:36
+2024-04-12 Circuit B D1 Duration: 165 minutes Start Time: 01:36 End Time: 06:07
+2024-04-12 Circuit B D2 Duration: 15 minutes Start Time: 06:07 End Time: 06:22
+2024-04-12 Circuit B D1 Duration: 120 minutes Start Time: 06:22 End Time: 09:22
+2024-04-12 Circuit B D2 Duration: 30 minutes Start Time: 09:22 End Time: 10:22
+Date: 2024-04-12, Circuit: B
+  Total Transitions: 6
+  D1 Transitions: 2 (Avg: 142.50 minutes)
+  D2 Transitions: 3 (Avg: 20.00 minutes)
+  D3 Transitions: 1 (Avg: 45.00 minutes)
+  Transitions: D3, D2, D1, D2, D1, D2
+
+2024-04-18 Circuit B D3 Duration: 30 minutes Start Time: 15:17 End Time: 15:47
+Date: 2024-04-18, Circuit: B
+  Total Transitions: 1
+  D1 Transitions: 0 (Avg: 0.00 minutes)
+  D2 Transitions: 0 (Avg: 0.00 minutes)
+  D3 Transitions: 1 (Avg: 30.00 minutes)
+  Transitions: D3
+
+2024-04-28 Circuit A D1 Duration: 195 minutes Start Time: 13:09 End Time: 19:25
+2024-04-28 Circuit A D2 Duration: 15 minutes Start Time: 19:25 End Time: 19:40
+2024-04-28 Circuit A D1 Duration: 30 minutes Start Time: 19:40 End Time: 20:10
+2024-04-28 Circuit A D2 Duration: 45 minutes Start Time: 20:10 End Time: 20:55
+Date: 2024-04-28, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 2 (Avg: 112.50 minutes)
+  D2 Transitions: 2 (Avg: 30.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2
+
+2024-05-01 Circuit A D1 Duration: 180 minutes Start Time: 17:45 End Time: 20:45
+2024-05-01 Circuit A D2 Duration: 15 minutes Start Time: 20:45 End Time: 21:00
+Date: 2024-05-01, Circuit: A
+  Total Transitions: 2
+  D1 Transitions: 1 (Avg: 180.00 minutes)
+  D2 Transitions: 1 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2
+
+2024-05-03 Circuit A D1 Duration: 75 minutes Start Time: 13:32 End Time: 16:18
+2024-05-03 Circuit A D3 Duration: 15 minutes Start Time: 16:18 End Time: 16:33
+2024-05-03 Circuit A D2 Duration: 30 minutes Start Time: 16:33 End Time: 16:48
+2024-05-03 Circuit A D1 Duration: 45 minutes Start Time: 16:48 End Time: 18:03
+2024-05-03 Circuit A D2 Duration: 30 minutes Start Time: 18:03 End Time: 18:18
+2024-05-03 Circuit A D1 Duration: 120 minutes Start Time: 18:18 End Time: 19:48
+2024-05-03 Circuit A D2 Duration: 60 minutes Start Time: 19:48 End Time: 20:33
+Date: 2024-05-03, Circuit: A
+  Total Transitions: 7
+  D1 Transitions: 3 (Avg: 80.00 minutes)
+  D2 Transitions: 3 (Avg: 40.00 minutes)
+  D3 Transitions: 1 (Avg: 15.00 minutes)
+  Transitions: D1, D3, D2, D1, D2, D1, D2
+
+2024-05-17 Circuit A D3 Duration: 15 minutes Start Time: 12:25 End Time: 12:40
+2024-05-17 Circuit A D2 Duration: 15 minutes Start Time: 12:40 End Time: 12:55
+2024-05-17 Circuit A D1 Duration: 90 minutes Start Time: 12:55 End Time: 14:25
+2024-05-17 Circuit A D2 Duration: 30 minutes Start Time: 14:25 End Time: 14:55
+2024-05-17 Circuit A D1 Duration: 15 minutes Start Time: 14:55 End Time: 15:25
+2024-05-17 Circuit A D2 Duration: 30 minutes Start Time: 15:25 End Time: 15:55
+2024-05-17 Circuit A D1 Duration: 45 minutes Start Time: 15:55 End Time: 16:40
+2024-05-17 Circuit A D2 Duration: 30 minutes Start Time: 16:40 End Time: 17:10
+Date: 2024-05-17, Circuit: A
+  Total Transitions: 8
+  D1 Transitions: 3 (Avg: 50.00 minutes)
+  D2 Transitions: 4 (Avg: 26.25 minutes)
+  D3 Transitions: 1 (Avg: 15.00 minutes)
+  Transitions: D3, D2, D1, D2, D1, D2, D1, D2
+
+2024-05-19 Circuit A D1 Duration: 105 minutes Start Time: 11:13 End Time: 14:29
+2024-05-19 Circuit A D2 Duration: 15 minutes Start Time: 14:29 End Time: 14:44
+2024-05-19 Circuit A D1 Duration: 75 minutes Start Time: 14:44 End Time: 18:44
+2024-05-19 Circuit A D2 Duration: 45 minutes Start Time: 18:44 End Time: 19:29
+2024-05-19 Circuit A D1 Duration: 45 minutes Start Time: 19:29 End Time: 20:14
+2024-05-19 Circuit A D2 Duration: 15 minutes Start Time: 20:14 End Time: 20:29
+2024-05-19 Circuit A D1 Duration: 15 minutes Start Time: 20:29 End Time: 20:44
+2024-05-19 Circuit A D2 Duration: 90 minutes Start Time: 20:44 End Time: 22:14
+Date: 2024-05-19, Circuit: A
+  Total Transitions: 8
+  D1 Transitions: 4 (Avg: 60.00 minutes)
+  D2 Transitions: 4 (Avg: 41.25 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-05-20 Circuit A D1 Duration: 180 minutes Start Time: 09:45 End Time: 14:15
+2024-05-20 Circuit A D3 Duration: 15 minutes Start Time: 14:15 End Time: 14:30
+2024-05-20 Circuit A D1 Duration: 60 minutes Start Time: 14:30 End Time: 15:30
+2024-05-20 Circuit A D2 Duration: 15 minutes Start Time: 15:30 End Time: 15:45
+2024-05-20 Circuit A D3 Duration: 90 minutes Start Time: 15:45 End Time: 17:15
+2024-05-20 Circuit A D2 Duration: 15 minutes Start Time: 17:15 End Time: 17:30
+2024-05-20 Circuit A D3 Duration: 15 minutes Start Time: 17:30 End Time: 17:45
+2024-05-20 Circuit A D2 Duration: 30 minutes Start Time: 17:45 End Time: 18:15
+2024-05-20 Circuit A D3 Duration: 300 minutes Start Time: 18:15 End Time: 23:16
+2024-05-20 Circuit A D2 Duration: 15 minutes Start Time: 23:16 End Time: 23:31
+2024-05-20 Circuit A D3 Duration: 15 minutes Start Time: 23:31 End Time: 23:46
+Date: 2024-05-20, Circuit: A
+  Total Transitions: 11
+  D1 Transitions: 2 (Avg: 120.00 minutes)
+  D2 Transitions: 4 (Avg: 18.75 minutes)
+  D3 Transitions: 5 (Avg: 87.00 minutes)
+  Transitions: D1, D3, D1, D2, D3, D2, D3, D2, D3, D2, D3
+
+2024-05-21 Circuit A D2 Duration: 120 minutes Start Time: 00:01 End Time: 02:01
+2024-05-21 Circuit A D1 Duration: 540 minutes Start Time: 02:01 End Time: 11:02
+2024-05-21 Circuit A D2 Duration: 15 minutes Start Time: 11:02 End Time: 11:17
+2024-05-21 Circuit A D1 Duration: 75 minutes Start Time: 11:17 End Time: 12:32
+2024-05-21 Circuit A D3 Duration: 15 minutes Start Time: 12:32 End Time: 12:47
+2024-05-21 Circuit A D1 Duration: 45 minutes Start Time: 12:47 End Time: 13:32
+2024-05-21 Circuit A D3 Duration: 15 minutes Start Time: 13:32 End Time: 13:47
+2024-05-21 Circuit A D1 Duration: 15 minutes Start Time: 13:47 End Time: 14:02
+2024-05-21 Circuit A D3 Duration: 150 minutes Start Time: 14:02 End Time: 16:17
+2024-05-21 Circuit A D2 Duration: 45 minutes Start Time: 16:17 End Time: 17:02
+2024-05-21 Circuit A D3 Duration: 45 minutes Start Time: 17:02 End Time: 17:32
+2024-05-21 Circuit A D2 Duration: 45 minutes Start Time: 17:32 End Time: 18:17
+2024-05-21 Circuit A D3 Duration: 270 minutes Start Time: 18:17 End Time: 22:47
+Date: 2024-05-21, Circuit: A
+  Total Transitions: 13
+  D1 Transitions: 4 (Avg: 168.75 minutes)
+  D2 Transitions: 4 (Avg: 56.25 minutes)
+  D3 Transitions: 5 (Avg: 99.00 minutes)
+  Transitions: D2, D1, D2, D1, D3, D1, D3, D1, D3, D2, D3, D2, D3
+
+2024-05-22 Circuit A D1 Duration: 525 minutes Start Time: 00:02 End Time: 09:03
+2024-05-22 Circuit A D2 Duration: 15 minutes Start Time: 09:03 End Time: 09:18
+2024-05-22 Circuit A D1 Duration: 90 minutes Start Time: 09:18 End Time: 10:48
+2024-05-22 Circuit A D2 Duration: 15 minutes Start Time: 10:48 End Time: 11:03
+2024-05-22 Circuit A D3 Duration: 15 minutes Start Time: 11:03 End Time: 11:18
+2024-05-22 Circuit A D1 Duration: 45 minutes Start Time: 11:18 End Time: 12:03
+2024-05-22 Circuit A D2 Duration: 45 minutes Start Time: 12:03 End Time: 12:48
+2024-05-22 Circuit A D3 Duration: 15 minutes Start Time: 12:48 End Time: 13:03
+2024-05-22 Circuit A D2 Duration: 15 minutes Start Time: 13:03 End Time: 13:18
+2024-05-22 Circuit A D3 Duration: 15 minutes Start Time: 13:18 End Time: 13:33
+2024-05-22 Circuit A D2 Duration: 15 minutes Start Time: 13:33 End Time: 13:48
+2024-05-22 Circuit A D3 Duration: 15 minutes Start Time: 13:48 End Time: 14:03
+2024-05-22 Circuit A D1 Duration: 15 minutes Start Time: 14:03 End Time: 14:18
+2024-05-22 Circuit A D2 Duration: 15 minutes Start Time: 14:18 End Time: 14:33
+2024-05-22 Circuit A D3 Duration: 90 minutes Start Time: 14:33 End Time: 16:04
+2024-05-22 Circuit A D2 Duration: 15 minutes Start Time: 16:04 End Time: 16:19
+2024-05-22 Circuit A D3 Duration: 195 minutes Start Time: 16:19 End Time: 19:34
+2024-05-22 Circuit A D2 Duration: 30 minutes Start Time: 19:34 End Time: 20:04
+Date: 2024-05-22, Circuit: A
+  Total Transitions: 18
+  D1 Transitions: 4 (Avg: 168.75 minutes)
+  D2 Transitions: 8 (Avg: 20.62 minutes)
+  D3 Transitions: 6 (Avg: 57.50 minutes)
+  Transitions: D1, D2, D1, D2, D3, D1, D2, D3, D2, D3, D2, D3, D1, D2, D3, D2, D3, D2
+
+2024-05-23 Circuit A D3 Duration: 30 minutes Start Time: 00:04 End Time: 00:34
+2024-05-23 Circuit A D2 Duration: 15 minutes Start Time: 00:34 End Time: 00:49
+2024-05-23 Circuit A D3 Duration: 15 minutes Start Time: 00:49 End Time: 01:04
+2024-05-23 Circuit A D2 Duration: 90 minutes Start Time: 01:04 End Time: 02:34
+2024-05-23 Circuit A D1 Duration: 150 minutes Start Time: 02:34 End Time: 09:50
+2024-05-23 Circuit A D2 Duration: 60 minutes Start Time: 09:50 End Time: 10:50
+2024-05-23 Circuit A D1 Duration: 15 minutes Start Time: 10:50 End Time: 11:05
+2024-05-23 Circuit A D2 Duration: 30 minutes Start Time: 11:05 End Time: 11:35
+2024-05-23 Circuit A D1 Duration: 15 minutes Start Time: 11:35 End Time: 11:50
+2024-05-23 Circuit A D2 Duration: 150 minutes Start Time: 11:50 End Time: 14:20
+2024-05-23 Circuit A D3 Duration: 15 minutes Start Time: 14:20 End Time: 14:35
+2024-05-23 Circuit A D2 Duration: 15 minutes Start Time: 14:35 End Time: 14:50
+2024-05-23 Circuit A D3 Duration: 15 minutes Start Time: 14:50 End Time: 15:05
+2024-05-23 Circuit A D2 Duration: 150 minutes Start Time: 15:05 End Time: 17:35
+Date: 2024-05-23, Circuit: A
+  Total Transitions: 14
+  D1 Transitions: 3 (Avg: 60.00 minutes)
+  D2 Transitions: 7 (Avg: 72.86 minutes)
+  D3 Transitions: 4 (Avg: 18.75 minutes)
+  Transitions: D3, D2, D3, D2, D1, D2, D1, D2, D1, D2, D3, D2, D3, D2
+
+2024-05-24 Circuit A D1 Duration: 45 minutes Start Time: 09:06 End Time: 09:51
+2024-05-24 Circuit A D2 Duration: 15 minutes Start Time: 09:51 End Time: 10:06
+2024-05-24 Circuit A D1 Duration: 75 minutes Start Time: 10:06 End Time: 11:21
+2024-05-24 Circuit A D2 Duration: 15 minutes Start Time: 11:21 End Time: 11:36
+2024-05-24 Circuit A D1 Duration: 30 minutes Start Time: 11:36 End Time: 12:06
+2024-05-24 Circuit A D2 Duration: 300 minutes Start Time: 12:06 End Time: 17:07
+2024-05-24 Circuit A D1 Duration: 15 minutes Start Time: 17:07 End Time: 17:22
+2024-05-24 Circuit A D2 Duration: 15 minutes Start Time: 17:22 End Time: 17:37
+2024-05-24 Circuit A D1 Duration: 15 minutes Start Time: 17:37 End Time: 17:52
+2024-05-24 Circuit A D2 Duration: 15 minutes Start Time: 17:52 End Time: 18:07
+Date: 2024-05-24, Circuit: A
+  Total Transitions: 10
+  D1 Transitions: 5 (Avg: 36.00 minutes)
+  D2 Transitions: 5 (Avg: 72.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-05-26 Circuit A D1 Duration: 150 minutes Start Time: 13:25 End Time: 15:55
+2024-05-26 Circuit A D2 Duration: 15 minutes Start Time: 15:55 End Time: 16:10
+Date: 2024-05-26, Circuit: A
+  Total Transitions: 2
+  D1 Transitions: 1 (Avg: 150.00 minutes)
+  D2 Transitions: 1 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2
+
+2024-05-27 Circuit A D1 Duration: 285 minutes Start Time: 09:11 End Time: 14:42
+2024-05-27 Circuit A D2 Duration: 15 minutes Start Time: 14:42 End Time: 14:57
+2024-05-27 Circuit A D1 Duration: 30 minutes Start Time: 14:57 End Time: 15:27
+2024-05-27 Circuit A D2 Duration: 15 minutes Start Time: 15:27 End Time: 15:42
+2024-05-27 Circuit A D1 Duration: 150 minutes Start Time: 15:42 End Time: 18:12
+2024-05-27 Circuit A D2 Duration: 75 minutes Start Time: 18:12 End Time: 19:12
+Date: 2024-05-27, Circuit: A
+  Total Transitions: 6
+  D1 Transitions: 3 (Avg: 155.00 minutes)
+  D2 Transitions: 3 (Avg: 35.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2
+
+2024-05-28 Circuit A D1 Duration: 225 minutes Start Time: 09:13 End Time: 12:58
+2024-05-28 Circuit A D2 Duration: 15 minutes Start Time: 12:58 End Time: 13:13
+2024-05-28 Circuit A D1 Duration: 15 minutes Start Time: 13:13 End Time: 13:28
+2024-05-28 Circuit A D2 Duration: 15 minutes Start Time: 13:28 End Time: 13:43
+Date: 2024-05-28, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 2 (Avg: 120.00 minutes)
+  D2 Transitions: 2 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2
+
+2024-06-03 Circuit A D1 Duration: 15 minutes Start Time: 10:38 End Time: 10:53
+2024-06-03 Circuit A D2 Duration: 15 minutes Start Time: 10:53 End Time: 11:08
+2024-06-03 Circuit A D1 Duration: 105 minutes Start Time: 11:08 End Time: 12:53
+2024-06-03 Circuit A D2 Duration: 120 minutes Start Time: 12:53 End Time: 14:53
+2024-06-03 Circuit A D3 Duration: 15 minutes Start Time: 14:53 End Time: 15:08
+2024-06-03 Circuit A D2 Duration: 60 minutes Start Time: 15:08 End Time: 16:08
+2024-06-03 Circuit A D3 Duration: 15 minutes Start Time: 16:08 End Time: 16:23
+2024-06-03 Circuit A D2 Duration: 30 minutes Start Time: 16:23 End Time: 16:53
+2024-06-03 Circuit A D3 Duration: 45 minutes Start Time: 16:53 End Time: 17:38
+2024-06-03 Circuit A D2 Duration: 120 minutes Start Time: 17:38 End Time: 19:38
+2024-06-03 Circuit A D1 Duration: 30 minutes Start Time: 19:38 End Time: 20:08
+2024-06-03 Circuit A D2 Duration: 15 minutes Start Time: 20:08 End Time: 20:23
+Date: 2024-06-03, Circuit: A
+  Total Transitions: 12
+  D1 Transitions: 3 (Avg: 50.00 minutes)
+  D2 Transitions: 6 (Avg: 60.00 minutes)
+  D3 Transitions: 3 (Avg: 25.00 minutes)
+  Transitions: D1, D2, D1, D2, D3, D2, D3, D2, D3, D2, D1, D2
+
+2024-06-04 Circuit A D1 Duration: 45 minutes Start Time: 08:39 End Time: 09:24
+2024-06-04 Circuit A D2 Duration: 105 minutes Start Time: 09:24 End Time: 11:09
+2024-06-04 Circuit A D3 Duration: 405 minutes Start Time: 11:09 End Time: 17:55
+2024-06-04 Circuit A D2 Duration: 30 minutes Start Time: 17:55 End Time: 18:25
+2024-06-04 Circuit A D3 Duration: 15 minutes Start Time: 18:25 End Time: 18:40
+2024-06-04 Circuit A D2 Duration: 15 minutes Start Time: 18:40 End Time: 18:55
+2024-06-04 Circuit A D3 Duration: 15 minutes Start Time: 18:55 End Time: 19:10
+2024-06-04 Circuit A D2 Duration: 30 minutes Start Time: 19:10 End Time: 19:40
+2024-06-04 Circuit A D1 Duration: 30 minutes Start Time: 19:40 End Time: 20:10
+2024-06-04 Circuit A D2 Duration: 90 minutes Start Time: 20:10 End Time: 21:40
+Date: 2024-06-04, Circuit: A
+  Total Transitions: 10
+  D1 Transitions: 2 (Avg: 37.50 minutes)
+  D2 Transitions: 5 (Avg: 54.00 minutes)
+  D3 Transitions: 3 (Avg: 145.00 minutes)
+  Transitions: D1, D2, D3, D2, D3, D2, D3, D2, D1, D2
+
+2024-06-05 Circuit A D1 Duration: 15 minutes Start Time: 07:26 End Time: 07:41
+2024-06-05 Circuit A D2 Duration: 90 minutes Start Time: 07:41 End Time: 09:11
+2024-06-05 Circuit A D3 Duration: 15 minutes Start Time: 09:11 End Time: 09:26
+2024-06-05 Circuit A D2 Duration: 15 minutes Start Time: 09:26 End Time: 09:41
+2024-06-05 Circuit A D3 Duration: 840 minutes Start Time: 09:41 End Time: 23:27
+Date: 2024-06-05, Circuit: A
+  Total Transitions: 5
+  D1 Transitions: 1 (Avg: 15.00 minutes)
+  D2 Transitions: 2 (Avg: 52.50 minutes)
+  D3 Transitions: 2 (Avg: 427.50 minutes)
+  Transitions: D1, D2, D3, D2, D3
+
+2024-06-06 Circuit A D2 Duration: 30 minutes Start Time: 00:12 End Time: 00:42
+2024-06-06 Circuit A D1 Duration: 75 minutes Start Time: 00:42 End Time: 01:57
+2024-06-06 Circuit A D2 Duration: 15 minutes Start Time: 01:57 End Time: 02:12
+2024-06-06 Circuit A D1 Duration: 285 minutes Start Time: 02:12 End Time: 09:12
+2024-06-06 Circuit A D2 Duration: 45 minutes Start Time: 09:12 End Time: 09:57
+2024-06-06 Circuit A D3 Duration: 330 minutes Start Time: 09:57 End Time: 14:43
+2024-06-06 Circuit A D2 Duration: 15 minutes Start Time: 14:43 End Time: 14:58
+2024-06-06 Circuit A D3 Duration: 30 minutes Start Time: 14:58 End Time: 15:13
+2024-06-06 Circuit A D2 Duration: 15 minutes Start Time: 15:13 End Time: 15:28
+2024-06-06 Circuit A D3 Duration: 15 minutes Start Time: 15:28 End Time: 15:43
+2024-06-06 Circuit A D2 Duration: 30 minutes Start Time: 15:43 End Time: 15:58
+2024-06-06 Circuit A D3 Duration: 15 minutes Start Time: 15:58 End Time: 16:13
+2024-06-06 Circuit A D2 Duration: 30 minutes Start Time: 16:13 End Time: 16:43
+2024-06-06 Circuit A D3 Duration: 30 minutes Start Time: 16:43 End Time: 17:13
+2024-06-06 Circuit A D2 Duration: 45 minutes Start Time: 17:13 End Time: 17:43
+Date: 2024-06-06, Circuit: A
+  Total Transitions: 15
+  D1 Transitions: 2 (Avg: 180.00 minutes)
+  D2 Transitions: 8 (Avg: 28.12 minutes)
+  D3 Transitions: 5 (Avg: 84.00 minutes)
+  Transitions: D2, D1, D2, D1, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2
+
+2024-06-13 Circuit A D2 Duration: 15 minutes Start Time: 09:39 End Time: 09:54
+2024-06-13 Circuit A D1 Duration: 30 minutes Start Time: 09:54 End Time: 10:24
+2024-06-13 Circuit A D2 Duration: 60 minutes Start Time: 10:24 End Time: 11:24
+2024-06-13 Circuit A D3 Duration: 45 minutes Start Time: 11:24 End Time: 12:09
+2024-06-13 Circuit A D2 Duration: 30 minutes Start Time: 12:09 End Time: 12:39
+2024-06-13 Circuit A D3 Duration: 195 minutes Start Time: 12:39 End Time: 15:54
+2024-06-13 Circuit A D2 Duration: 15 minutes Start Time: 15:54 End Time: 16:09
+2024-06-13 Circuit A D3 Duration: 30 minutes Start Time: 16:09 End Time: 16:39
+2024-06-13 Circuit A D2 Duration: 15 minutes Start Time: 16:39 End Time: 16:54
+2024-06-13 Circuit A D3 Duration: 30 minutes Start Time: 16:54 End Time: 17:24
+2024-06-13 Circuit A D2 Duration: 15 minutes Start Time: 17:24 End Time: 17:39
+2024-06-13 Circuit A D3 Duration: 15 minutes Start Time: 17:39 End Time: 17:54
+2024-06-13 Circuit A D2 Duration: 30 minutes Start Time: 17:54 End Time: 18:24
+2024-06-13 Circuit A D3 Duration: 15 minutes Start Time: 18:24 End Time: 18:39
+2024-06-13 Circuit A D2 Duration: 15 minutes Start Time: 18:39 End Time: 18:54
+2024-06-13 Circuit A D3 Duration: 15 minutes Start Time: 18:54 End Time: 19:09
+2024-06-13 Circuit A D2 Duration: 60 minutes Start Time: 19:09 End Time: 20:09
+2024-06-13 Circuit A D3 Duration: 30 minutes Start Time: 20:09 End Time: 20:24
+2024-06-13 Circuit A D2 Duration: 15 minutes Start Time: 20:24 End Time: 20:39
+2024-06-13 Circuit A D3 Duration: 15 minutes Start Time: 20:39 End Time: 20:54
+2024-06-13 Circuit A D2 Duration: 105 minutes Start Time: 20:54 End Time: 22:40
+Date: 2024-06-13, Circuit: A
+  Total Transitions: 21
+  D1 Transitions: 1 (Avg: 30.00 minutes)
+  D2 Transitions: 11 (Avg: 34.09 minutes)
+  D3 Transitions: 9 (Avg: 43.33 minutes)
+  Transitions: D2, D1, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2
+
+2024-06-14 Circuit A D1 Duration: 210 minutes Start Time: 00:10 End Time: 10:40
+2024-06-14 Circuit A D2 Duration: 150 minutes Start Time: 10:40 End Time: 13:11
+2024-06-14 Circuit A D3 Duration: 15 minutes Start Time: 13:11 End Time: 13:26
+2024-06-14 Circuit A D2 Duration: 45 minutes Start Time: 13:26 End Time: 14:11
+2024-06-14 Circuit A D3 Duration: 15 minutes Start Time: 14:11 End Time: 14:26
+2024-06-14 Circuit A D2 Duration: 105 minutes Start Time: 14:26 End Time: 16:11
+Date: 2024-06-14, Circuit: A
+  Total Transitions: 6
+  D1 Transitions: 1 (Avg: 210.00 minutes)
+  D2 Transitions: 3 (Avg: 100.00 minutes)
+  D3 Transitions: 2 (Avg: 15.00 minutes)
+  Transitions: D1, D2, D3, D2, D3, D2
+
+2024-06-17 Circuit A D1 Duration: 75 minutes Start Time: 07:30 End Time: 08:45
+2024-06-17 Circuit A D2 Duration: 60 minutes Start Time: 08:45 End Time: 09:45
+Date: 2024-06-17, Circuit: A
+  Total Transitions: 2
+  D1 Transitions: 1 (Avg: 75.00 minutes)
+  D2 Transitions: 1 (Avg: 60.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2
+
+2024-06-18 Circuit A D3 Duration: 45 minutes Start Time: 00:01 End Time: 00:46
+2024-06-18 Circuit A D2 Duration: 300 minutes Start Time: 00:46 End Time: 05:47
+2024-06-18 Circuit A D3 Duration: 15 minutes Start Time: 05:47 End Time: 06:02
+2024-06-18 Circuit A D2 Duration: 60 minutes Start Time: 06:02 End Time: 07:02
+Date: 2024-06-18, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 0 (Avg: 0.00 minutes)
+  D2 Transitions: 2 (Avg: 180.00 minutes)
+  D3 Transitions: 2 (Avg: 30.00 minutes)
+  Transitions: D3, D2, D3, D2
+
+2024-06-20 Circuit A D3 Duration: 165 minutes Start Time: 00:04 End Time: 02:50
+2024-06-20 Circuit A D2 Duration: 90 minutes Start Time: 02:50 End Time: 04:20
+2024-06-20 Circuit A D3 Duration: 15 minutes Start Time: 04:20 End Time: 04:35
+2024-06-20 Circuit A D2 Duration: 30 minutes Start Time: 04:35 End Time: 05:05
+2024-06-20 Circuit A D3 Duration: 15 minutes Start Time: 05:05 End Time: 05:20
+2024-06-20 Circuit A D2 Duration: 15 minutes Start Time: 05:20 End Time: 05:35
+2024-06-20 Circuit A D3 Duration: 15 minutes Start Time: 05:35 End Time: 05:50
+2024-06-20 Circuit A D2 Duration: 15 minutes Start Time: 05:50 End Time: 06:05
+2024-06-20 Circuit A D3 Duration: 1095 minutes Start Time: 06:05 End Time: 23:51
+Date: 2024-06-20, Circuit: A
+  Total Transitions: 9
+  D1 Transitions: 0 (Avg: 0.00 minutes)
+  D2 Transitions: 4 (Avg: 37.50 minutes)
+  D3 Transitions: 5 (Avg: 261.00 minutes)
+  Transitions: D3, D2, D3, D2, D3, D2, D3, D2, D3
+
+2024-06-21 Circuit A D2 Duration: 15 minutes Start Time: 00:06 End Time: 00:21
+2024-06-21 Circuit A D3 Duration: 90 minutes Start Time: 00:21 End Time: 01:36
+2024-06-21 Circuit A D2 Duration: 75 minutes Start Time: 01:36 End Time: 02:51
+2024-06-21 Circuit A D1 Duration: 30 minutes Start Time: 02:51 End Time: 03:06
+2024-06-21 Circuit A D2 Duration: 135 minutes Start Time: 03:06 End Time: 05:21
+2024-06-21 Circuit A D1 Duration: 45 minutes Start Time: 05:21 End Time: 06:06
+2024-06-21 Circuit A D2 Duration: 60 minutes Start Time: 06:06 End Time: 07:07
+2024-06-21 Circuit A D3 Duration: 1050 minutes Start Time: 07:07 End Time: 23:38
+2024-06-21 Circuit A D2 Duration: 15 minutes Start Time: 23:38 End Time: 23:53
+Date: 2024-06-21, Circuit: A
+  Total Transitions: 9
+  D1 Transitions: 2 (Avg: 37.50 minutes)
+  D2 Transitions: 5 (Avg: 60.00 minutes)
+  D3 Transitions: 2 (Avg: 570.00 minutes)
+  Transitions: D2, D3, D2, D1, D2, D1, D2, D3, D2
+
+2024-06-22 Circuit A D3 Duration: 15 minutes Start Time: 00:08 End Time: 00:23
+2024-06-22 Circuit A D2 Duration: 135 minutes Start Time: 00:23 End Time: 02:38
+2024-06-22 Circuit A D3 Duration: 45 minutes Start Time: 02:38 End Time: 03:08
+2024-06-22 Circuit A D2 Duration: 30 minutes Start Time: 03:08 End Time: 03:38
+2024-06-22 Circuit A D3 Duration: 15 minutes Start Time: 03:38 End Time: 03:53
+2024-06-22 Circuit A D2 Duration: 90 minutes Start Time: 03:53 End Time: 05:23
+Date: 2024-06-22, Circuit: A
+  Total Transitions: 6
+  D1 Transitions: 0 (Avg: 0.00 minutes)
+  D2 Transitions: 3 (Avg: 85.00 minutes)
+  D3 Transitions: 3 (Avg: 25.00 minutes)
+  Transitions: D3, D2, D3, D2, D3, D2
+
+2024-06-23 Circuit A D3 Duration: 735 minutes Start Time: 00:09 End Time: 12:25
+2024-06-23 Circuit A D2 Duration: 15 minutes Start Time: 12:25 End Time: 12:40
+2024-06-23 Circuit A D3 Duration: 375 minutes Start Time: 12:40 End Time: 18:56
+2024-06-23 Circuit A D2 Duration: 15 minutes Start Time: 18:56 End Time: 19:11
+2024-06-23 Circuit A D3 Duration: 45 minutes Start Time: 19:11 End Time: 19:56
+2024-06-23 Circuit A D2 Duration: 15 minutes Start Time: 19:56 End Time: 20:11
+2024-06-23 Circuit A D3 Duration: 45 minutes Start Time: 20:11 End Time: 20:56
+2024-06-23 Circuit A D2 Duration: 45 minutes Start Time: 20:56 End Time: 21:41
+Date: 2024-06-23, Circuit: A
+  Total Transitions: 8
+  D1 Transitions: 0 (Avg: 0.00 minutes)
+  D2 Transitions: 4 (Avg: 22.50 minutes)
+  D3 Transitions: 4 (Avg: 300.00 minutes)
+  Transitions: D3, D2, D3, D2, D3, D2, D3, D2
+
+2024-06-24 Circuit A D1 Duration: 105 minutes Start Time: 10:12 End Time: 11:57
+2024-06-24 Circuit A D2 Duration: 15 minutes Start Time: 11:57 End Time: 12:12
+2024-06-24 Circuit A D1 Duration: 60 minutes Start Time: 12:12 End Time: 13:12
+2024-06-24 Circuit A D2 Duration: 255 minutes Start Time: 13:12 End Time: 17:27
+2024-06-24 Circuit A D1 Duration: 15 minutes Start Time: 17:27 End Time: 17:42
+2024-06-24 Circuit A D2 Duration: 45 minutes Start Time: 17:42 End Time: 18:27
+Date: 2024-06-24, Circuit: A
+  Total Transitions: 6
+  D1 Transitions: 3 (Avg: 60.00 minutes)
+  D2 Transitions: 3 (Avg: 105.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2
+
+2024-06-25 Circuit A D1 Duration: 75 minutes Start Time: 08:43 End Time: 09:58
+2024-06-25 Circuit A D2 Duration: 30 minutes Start Time: 09:58 End Time: 10:28
+2024-06-25 Circuit A D3 Duration: 15 minutes Start Time: 10:28 End Time: 10:43
+2024-06-25 Circuit A D2 Duration: 75 minutes Start Time: 10:43 End Time: 11:58
+2024-06-25 Circuit A D3 Duration: 330 minutes Start Time: 11:58 End Time: 16:59
+2024-06-25 Circuit A D2 Duration: 30 minutes Start Time: 16:59 End Time: 17:14
+2024-06-25 Circuit A D3 Duration: 15 minutes Start Time: 17:14 End Time: 17:29
+2024-06-25 Circuit A D2 Duration: 45 minutes Start Time: 17:29 End Time: 18:14
+2024-06-25 Circuit A D3 Duration: 75 minutes Start Time: 18:14 End Time: 19:29
+2024-06-25 Circuit A D2 Duration: 45 minutes Start Time: 19:29 End Time: 20:14
+2024-06-25 Circuit A D3 Duration: 180 minutes Start Time: 20:14 End Time: 22:59
+2024-06-25 Circuit A D2 Duration: 45 minutes Start Time: 22:59 End Time: 23:44
+2024-06-25 Circuit A D1 Duration: 15 minutes Start Time: 23:44 End Time: 23:59
+Date: 2024-06-25, Circuit: A
+  Total Transitions: 13
+  D1 Transitions: 2 (Avg: 45.00 minutes)
+  D2 Transitions: 6 (Avg: 45.00 minutes)
+  D3 Transitions: 5 (Avg: 123.00 minutes)
+  Transitions: D1, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D1
+
+2024-06-26 Circuit A D1 Duration: 90 minutes Start Time: 00:14 End Time: 01:14
+2024-06-26 Circuit A D2 Duration: 15 minutes Start Time: 01:14 End Time: 01:29
+2024-06-26 Circuit A D1 Duration: 180 minutes Start Time: 01:29 End Time: 04:29
+2024-06-26 Circuit A D2 Duration: 15 minutes Start Time: 04:29 End Time: 04:44
+2024-06-26 Circuit A D1 Duration: 15 minutes Start Time: 04:44 End Time: 04:59
+2024-06-26 Circuit A D2 Duration: 135 minutes Start Time: 04:59 End Time: 07:15
+2024-06-26 Circuit A D3 Duration: 75 minutes Start Time: 07:15 End Time: 08:30
+2024-06-26 Circuit A D2 Duration: 30 minutes Start Time: 08:30 End Time: 09:00
+2024-06-26 Circuit A D3 Duration: 390 minutes Start Time: 09:00 End Time: 15:30
+2024-06-26 Circuit A D2 Duration: 120 minutes Start Time: 15:30 End Time: 17:30
+2024-06-26 Circuit A D1 Duration: 15 minutes Start Time: 17:30 End Time: 17:45
+2024-06-26 Circuit A D2 Duration: 15 minutes Start Time: 17:45 End Time: 18:00
+Date: 2024-06-26, Circuit: A
+  Total Transitions: 12
+  D1 Transitions: 4 (Avg: 75.00 minutes)
+  D2 Transitions: 6 (Avg: 55.00 minutes)
+  D3 Transitions: 2 (Avg: 232.50 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D3, D2, D3, D2, D1, D2
+
+2024-06-28 Circuit A D1 Duration: 120 minutes Start Time: 10:33 End Time: 14:18
+2024-06-28 Circuit A D2 Duration: 15 minutes Start Time: 14:18 End Time: 14:33
+2024-06-28 Circuit A D1 Duration: 45 minutes Start Time: 14:33 End Time: 15:18
+2024-06-28 Circuit A D2 Duration: 15 minutes Start Time: 15:18 End Time: 15:33
+Date: 2024-06-28, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 2 (Avg: 82.50 minutes)
+  D2 Transitions: 2 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2
+
+2024-06-29 Circuit A D2 Duration: 15 minutes Start Time: 09:20 End Time: 09:35
+2024-06-29 Circuit A D1 Duration: 225 minutes Start Time: 09:35 End Time: 13:20
+2024-06-29 Circuit A D2 Duration: 15 minutes Start Time: 13:20 End Time: 13:35
+2024-06-29 Circuit A D1 Duration: 90 minutes Start Time: 13:35 End Time: 15:05
+2024-06-29 Circuit A D2 Duration: 135 minutes Start Time: 15:05 End Time: 17:20
+2024-06-29 Circuit A D3 Duration: 15 minutes Start Time: 17:20 End Time: 17:35
+2024-06-29 Circuit A D2 Duration: 15 minutes Start Time: 17:35 End Time: 17:50
+2024-06-29 Circuit A D1 Duration: 15 minutes Start Time: 17:50 End Time: 18:05
+2024-06-29 Circuit A D2 Duration: 15 minutes Start Time: 18:05 End Time: 18:20
+2024-06-29 Circuit A D3 Duration: 30 minutes Start Time: 18:20 End Time: 18:50
+2024-06-29 Circuit A D2 Duration: 30 minutes Start Time: 18:50 End Time: 19:20
+2024-06-29 Circuit A D3 Duration: 15 minutes Start Time: 19:20 End Time: 19:35
+2024-06-29 Circuit A D2 Duration: 30 minutes Start Time: 19:35 End Time: 20:05
+Date: 2024-06-29, Circuit: A
+  Total Transitions: 13
+  D1 Transitions: 3 (Avg: 110.00 minutes)
+  D2 Transitions: 7 (Avg: 36.43 minutes)
+  D3 Transitions: 3 (Avg: 20.00 minutes)
+  Transitions: D2, D1, D2, D1, D2, D3, D2, D1, D2, D3, D2, D3, D2
+
+2024-06-30 Circuit A D3 Duration: 15 minutes Start Time: 00:06 End Time: 00:21
+2024-06-30 Circuit A D2 Duration: 75 minutes Start Time: 00:21 End Time: 01:36
+2024-06-30 Circuit A D1 Duration: 30 minutes Start Time: 01:36 End Time: 02:06
+2024-06-30 Circuit A D2 Duration: 120 minutes Start Time: 02:06 End Time: 04:06
+2024-06-30 Circuit A D1 Duration: 75 minutes Start Time: 04:06 End Time: 05:21
+2024-06-30 Circuit A D2 Duration: 15 minutes Start Time: 05:21 End Time: 05:36
+2024-06-30 Circuit A D1 Duration: 120 minutes Start Time: 05:36 End Time: 07:36
+2024-06-30 Circuit A D2 Duration: 105 minutes Start Time: 07:36 End Time: 09:21
+2024-06-30 Circuit A D1 Duration: 45 minutes Start Time: 09:21 End Time: 10:06
+2024-06-30 Circuit A D2 Duration: 15 minutes Start Time: 10:06 End Time: 10:21
+2024-06-30 Circuit A D1 Duration: 45 minutes Start Time: 10:21 End Time: 11:06
+2024-06-30 Circuit A D2 Duration: 15 minutes Start Time: 11:06 End Time: 11:21
+Date: 2024-06-30, Circuit: A
+  Total Transitions: 12
+  D1 Transitions: 5 (Avg: 63.00 minutes)
+  D2 Transitions: 6 (Avg: 57.50 minutes)
+  D3 Transitions: 1 (Avg: 15.00 minutes)
+  Transitions: D3, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-07-03 Circuit A D1 Duration: 180 minutes Start Time: 11:56 End Time: 14:57
+2024-07-03 Circuit A D2 Duration: 15 minutes Start Time: 14:57 End Time: 15:12
+2024-07-03 Circuit A D1 Duration: 15 minutes Start Time: 15:12 End Time: 15:27
+2024-07-03 Circuit A D2 Duration: 30 minutes Start Time: 15:27 End Time: 15:57
+Date: 2024-07-03, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 2 (Avg: 97.50 minutes)
+  D2 Transitions: 2 (Avg: 22.50 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2
+
+2024-07-08 Circuit A D1 Duration: 225 minutes Start Time: 11:34 End Time: 15:20
+2024-07-08 Circuit A D2 Duration: 30 minutes Start Time: 15:20 End Time: 15:50
+2024-07-08 Circuit A D1 Duration: 15 minutes Start Time: 15:50 End Time: 16:05
+2024-07-08 Circuit A D2 Duration: 15 minutes Start Time: 16:05 End Time: 16:20
+Date: 2024-07-08, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 2 (Avg: 120.00 minutes)
+  D2 Transitions: 2 (Avg: 22.50 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2
+
+2024-07-09 Circuit A D1 Duration: 120 minutes Start Time: 09:51 End Time: 11:51
+2024-07-09 Circuit A D2 Duration: 120 minutes Start Time: 11:51 End Time: 13:51
+2024-07-09 Circuit A D3 Duration: 45 minutes Start Time: 13:51 End Time: 14:36
+2024-07-09 Circuit A D2 Duration: 120 minutes Start Time: 14:36 End Time: 16:21
+2024-07-09 Circuit A D1 Duration: 15 minutes Start Time: 16:21 End Time: 16:36
+2024-07-09 Circuit A D2 Duration: 30 minutes Start Time: 16:36 End Time: 17:06
+2024-07-09 Circuit A D1 Duration: 30 minutes Start Time: 17:06 End Time: 17:36
+2024-07-09 Circuit A D2 Duration: 15 minutes Start Time: 17:36 End Time: 17:51
+Date: 2024-07-09, Circuit: A
+  Total Transitions: 8
+  D1 Transitions: 3 (Avg: 55.00 minutes)
+  D2 Transitions: 4 (Avg: 71.25 minutes)
+  D3 Transitions: 1 (Avg: 45.00 minutes)
+  Transitions: D1, D2, D3, D2, D1, D2, D1, D2
+
+2024-07-10 Circuit A D1 Duration: 30 minutes Start Time: 10:08 End Time: 10:38
+2024-07-10 Circuit A D2 Duration: 90 minutes Start Time: 10:38 End Time: 12:08
+2024-07-10 Circuit A D1 Duration: 15 minutes Start Time: 12:08 End Time: 12:23
+2024-07-10 Circuit A D2 Duration: 150 minutes Start Time: 12:23 End Time: 14:38
+2024-07-10 Circuit A D1 Duration: 15 minutes Start Time: 14:38 End Time: 14:53
+2024-07-10 Circuit A D2 Duration: 30 minutes Start Time: 14:53 End Time: 15:08
+Date: 2024-07-10, Circuit: A
+  Total Transitions: 6
+  D1 Transitions: 3 (Avg: 20.00 minutes)
+  D2 Transitions: 3 (Avg: 90.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2
+
+2024-07-12 Circuit A D1 Duration: 225 minutes Start Time: 10:41 End Time: 14:26
+2024-07-12 Circuit A D2 Duration: 45 minutes Start Time: 14:26 End Time: 15:11
+Date: 2024-07-12, Circuit: A
+  Total Transitions: 2
+  D1 Transitions: 1 (Avg: 225.00 minutes)
+  D2 Transitions: 1 (Avg: 45.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2
+
+2024-07-15 Circuit A D1 Duration: 90 minutes Start Time: 09:01 End Time: 10:31
+2024-07-15 Circuit A D2 Duration: 90 minutes Start Time: 10:31 End Time: 12:01
+2024-07-15 Circuit A D3 Duration: 15 minutes Start Time: 12:01 End Time: 12:16
+2024-07-15 Circuit A D2 Duration: 15 minutes Start Time: 12:16 End Time: 12:31
+2024-07-15 Circuit A D3 Duration: 60 minutes Start Time: 12:31 End Time: 13:31
+2024-07-15 Circuit A D2 Duration: 45 minutes Start Time: 13:31 End Time: 14:16
+2024-07-15 Circuit A D3 Duration: 75 minutes Start Time: 14:16 End Time: 15:31
+2024-07-15 Circuit A D2 Duration: 105 minutes Start Time: 15:31 End Time: 17:16
+Date: 2024-07-15, Circuit: A
+  Total Transitions: 8
+  D1 Transitions: 1 (Avg: 90.00 minutes)
+  D2 Transitions: 4 (Avg: 63.75 minutes)
+  D3 Transitions: 3 (Avg: 50.00 minutes)
+  Transitions: D1, D2, D3, D2, D3, D2, D3, D2
+
+2024-07-16 Circuit A D1 Duration: 60 minutes Start Time: 09:47 End Time: 10:47
+2024-07-16 Circuit A D2 Duration: 15 minutes Start Time: 10:47 End Time: 11:02
+2024-07-16 Circuit A D3 Duration: 15 minutes Start Time: 11:02 End Time: 11:17
+2024-07-16 Circuit A D2 Duration: 15 minutes Start Time: 11:17 End Time: 11:32
+2024-07-16 Circuit A D3 Duration: 15 minutes Start Time: 11:32 End Time: 11:47
+2024-07-16 Circuit A D2 Duration: 15 minutes Start Time: 11:47 End Time: 12:02
+2024-07-16 Circuit A D3 Duration: 90 minutes Start Time: 12:02 End Time: 13:32
+2024-07-16 Circuit A D2 Duration: 75 minutes Start Time: 13:32 End Time: 14:33
+2024-07-16 Circuit A D3 Duration: 15 minutes Start Time: 14:33 End Time: 14:48
+2024-07-16 Circuit A D2 Duration: 90 minutes Start Time: 14:48 End Time: 16:18
+2024-07-16 Circuit A D1 Duration: 30 minutes Start Time: 16:18 End Time: 16:48
+2024-07-16 Circuit A D2 Duration: 15 minutes Start Time: 16:48 End Time: 17:03
+Date: 2024-07-16, Circuit: A
+  Total Transitions: 12
+  D1 Transitions: 2 (Avg: 45.00 minutes)
+  D2 Transitions: 6 (Avg: 37.50 minutes)
+  D3 Transitions: 4 (Avg: 33.75 minutes)
+  Transitions: D1, D2, D3, D2, D3, D2, D3, D2, D3, D2, D1, D2
+
+2024-07-22 Circuit A D1 Duration: 120 minutes Start Time: 11:42 End Time: 14:42
+2024-07-22 Circuit A D2 Duration: 45 minutes Start Time: 14:42 End Time: 15:27
+2024-07-22 Circuit A D1 Duration: 60 minutes Start Time: 15:27 End Time: 16:27
+2024-07-22 Circuit A D2 Duration: 30 minutes Start Time: 16:27 End Time: 16:57
+Date: 2024-07-22, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 2 (Avg: 90.00 minutes)
+  D2 Transitions: 2 (Avg: 37.50 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2
+
+2024-07-23 Circuit A D1 Duration: 30 minutes Start Time: 10:59 End Time: 11:29
+2024-07-23 Circuit A D2 Duration: 15 minutes Start Time: 11:29 End Time: 11:44
+Date: 2024-07-23, Circuit: A
+  Total Transitions: 2
+  D1 Transitions: 1 (Avg: 30.00 minutes)
+  D2 Transitions: 1 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2
+
+2024-07-24 Circuit A D1 Duration: 75 minutes Start Time: 10:00 End Time: 11:15
+2024-07-24 Circuit A D2 Duration: 15 minutes Start Time: 11:15 End Time: 11:30
+2024-07-24 Circuit A D1 Duration: 30 minutes Start Time: 11:30 End Time: 12:00
+2024-07-24 Circuit A D2 Duration: 30 minutes Start Time: 12:00 End Time: 12:30
+2024-07-24 Circuit A D1 Duration: 15 minutes Start Time: 12:30 End Time: 12:45
+2024-07-24 Circuit A D2 Duration: 15 minutes Start Time: 12:45 End Time: 13:00
+2024-07-24 Circuit A D1 Duration: 15 minutes Start Time: 13:00 End Time: 13:15
+2024-07-24 Circuit A D2 Duration: 30 minutes Start Time: 13:15 End Time: 13:45
+2024-07-24 Circuit A D1 Duration: 15 minutes Start Time: 13:45 End Time: 14:00
+2024-07-24 Circuit A D2 Duration: 15 minutes Start Time: 14:00 End Time: 14:15
+Date: 2024-07-24, Circuit: A
+  Total Transitions: 10
+  D1 Transitions: 5 (Avg: 30.00 minutes)
+  D2 Transitions: 5 (Avg: 21.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-07-30 Circuit A D1 Duration: 60 minutes Start Time: 10:25 End Time: 11:25
+2024-07-30 Circuit A D2 Duration: 15 minutes Start Time: 11:25 End Time: 11:40
+2024-07-30 Circuit A D1 Duration: 15 minutes Start Time: 11:40 End Time: 11:55
+2024-07-30 Circuit A D2 Duration: 165 minutes Start Time: 11:55 End Time: 14:40
+2024-07-30 Circuit A D3 Duration: 15 minutes Start Time: 14:40 End Time: 14:55
+2024-07-30 Circuit A D2 Duration: 165 minutes Start Time: 14:55 End Time: 17:40
+2024-07-30 Circuit A D1 Duration: 30 minutes Start Time: 17:40 End Time: 18:10
+2024-07-30 Circuit A D2 Duration: 15 minutes Start Time: 18:10 End Time: 18:25
+Date: 2024-07-30, Circuit: A
+  Total Transitions: 8
+  D1 Transitions: 3 (Avg: 35.00 minutes)
+  D2 Transitions: 4 (Avg: 90.00 minutes)
+  D3 Transitions: 1 (Avg: 15.00 minutes)
+  Transitions: D1, D2, D1, D2, D3, D2, D1, D2
+
+2024-07-31 Circuit A D1 Duration: 195 minutes Start Time: 08:56 End Time: 11:57
+2024-07-31 Circuit A D2 Duration: 15 minutes Start Time: 11:57 End Time: 12:12
+2024-07-31 Circuit A D1 Duration: 30 minutes Start Time: 12:12 End Time: 12:27
+2024-07-31 Circuit A D2 Duration: 30 minutes Start Time: 12:27 End Time: 12:57
+2024-07-31 Circuit A D1 Duration: 45 minutes Start Time: 12:57 End Time: 13:42
+2024-07-31 Circuit A D2 Duration: 90 minutes Start Time: 13:42 End Time: 14:57
+2024-07-31 Circuit A D1 Duration: 30 minutes Start Time: 14:57 End Time: 15:27
+2024-07-31 Circuit A D2 Duration: 15 minutes Start Time: 15:27 End Time: 15:42
+Date: 2024-07-31, Circuit: A
+  Total Transitions: 8
+  D1 Transitions: 4 (Avg: 75.00 minutes)
+  D2 Transitions: 4 (Avg: 37.50 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-08-01 Circuit A D1 Duration: 60 minutes Start Time: 08:58 End Time: 09:58
+2024-08-01 Circuit A D2 Duration: 45 minutes Start Time: 09:58 End Time: 10:43
+2024-08-01 Circuit A D3 Duration: 525 minutes Start Time: 10:43 End Time: 18:14
+2024-08-01 Circuit A D2 Duration: 60 minutes Start Time: 18:14 End Time: 19:14
+2024-08-01 Circuit A D3 Duration: 30 minutes Start Time: 19:14 End Time: 19:29
+2024-08-01 Circuit A D2 Duration: 30 minutes Start Time: 19:29 End Time: 19:59
+2024-08-01 Circuit A D1 Duration: 15 minutes Start Time: 19:59 End Time: 20:14
+2024-08-01 Circuit A D2 Duration: 15 minutes Start Time: 20:14 End Time: 20:29
+2024-08-01 Circuit A D1 Duration: 15 minutes Start Time: 20:29 End Time: 20:44
+2024-08-01 Circuit A D2 Duration: 15 minutes Start Time: 20:44 End Time: 20:59
+Date: 2024-08-01, Circuit: A
+  Total Transitions: 10
+  D1 Transitions: 3 (Avg: 30.00 minutes)
+  D2 Transitions: 5 (Avg: 33.00 minutes)
+  D3 Transitions: 2 (Avg: 277.50 minutes)
+  Transitions: D1, D2, D3, D2, D3, D2, D1, D2, D1, D2
+
+2024-08-01 Circuit B D2 Duration: 45 minutes Start Time: 00:12 End Time: 00:42
+2024-08-01 Circuit B D3 Duration: 15 minutes Start Time: 00:42 End Time: 00:57
+2024-08-01 Circuit B D2 Duration: 135 minutes Start Time: 00:57 End Time: 02:57
+2024-08-01 Circuit B D1 Duration: 30 minutes Start Time: 02:57 End Time: 03:28
+2024-08-01 Circuit B D2 Duration: 30 minutes Start Time: 03:28 End Time: 03:58
+2024-08-01 Circuit B D1 Duration: 30 minutes Start Time: 03:58 End Time: 04:13
+2024-08-01 Circuit B D2 Duration: 15 minutes Start Time: 04:13 End Time: 04:28
+2024-08-01 Circuit B D1 Duration: 30 minutes Start Time: 04:28 End Time: 04:58
+2024-08-01 Circuit B D2 Duration: 15 minutes Start Time: 04:58 End Time: 05:13
+2024-08-01 Circuit B D1 Duration: 45 minutes Start Time: 05:13 End Time: 05:43
+2024-08-01 Circuit B D2 Duration: 45 minutes Start Time: 05:43 End Time: 06:13
+2024-08-01 Circuit B D1 Duration: 135 minutes Start Time: 06:13 End Time: 15:13
+2024-08-01 Circuit B D2 Duration: 15 minutes Start Time: 15:13 End Time: 16:28
+2024-08-01 Circuit B D1 Duration: 15 minutes Start Time: 16:28 End Time: 16:43
+2024-08-01 Circuit B D2 Duration: 90 minutes Start Time: 16:43 End Time: 18:59
+2024-08-01 Circuit B D1 Duration: 15 minutes Start Time: 18:59 End Time: 19:14
+2024-08-01 Circuit B D2 Duration: 60 minutes Start Time: 19:14 End Time: 20:14
+2024-08-01 Circuit B D3 Duration: 195 minutes Start Time: 20:14 End Time: 23:14
+2024-08-01 Circuit B D2 Duration: 30 minutes Start Time: 23:14 End Time: 23:29
+2024-08-01 Circuit B D3 Duration: 15 minutes Start Time: 23:29 End Time: 23:44
+Date: 2024-08-01, Circuit: B
+  Total Transitions: 20
+  D1 Transitions: 7 (Avg: 42.86 minutes)
+  D2 Transitions: 10 (Avg: 48.00 minutes)
+  D3 Transitions: 3 (Avg: 75.00 minutes)
+  Transitions: D2, D3, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D3, D2, D3
+
+2024-08-02 Circuit A D1 Duration: 60 minutes Start Time: 08:30 End Time: 09:30
+2024-08-02 Circuit A D2 Duration: 30 minutes Start Time: 09:30 End Time: 10:00
+2024-08-02 Circuit A D1 Duration: 15 minutes Start Time: 10:00 End Time: 10:15
+2024-08-02 Circuit A D2 Duration: 15 minutes Start Time: 10:15 End Time: 10:30
+2024-08-02 Circuit A D1 Duration: 15 minutes Start Time: 10:30 End Time: 10:45
+2024-08-02 Circuit A D2 Duration: 45 minutes Start Time: 10:45 End Time: 11:30
+2024-08-02 Circuit A D3 Duration: 30 minutes Start Time: 11:30 End Time: 12:00
+2024-08-02 Circuit A D2 Duration: 15 minutes Start Time: 12:00 End Time: 12:15
+2024-08-02 Circuit A D3 Duration: 15 minutes Start Time: 12:15 End Time: 12:30
+2024-08-02 Circuit A D2 Duration: 45 minutes Start Time: 12:30 End Time: 13:15
+2024-08-02 Circuit A D3 Duration: 45 minutes Start Time: 13:15 End Time: 14:00
+2024-08-02 Circuit A D2 Duration: 150 minutes Start Time: 14:00 End Time: 16:30
+2024-08-02 Circuit A D1 Duration: 60 minutes Start Time: 16:30 End Time: 17:30
+2024-08-02 Circuit A D2 Duration: 15 minutes Start Time: 17:30 End Time: 17:45
+Date: 2024-08-02, Circuit: A
+  Total Transitions: 14
+  D1 Transitions: 4 (Avg: 37.50 minutes)
+  D2 Transitions: 7 (Avg: 45.00 minutes)
+  D3 Transitions: 3 (Avg: 30.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D3, D2, D3, D2, D3, D2, D1, D2
+
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 00:14 End Time: 00:29
+2024-08-02 Circuit B D3 Duration: 30 minutes Start Time: 00:29 End Time: 00:44
+2024-08-02 Circuit B D2 Duration: 30 minutes Start Time: 00:44 End Time: 01:14
+2024-08-02 Circuit B D3 Duration: 15 minutes Start Time: 01:14 End Time: 01:29
+2024-08-02 Circuit B D2 Duration: 360 minutes Start Time: 01:29 End Time: 06:59
+2024-08-02 Circuit B D1 Duration: 60 minutes Start Time: 06:59 End Time: 07:59
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 07:59 End Time: 09:00
+2024-08-02 Circuit B D1 Duration: 30 minutes Start Time: 09:00 End Time: 09:30
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 09:30 End Time: 09:45
+2024-08-02 Circuit B D3 Duration: 15 minutes Start Time: 09:45 End Time: 10:00
+2024-08-02 Circuit B D2 Duration: 30 minutes Start Time: 10:00 End Time: 10:30
+2024-08-02 Circuit B D3 Duration: 15 minutes Start Time: 10:30 End Time: 10:45
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 10:45 End Time: 11:00
+2024-08-02 Circuit B D3 Duration: 15 minutes Start Time: 11:00 End Time: 11:15
+2024-08-02 Circuit B D2 Duration: 30 minutes Start Time: 11:15 End Time: 11:45
+2024-08-02 Circuit B D3 Duration: 30 minutes Start Time: 11:45 End Time: 12:15
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 12:15 End Time: 12:30
+2024-08-02 Circuit B D1 Duration: 15 minutes Start Time: 12:30 End Time: 12:45
+2024-08-02 Circuit B D3 Duration: 15 minutes Start Time: 12:45 End Time: 13:00
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 13:00 End Time: 13:15
+2024-08-02 Circuit B D3 Duration: 15 minutes Start Time: 13:15 End Time: 13:30
+2024-08-02 Circuit B D1 Duration: 15 minutes Start Time: 13:30 End Time: 13:45
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 13:45 End Time: 14:00
+2024-08-02 Circuit B D1 Duration: 15 minutes Start Time: 14:00 End Time: 14:15
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 14:15 End Time: 15:15
+2024-08-02 Circuit B D1 Duration: 30 minutes Start Time: 15:15 End Time: 15:45
+2024-08-02 Circuit B D3 Duration: 30 minutes Start Time: 15:45 End Time: 16:15
+2024-08-02 Circuit B D2 Duration: 30 minutes Start Time: 16:15 End Time: 16:45
+2024-08-02 Circuit B D3 Duration: 15 minutes Start Time: 16:45 End Time: 17:00
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 17:00 End Time: 17:15
+2024-08-02 Circuit B D1 Duration: 15 minutes Start Time: 17:15 End Time: 17:30
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 17:30 End Time: 17:45
+2024-08-02 Circuit B D1 Duration: 15 minutes Start Time: 17:45 End Time: 18:00
+2024-08-02 Circuit B D2 Duration: 15 minutes Start Time: 18:00 End Time: 18:15
+2024-08-02 Circuit B D1 Duration: 45 minutes Start Time: 18:15 End Time: 19:15
+2024-08-02 Circuit B D2 Duration: 30 minutes Start Time: 19:15 End Time: 19:45
+2024-08-02 Circuit B D1 Duration: 30 minutes Start Time: 19:45 End Time: 20:15
+2024-08-02 Circuit B D3 Duration: 135 minutes Start Time: 20:15 End Time: 22:30
+Date: 2024-08-02, Circuit: B
+  Total Transitions: 38
+  D1 Transitions: 10 (Avg: 27.00 minutes)
+  D2 Transitions: 17 (Avg: 39.71 minutes)
+  D3 Transitions: 11 (Avg: 30.00 minutes)
+  Transitions: D2, D3, D2, D3, D2, D1, D2, D1, D2, D3, D2, D3, D2, D3, D2, D3, D2, D1, D3, D2, D3, D1, D2, D1, D2, D1, D3, D2, D3, D2, D1, D2, D1, D2, D1, D2, D1, D3
+
+2024-08-03 Circuit B D2 Duration: 195 minutes Start Time: 00:01 End Time: 03:16
+2024-08-03 Circuit B D1 Duration: 60 minutes Start Time: 03:16 End Time: 04:16
+2024-08-03 Circuit B D2 Duration: 15 minutes Start Time: 04:16 End Time: 04:31
+2024-08-03 Circuit B D1 Duration: 45 minutes Start Time: 04:31 End Time: 05:16
+2024-08-03 Circuit B D2 Duration: 15 minutes Start Time: 05:16 End Time: 05:31
+2024-08-03 Circuit B D1 Duration: 30 minutes Start Time: 05:31 End Time: 06:01
+2024-08-03 Circuit B D2 Duration: 15 minutes Start Time: 06:01 End Time: 06:16
+2024-08-03 Circuit B D1 Duration: 195 minutes Start Time: 06:16 End Time: 20:17
+2024-08-03 Circuit B D2 Duration: 30 minutes Start Time: 20:17 End Time: 20:47
+2024-08-03 Circuit B D3 Duration: 15 minutes Start Time: 20:47 End Time: 21:02
+2024-08-03 Circuit B D2 Duration: 75 minutes Start Time: 21:02 End Time: 22:17
+2024-08-03 Circuit B D1 Duration: 15 minutes Start Time: 22:17 End Time: 22:32
+2024-08-03 Circuit B D2 Duration: 45 minutes Start Time: 22:32 End Time: 23:17
+Date: 2024-08-03, Circuit: B
+  Total Transitions: 13
+  D1 Transitions: 5 (Avg: 69.00 minutes)
+  D2 Transitions: 7 (Avg: 55.71 minutes)
+  D3 Transitions: 1 (Avg: 15.00 minutes)
+  Transitions: D2, D1, D2, D1, D2, D1, D2, D1, D2, D3, D2, D1, D2
+
+2024-08-04 Circuit B D1 Duration: 30 minutes Start Time: 00:02 End Time: 00:32
+2024-08-04 Circuit B D2 Duration: 15 minutes Start Time: 00:32 End Time: 00:47
+2024-08-04 Circuit B D1 Duration: 330 minutes Start Time: 00:47 End Time: 20:34
+2024-08-04 Circuit B D2 Duration: 30 minutes Start Time: 20:34 End Time: 21:04
+2024-08-04 Circuit B D1 Duration: 75 minutes Start Time: 21:04 End Time: 22:19
+2024-08-04 Circuit B D2 Duration: 15 minutes Start Time: 22:19 End Time: 22:34
+Date: 2024-08-04, Circuit: B
+  Total Transitions: 6
+  D1 Transitions: 3 (Avg: 145.00 minutes)
+  D2 Transitions: 3 (Avg: 20.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2
+
+2024-08-05 Circuit A D1 Duration: 90 minutes Start Time: 11:35 End Time: 13:05
+2024-08-05 Circuit A D2 Duration: 15 minutes Start Time: 13:05 End Time: 13:20
+2024-08-05 Circuit A D1 Duration: 15 minutes Start Time: 13:20 End Time: 13:35
+2024-08-05 Circuit A D2 Duration: 15 minutes Start Time: 13:35 End Time: 13:50
+2024-08-05 Circuit A D1 Duration: 15 minutes Start Time: 13:50 End Time: 14:05
+2024-08-05 Circuit A D2 Duration: 15 minutes Start Time: 14:05 End Time: 14:20
+2024-08-05 Circuit A D3 Duration: 15 minutes Start Time: 14:20 End Time: 14:35
+2024-08-05 Circuit A D2 Duration: 30 minutes Start Time: 14:35 End Time: 15:05
+2024-08-05 Circuit A D3 Duration: 15 minutes Start Time: 15:05 End Time: 15:20
+2024-08-05 Circuit A D2 Duration: 45 minutes Start Time: 15:20 End Time: 16:05
+2024-08-05 Circuit A D3 Duration: 15 minutes Start Time: 16:05 End Time: 16:20
+2024-08-05 Circuit A D2 Duration: 15 minutes Start Time: 16:20 End Time: 16:35
+2024-08-05 Circuit A D1 Duration: 45 minutes Start Time: 16:35 End Time: 17:20
+2024-08-05 Circuit A D2 Duration: 15 minutes Start Time: 17:20 End Time: 17:35
+Date: 2024-08-05, Circuit: A
+  Total Transitions: 14
+  D1 Transitions: 4 (Avg: 41.25 minutes)
+  D2 Transitions: 7 (Avg: 21.43 minutes)
+  D3 Transitions: 3 (Avg: 15.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D3, D2, D3, D2, D3, D2, D1, D2
+
+2024-08-05 Circuit B D1 Duration: 255 minutes Start Time: 00:04 End Time: 10:19
+2024-08-05 Circuit B D2 Duration: 30 minutes Start Time: 10:19 End Time: 13:05
+2024-08-05 Circuit B D3 Duration: 15 minutes Start Time: 13:05 End Time: 14:20
+2024-08-05 Circuit B D2 Duration: 15 minutes Start Time: 14:20 End Time: 16:05
+2024-08-05 Circuit B D3 Duration: 30 minutes Start Time: 16:05 End Time: 16:50
+2024-08-05 Circuit B D2 Duration: 15 minutes Start Time: 16:50 End Time: 17:05
+2024-08-05 Circuit B D1 Duration: 15 minutes Start Time: 17:05 End Time: 17:20
+2024-08-05 Circuit B D2 Duration: 30 minutes Start Time: 17:20 End Time: 17:50
+2024-08-05 Circuit B D1 Duration: 15 minutes Start Time: 17:50 End Time: 18:05
+2024-08-05 Circuit B D2 Duration: 30 minutes Start Time: 18:05 End Time: 18:35
+2024-08-05 Circuit B D1 Duration: 15 minutes Start Time: 18:35 End Time: 18:50
+2024-08-05 Circuit B D2 Duration: 30 minutes Start Time: 18:50 End Time: 19:20
+2024-08-05 Circuit B D1 Duration: 60 minutes Start Time: 19:20 End Time: 20:20
+2024-08-05 Circuit B D3 Duration: 45 minutes Start Time: 20:20 End Time: 21:05
+2024-08-05 Circuit B D2 Duration: 30 minutes Start Time: 21:05 End Time: 21:35
+2024-08-05 Circuit B D3 Duration: 15 minutes Start Time: 21:35 End Time: 21:50
+2024-08-05 Circuit B D2 Duration: 105 minutes Start Time: 21:50 End Time: 23:35
+2024-08-05 Circuit B D1 Duration: 15 minutes Start Time: 23:35 End Time: 23:50
+Date: 2024-08-05, Circuit: B
+  Total Transitions: 18
+  D1 Transitions: 6 (Avg: 62.50 minutes)
+  D2 Transitions: 8 (Avg: 35.62 minutes)
+  D3 Transitions: 4 (Avg: 26.25 minutes)
+  Transitions: D1, D2, D3, D2, D3, D2, D1, D2, D1, D2, D1, D2, D1, D3, D2, D3, D2, D1
+
+2024-08-06 Circuit B D2 Duration: 45 minutes Start Time: 00:05 End Time: 00:50
+2024-08-06 Circuit B D1 Duration: 15 minutes Start Time: 00:50 End Time: 01:05
+2024-08-06 Circuit B D2 Duration: 15 minutes Start Time: 01:05 End Time: 01:20
+2024-08-06 Circuit B D1 Duration: 15 minutes Start Time: 01:20 End Time: 01:35
+2024-08-06 Circuit B D2 Duration: 15 minutes Start Time: 01:35 End Time: 01:51
+2024-08-06 Circuit B D1 Duration: 240 minutes Start Time: 01:51 End Time: 05:51
+2024-08-06 Circuit B D2 Duration: 45 minutes Start Time: 05:51 End Time: 06:36
+2024-08-06 Circuit B D1 Duration: 30 minutes Start Time: 06:36 End Time: 07:06
+2024-08-06 Circuit B D2 Duration: 15 minutes Start Time: 07:06 End Time: 07:21
+2024-08-06 Circuit B D1 Duration: 30 minutes Start Time: 07:21 End Time: 07:51
+2024-08-06 Circuit B D2 Duration: 60 minutes Start Time: 07:51 End Time: 08:51
+2024-08-06 Circuit B D1 Duration: 15 minutes Start Time: 08:51 End Time: 09:06
+2024-08-06 Circuit B D2 Duration: 75 minutes Start Time: 09:06 End Time: 10:21
+2024-08-06 Circuit B D1 Duration: 15 minutes Start Time: 10:21 End Time: 10:36
+2024-08-06 Circuit B D2 Duration: 15 minutes Start Time: 10:36 End Time: 10:51
+2024-08-06 Circuit B D1 Duration: 15 minutes Start Time: 10:51 End Time: 11:06
+2024-08-06 Circuit B D2 Duration: 30 minutes Start Time: 11:06 End Time: 11:36
+2024-08-06 Circuit B D1 Duration: 30 minutes Start Time: 11:36 End Time: 12:06
+2024-08-06 Circuit B D2 Duration: 15 minutes Start Time: 12:06 End Time: 12:21
+2024-08-06 Circuit B D1 Duration: 30 minutes Start Time: 12:21 End Time: 12:51
+2024-08-06 Circuit B D2 Duration: 15 minutes Start Time: 12:51 End Time: 13:06
+2024-08-06 Circuit B D1 Duration: 30 minutes Start Time: 13:06 End Time: 13:36
+2024-08-06 Circuit B D2 Duration: 15 minutes Start Time: 13:36 End Time: 13:51
+Date: 2024-08-06, Circuit: B
+  Total Transitions: 23
+  D1 Transitions: 11 (Avg: 42.27 minutes)
+  D2 Transitions: 12 (Avg: 30.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-08-08 Circuit A D1 Duration: 105 minutes Start Time: 10:55 End Time: 12:40
+2024-08-08 Circuit A D2 Duration: 30 minutes Start Time: 12:40 End Time: 13:10
+2024-08-08 Circuit A D1 Duration: 15 minutes Start Time: 13:10 End Time: 13:25
+2024-08-08 Circuit A D2 Duration: 210 minutes Start Time: 13:25 End Time: 16:55
+2024-08-08 Circuit A D1 Duration: 30 minutes Start Time: 16:55 End Time: 17:25
+2024-08-08 Circuit A D2 Duration: 30 minutes Start Time: 17:25 End Time: 17:55
+Date: 2024-08-08, Circuit: A
+  Total Transitions: 6
+  D1 Transitions: 3 (Avg: 50.00 minutes)
+  D2 Transitions: 3 (Avg: 90.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2
+
+2024-08-08 Circuit B D2 Duration: 15 minutes Start Time: 10:39 End Time: 11:09
+2024-08-08 Circuit B D1 Duration: 15 minutes Start Time: 11:09 End Time: 11:39
+2024-08-08 Circuit B D2 Duration: 15 minutes Start Time: 11:39 End Time: 11:54
+2024-08-08 Circuit B D1 Duration: 30 minutes Start Time: 11:54 End Time: 12:54
+2024-08-08 Circuit B D2 Duration: 15 minutes Start Time: 12:54 End Time: 13:25
+2024-08-08 Circuit B D1 Duration: 15 minutes Start Time: 13:25 End Time: 13:55
+2024-08-08 Circuit B D3 Duration: 45 minutes Start Time: 13:55 End Time: 14:55
+2024-08-08 Circuit B D2 Duration: 45 minutes Start Time: 14:55 End Time: 15:40
+2024-08-08 Circuit B D1 Duration: 15 minutes Start Time: 15:40 End Time: 15:55
+2024-08-08 Circuit B D2 Duration: 15 minutes Start Time: 15:55 End Time: 16:10
+2024-08-08 Circuit B D1 Duration: 30 minutes Start Time: 16:10 End Time: 16:40
+2024-08-08 Circuit B D3 Duration: 15 minutes Start Time: 16:40 End Time: 16:55
+2024-08-08 Circuit B D2 Duration: 15 minutes Start Time: 16:55 End Time: 17:25
+2024-08-08 Circuit B D1 Duration: 15 minutes Start Time: 17:25 End Time: 17:40
+2024-08-08 Circuit B D2 Duration: 15 minutes Start Time: 17:40 End Time: 17:55
+2024-08-08 Circuit B D1 Duration: 30 minutes Start Time: 17:55 End Time: 18:25
+2024-08-08 Circuit B D2 Duration: 15 minutes Start Time: 18:25 End Time: 18:40
+2024-08-08 Circuit B D1 Duration: 15 minutes Start Time: 18:40 End Time: 18:55
+2024-08-08 Circuit B D2 Duration: 30 minutes Start Time: 18:55 End Time: 19:25
+2024-08-08 Circuit B D3 Duration: 30 minutes Start Time: 19:25 End Time: 19:55
+2024-08-08 Circuit B D2 Duration: 15 minutes Start Time: 19:55 End Time: 20:10
+Date: 2024-08-08, Circuit: B
+  Total Transitions: 21
+  D1 Transitions: 8 (Avg: 20.62 minutes)
+  D2 Transitions: 10 (Avg: 19.50 minutes)
+  D3 Transitions: 3 (Avg: 30.00 minutes)
+  Transitions: D2, D1, D2, D1, D2, D1, D3, D2, D1, D2, D1, D3, D2, D1, D2, D1, D2, D1, D2, D3, D2
+
+2024-08-09 Circuit A D1 Duration: 285 minutes Start Time: 07:56 End Time: 14:56
+2024-08-09 Circuit A D2 Duration: 75 minutes Start Time: 14:56 End Time: 16:12
+2024-08-09 Circuit A D1 Duration: 90 minutes Start Time: 16:12 End Time: 17:42
+2024-08-09 Circuit A D2 Duration: 15 minutes Start Time: 17:42 End Time: 17:57
+Date: 2024-08-09, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 2 (Avg: 187.50 minutes)
+  D2 Transitions: 2 (Avg: 45.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2
+
+2024-08-09 Circuit B D3 Duration: 15 minutes Start Time: 00:10 End Time: 00:25
+2024-08-09 Circuit B D2 Duration: 30 minutes Start Time: 00:25 End Time: 00:55
+2024-08-09 Circuit B D3 Duration: 45 minutes Start Time: 00:55 End Time: 01:40
+2024-08-09 Circuit B D2 Duration: 15 minutes Start Time: 01:40 End Time: 01:55
+2024-08-09 Circuit B D3 Duration: 15 minutes Start Time: 01:55 End Time: 02:10
+2024-08-09 Circuit B D2 Duration: 15 minutes Start Time: 02:10 End Time: 02:25
+2024-08-09 Circuit B D3 Duration: 15 minutes Start Time: 02:25 End Time: 02:40
+2024-08-09 Circuit B D2 Duration: 15 minutes Start Time: 02:40 End Time: 02:55
+2024-08-09 Circuit B D3 Duration: 30 minutes Start Time: 02:55 End Time: 03:25
+2024-08-09 Circuit B D2 Duration: 45 minutes Start Time: 03:25 End Time: 04:11
+2024-08-09 Circuit B D3 Duration: 15 minutes Start Time: 04:11 End Time: 04:26
+2024-08-09 Circuit B D2 Duration: 15 minutes Start Time: 04:26 End Time: 04:41
+2024-08-09 Circuit B D3 Duration: 15 minutes Start Time: 04:41 End Time: 04:56
+2024-08-09 Circuit B D2 Duration: 15 minutes Start Time: 04:56 End Time: 05:11
+2024-08-09 Circuit B D3 Duration: 195 minutes Start Time: 05:11 End Time: 08:26
+2024-08-09 Circuit B D2 Duration: 60 minutes Start Time: 08:26 End Time: 09:26
+2024-08-09 Circuit B D3 Duration: 255 minutes Start Time: 09:26 End Time: 13:41
+2024-08-09 Circuit B D2 Duration: 75 minutes Start Time: 13:41 End Time: 14:56
+2024-08-09 Circuit B D1 Duration: 30 minutes Start Time: 14:56 End Time: 15:41
+2024-08-09 Circuit B D3 Duration: 15 minutes Start Time: 15:41 End Time: 16:26
+2024-08-09 Circuit B D2 Duration: 30 minutes Start Time: 16:26 End Time: 16:56
+2024-08-09 Circuit B D3 Duration: 15 minutes Start Time: 16:56 End Time: 17:11
+2024-08-09 Circuit B D2 Duration: 45 minutes Start Time: 17:11 End Time: 18:42
+2024-08-09 Circuit B D1 Duration: 30 minutes Start Time: 18:42 End Time: 19:12
+2024-08-09 Circuit B D2 Duration: 60 minutes Start Time: 19:12 End Time: 20:12
+2024-08-09 Circuit B D3 Duration: 165 minutes Start Time: 20:12 End Time: 22:57
+Date: 2024-08-09, Circuit: B
+  Total Transitions: 26
+  D1 Transitions: 2 (Avg: 30.00 minutes)
+  D2 Transitions: 12 (Avg: 35.00 minutes)
+  D3 Transitions: 12 (Avg: 66.25 minutes)
+  Transitions: D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D3, D2, D1, D3, D2, D3, D2, D1, D2, D3
+
+2024-08-12 Circuit B D2 Duration: 15 minutes Start Time: 10:46 End Time: 11:01
+2024-08-12 Circuit B D1 Duration: 15 minutes Start Time: 11:01 End Time: 15:01
+2024-08-12 Circuit B D2 Duration: 15 minutes Start Time: 15:01 End Time: 15:31
+Date: 2024-08-12, Circuit: B
+  Total Transitions: 3
+  D1 Transitions: 1 (Avg: 15.00 minutes)
+  D2 Transitions: 2 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D2, D1, D2
+
+2024-08-13 Circuit B D2 Duration: 30 minutes Start Time: 10:47 End Time: 14:03
+2024-08-13 Circuit B D1 Duration: 90 minutes Start Time: 14:03 End Time: 19:18
+2024-08-13 Circuit B D2 Duration: 15 minutes Start Time: 19:18 End Time: 19:33
+2024-08-13 Circuit B D1 Duration: 30 minutes Start Time: 19:33 End Time: 20:03
+2024-08-13 Circuit B D2 Duration: 30 minutes Start Time: 20:03 End Time: 20:33
+2024-08-13 Circuit B D3 Duration: 30 minutes Start Time: 20:33 End Time: 20:48
+2024-08-13 Circuit B D2 Duration: 105 minutes Start Time: 20:48 End Time: 22:33
+Date: 2024-08-13, Circuit: B
+  Total Transitions: 7
+  D1 Transitions: 2 (Avg: 60.00 minutes)
+  D2 Transitions: 4 (Avg: 45.00 minutes)
+  D3 Transitions: 1 (Avg: 30.00 minutes)
+  Transitions: D2, D1, D2, D1, D2, D3, D2
+
+2024-08-14 Circuit B D1 Duration: 60 minutes Start Time: 19:20 End Time: 20:20
+2024-08-14 Circuit B D2 Duration: 60 minutes Start Time: 20:20 End Time: 21:20
+Date: 2024-08-14, Circuit: B
+  Total Transitions: 2
+  D1 Transitions: 1 (Avg: 60.00 minutes)
+  D2 Transitions: 1 (Avg: 60.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2
+
+2024-08-15 Circuit A D1 Duration: 30 minutes Start Time: 11:06 End Time: 11:51
+2024-08-15 Circuit A D2 Duration: 15 minutes Start Time: 11:51 End Time: 12:06
+Date: 2024-08-15, Circuit: A
+  Total Transitions: 2
+  D1 Transitions: 1 (Avg: 30.00 minutes)
+  D2 Transitions: 1 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2
+
+2024-08-15 Circuit B D1 Duration: 45 minutes Start Time: 18:21 End Time: 19:06
+2024-08-15 Circuit B D2 Duration: 15 minutes Start Time: 19:06 End Time: 19:21
+2024-08-15 Circuit B D1 Duration: 15 minutes Start Time: 19:21 End Time: 19:36
+2024-08-15 Circuit B D2 Duration: 30 minutes Start Time: 19:36 End Time: 20:06
+2024-08-15 Circuit B D3 Duration: 90 minutes Start Time: 20:06 End Time: 21:36
+2024-08-15 Circuit B D2 Duration: 135 minutes Start Time: 21:36 End Time: 23:52
+Date: 2024-08-15, Circuit: B
+  Total Transitions: 6
+  D1 Transitions: 2 (Avg: 30.00 minutes)
+  D2 Transitions: 3 (Avg: 60.00 minutes)
+  D3 Transitions: 1 (Avg: 90.00 minutes)
+  Transitions: D1, D2, D1, D2, D3, D2
+
+2024-08-16 Circuit B D1 Duration: 180 minutes Start Time: 00:07 End Time: 16:38
+2024-08-16 Circuit B D2 Duration: 15 minutes Start Time: 16:38 End Time: 16:53
+2024-08-16 Circuit B D1 Duration: 90 minutes Start Time: 16:53 End Time: 18:23
+2024-08-16 Circuit B D2 Duration: 105 minutes Start Time: 18:23 End Time: 20:08
+2024-08-16 Circuit B D3 Duration: 135 minutes Start Time: 20:08 End Time: 22:08
+2024-08-16 Circuit B D2 Duration: 30 minutes Start Time: 22:08 End Time: 22:38
+2024-08-16 Circuit B D3 Duration: 45 minutes Start Time: 22:38 End Time: 23:23
+2024-08-16 Circuit B D2 Duration: 30 minutes Start Time: 23:23 End Time: 23:53
+Date: 2024-08-16, Circuit: B
+  Total Transitions: 8
+  D1 Transitions: 2 (Avg: 135.00 minutes)
+  D2 Transitions: 4 (Avg: 45.00 minutes)
+  D3 Transitions: 2 (Avg: 90.00 minutes)
+  Transitions: D1, D2, D1, D2, D3, D2, D3, D2
+
+2024-08-17 Circuit A D1 Duration: 120 minutes Start Time: 10:54 End Time: 12:39
+2024-08-17 Circuit A D2 Duration: 15 minutes Start Time: 12:39 End Time: 12:54
+2024-08-17 Circuit A D1 Duration: 60 minutes Start Time: 12:54 End Time: 13:54
+2024-08-17 Circuit A D2 Duration: 15 minutes Start Time: 13:54 End Time: 14:09
+2024-08-17 Circuit A D1 Duration: 30 minutes Start Time: 14:09 End Time: 14:39
+2024-08-17 Circuit A D2 Duration: 30 minutes Start Time: 14:39 End Time: 15:09
+2024-08-17 Circuit A D1 Duration: 15 minutes Start Time: 15:09 End Time: 15:24
+2024-08-17 Circuit A D2 Duration: 60 minutes Start Time: 15:24 End Time: 16:25
+Date: 2024-08-17, Circuit: A
+  Total Transitions: 8
+  D1 Transitions: 4 (Avg: 56.25 minutes)
+  D2 Transitions: 4 (Avg: 30.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-08-17 Circuit B D2 Duration: 90 minutes Start Time: 00:08 End Time: 01:23
+2024-08-17 Circuit B D1 Duration: 15 minutes Start Time: 01:23 End Time: 01:38
+2024-08-17 Circuit B D2 Duration: 105 minutes Start Time: 01:38 End Time: 03:23
+2024-08-17 Circuit B D1 Duration: 15 minutes Start Time: 03:23 End Time: 03:38
+2024-08-17 Circuit B D2 Duration: 30 minutes Start Time: 03:38 End Time: 04:08
+2024-08-17 Circuit B D1 Duration: 195 minutes Start Time: 04:08 End Time: 16:54
+2024-08-17 Circuit B D3 Duration: 60 minutes Start Time: 16:54 End Time: 17:54
+2024-08-17 Circuit B D1 Duration: 30 minutes Start Time: 17:54 End Time: 18:24
+2024-08-17 Circuit B D2 Duration: 30 minutes Start Time: 18:24 End Time: 18:54
+2024-08-17 Circuit B D1 Duration: 30 minutes Start Time: 18:54 End Time: 19:25
+2024-08-17 Circuit B D2 Duration: 45 minutes Start Time: 19:25 End Time: 20:10
+2024-08-17 Circuit B D3 Duration: 120 minutes Start Time: 20:10 End Time: 22:10
+2024-08-17 Circuit B D2 Duration: 15 minutes Start Time: 22:10 End Time: 22:25
+2024-08-17 Circuit B D3 Duration: 30 minutes Start Time: 22:25 End Time: 22:55
+Date: 2024-08-17, Circuit: B
+  Total Transitions: 14
+  D1 Transitions: 5 (Avg: 57.00 minutes)
+  D2 Transitions: 6 (Avg: 52.50 minutes)
+  D3 Transitions: 3 (Avg: 70.00 minutes)
+  Transitions: D2, D1, D2, D1, D2, D1, D3, D1, D2, D1, D2, D3, D2, D3
+
+2024-08-18 Circuit A D1 Duration: 135 minutes Start Time: 11:41 End Time: 13:41
+2024-08-18 Circuit A D2 Duration: 45 minutes Start Time: 13:41 End Time: 14:11
+2024-08-18 Circuit A D1 Duration: 30 minutes Start Time: 14:11 End Time: 14:41
+2024-08-18 Circuit A D2 Duration: 15 minutes Start Time: 14:41 End Time: 14:56
+2024-08-18 Circuit A D1 Duration: 15 minutes Start Time: 14:56 End Time: 15:11
+2024-08-18 Circuit A D2 Duration: 15 minutes Start Time: 15:11 End Time: 15:26
+Date: 2024-08-18, Circuit: A
+  Total Transitions: 6
+  D1 Transitions: 3 (Avg: 60.00 minutes)
+  D2 Transitions: 3 (Avg: 25.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2
+
+2024-08-18 Circuit B D2 Duration: 60 minutes Start Time: 00:10 End Time: 01:10
+2024-08-18 Circuit B D1 Duration: 30 minutes Start Time: 01:10 End Time: 01:40
+2024-08-18 Circuit B D2 Duration: 30 minutes Start Time: 01:40 End Time: 02:10
+2024-08-18 Circuit B D1 Duration: 45 minutes Start Time: 02:10 End Time: 02:55
+2024-08-18 Circuit B D2 Duration: 15 minutes Start Time: 02:55 End Time: 03:10
+2024-08-18 Circuit B D1 Duration: 15 minutes Start Time: 03:10 End Time: 03:25
+2024-08-18 Circuit B D2 Duration: 15 minutes Start Time: 03:25 End Time: 03:40
+2024-08-18 Circuit B D1 Duration: 60 minutes Start Time: 03:40 End Time: 04:40
+2024-08-18 Circuit B D2 Duration: 75 minutes Start Time: 04:40 End Time: 05:55
+2024-08-18 Circuit B D1 Duration: 30 minutes Start Time: 05:55 End Time: 06:25
+2024-08-18 Circuit B D2 Duration: 15 minutes Start Time: 06:25 End Time: 06:40
+2024-08-18 Circuit B D1 Duration: 165 minutes Start Time: 06:40 End Time: 15:26
+2024-08-18 Circuit B D2 Duration: 90 minutes Start Time: 15:26 End Time: 16:26
+2024-08-18 Circuit B D1 Duration: 45 minutes Start Time: 16:26 End Time: 17:11
+2024-08-18 Circuit B D2 Duration: 15 minutes Start Time: 17:11 End Time: 17:26
+2024-08-18 Circuit B D1 Duration: 45 minutes Start Time: 17:26 End Time: 18:11
+2024-08-18 Circuit B D2 Duration: 15 minutes Start Time: 18:11 End Time: 18:26
+2024-08-18 Circuit B D3 Duration: 30 minutes Start Time: 18:26 End Time: 18:56
+2024-08-18 Circuit B D2 Duration: 45 minutes Start Time: 18:56 End Time: 19:26
+2024-08-18 Circuit B D3 Duration: 30 minutes Start Time: 19:26 End Time: 19:41
+2024-08-18 Circuit B D2 Duration: 30 minutes Start Time: 19:41 End Time: 20:11
+Date: 2024-08-18, Circuit: B
+  Total Transitions: 21
+  D1 Transitions: 8 (Avg: 54.38 minutes)
+  D2 Transitions: 11 (Avg: 36.82 minutes)
+  D3 Transitions: 2 (Avg: 30.00 minutes)
+  Transitions: D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D3, D2, D3, D2
+
+2024-08-19 Circuit B D2 Duration: 180 minutes Start Time: 00:11 End Time: 02:57
+2024-08-19 Circuit B D1 Duration: 30 minutes Start Time: 02:57 End Time: 03:12
+2024-08-19 Circuit B D2 Duration: 15 minutes Start Time: 03:12 End Time: 03:27
+2024-08-19 Circuit B D1 Duration: 30 minutes Start Time: 03:27 End Time: 03:57
+2024-08-19 Circuit B D2 Duration: 30 minutes Start Time: 03:57 End Time: 04:12
+2024-08-19 Circuit B D1 Duration: 105 minutes Start Time: 04:12 End Time: 05:42
+2024-08-19 Circuit B D2 Duration: 30 minutes Start Time: 05:42 End Time: 06:12
+2024-08-19 Circuit B D1 Duration: 300 minutes Start Time: 06:12 End Time: 10:42
+2024-08-19 Circuit B D2 Duration: 45 minutes Start Time: 10:42 End Time: 11:27
+2024-08-19 Circuit B D1 Duration: 30 minutes Start Time: 11:27 End Time: 13:12
+2024-08-19 Circuit B D2 Duration: 30 minutes Start Time: 13:12 End Time: 14:42
+2024-08-19 Circuit B D1 Duration: 30 minutes Start Time: 14:42 End Time: 15:58
+2024-08-19 Circuit B D2 Duration: 15 minutes Start Time: 15:58 End Time: 16:13
+Date: 2024-08-19, Circuit: B
+  Total Transitions: 13
+  D1 Transitions: 6 (Avg: 87.50 minutes)
+  D2 Transitions: 7 (Avg: 49.29 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-08-20 Circuit B D1 Duration: 30 minutes Start Time: 13:44 End Time: 14:59
+2024-08-20 Circuit B D2 Duration: 15 minutes Start Time: 14:59 End Time: 16:59
+2024-08-20 Circuit B D1 Duration: 30 minutes Start Time: 16:59 End Time: 20:14
+2024-08-20 Circuit B D2 Duration: 15 minutes Start Time: 20:14 End Time: 20:29
+Date: 2024-08-20, Circuit: B
+  Total Transitions: 4
+  D1 Transitions: 2 (Avg: 30.00 minutes)
+  D2 Transitions: 2 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2
+
+2024-08-21 Circuit B D3 Duration: 15 minutes Start Time: 11:00 End Time: 13:16
+2024-08-21 Circuit B D1 Duration: 90 minutes Start Time: 13:16 End Time: 20:16
+2024-08-21 Circuit B D2 Duration: 60 minutes Start Time: 20:16 End Time: 21:16
+2024-08-21 Circuit B D1 Duration: 75 minutes Start Time: 21:16 End Time: 22:31
+2024-08-21 Circuit B D2 Duration: 30 minutes Start Time: 22:31 End Time: 22:46
+Date: 2024-08-21, Circuit: B
+  Total Transitions: 5
+  D1 Transitions: 2 (Avg: 82.50 minutes)
+  D2 Transitions: 2 (Avg: 45.00 minutes)
+  D3 Transitions: 1 (Avg: 15.00 minutes)
+  Transitions: D3, D1, D2, D1, D2
+
+2024-08-22 Circuit B D1 Duration: 15 minutes Start Time: 15:32 End Time: 16:17
+2024-08-22 Circuit B D2 Duration: 15 minutes Start Time: 16:17 End Time: 19:03
+2024-08-22 Circuit B D1 Duration: 90 minutes Start Time: 19:03 End Time: 20:18
+2024-08-22 Circuit B D2 Duration: 75 minutes Start Time: 20:18 End Time: 21:18
+Date: 2024-08-22, Circuit: B
+  Total Transitions: 4
+  D1 Transitions: 2 (Avg: 52.50 minutes)
+  D2 Transitions: 2 (Avg: 45.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2
+
+2024-08-23 Circuit B D2 Duration: 30 minutes Start Time: 13:19 End Time: 15:04
+2024-08-23 Circuit B D1 Duration: 30 minutes Start Time: 15:04 End Time: 16:34
+2024-08-23 Circuit B D2 Duration: 30 minutes Start Time: 16:34 End Time: 17:49
+2024-08-23 Circuit B D1 Duration: 120 minutes Start Time: 17:49 End Time: 19:49
+2024-08-23 Circuit B D2 Duration: 30 minutes Start Time: 19:49 End Time: 20:19
+2024-08-23 Circuit B D3 Duration: 30 minutes Start Time: 20:19 End Time: 20:49
+2024-08-23 Circuit B D2 Duration: 30 minutes Start Time: 20:49 End Time: 21:19
+2024-08-23 Circuit B D3 Duration: 15 minutes Start Time: 21:19 End Time: 21:34
+2024-08-23 Circuit B D2 Duration: 45 minutes Start Time: 21:34 End Time: 22:19
+2024-08-23 Circuit B D1 Duration: 15 minutes Start Time: 22:19 End Time: 22:34
+2024-08-23 Circuit B D2 Duration: 15 minutes Start Time: 22:34 End Time: 22:49
+Date: 2024-08-23, Circuit: B
+  Total Transitions: 11
+  D1 Transitions: 3 (Avg: 55.00 minutes)
+  D2 Transitions: 6 (Avg: 30.00 minutes)
+  D3 Transitions: 2 (Avg: 22.50 minutes)
+  Transitions: D2, D1, D2, D1, D2, D3, D2, D3, D2, D1, D2
+
+2024-08-24 Circuit B D1 Duration: 30 minutes Start Time: 00:20 End Time: 18:06
+2024-08-24 Circuit B D2 Duration: 120 minutes Start Time: 18:06 End Time: 19:51
+2024-08-24 Circuit B D3 Duration: 135 minutes Start Time: 19:51 End Time: 21:36
+2024-08-24 Circuit B D2 Duration: 15 minutes Start Time: 21:36 End Time: 21:51
+2024-08-24 Circuit B D3 Duration: 15 minutes Start Time: 21:51 End Time: 22:06
+2024-08-24 Circuit B D2 Duration: 105 minutes Start Time: 22:06 End Time: 23:36
+Date: 2024-08-24, Circuit: B
+  Total Transitions: 6
+  D1 Transitions: 1 (Avg: 30.00 minutes)
+  D2 Transitions: 3 (Avg: 80.00 minutes)
+  D3 Transitions: 2 (Avg: 75.00 minutes)
+  Transitions: D1, D2, D3, D2, D3, D2
+
+2024-08-25 Circuit B D1 Duration: 75 minutes Start Time: 00:06 End Time: 14:07
+2024-08-25 Circuit B D2 Duration: 15 minutes Start Time: 14:07 End Time: 18:07
+2024-08-25 Circuit B D1 Duration: 30 minutes Start Time: 18:07 End Time: 18:22
+2024-08-25 Circuit B D3 Duration: 15 minutes Start Time: 18:22 End Time: 18:37
+2024-08-25 Circuit B D2 Duration: 15 minutes Start Time: 18:37 End Time: 18:52
+2024-08-25 Circuit B D3 Duration: 45 minutes Start Time: 18:52 End Time: 19:22
+2024-08-25 Circuit B D2 Duration: 15 minutes Start Time: 19:22 End Time: 19:37
+2024-08-25 Circuit B D3 Duration: 255 minutes Start Time: 19:37 End Time: 23:53
+Date: 2024-08-25, Circuit: B
+  Total Transitions: 8
+  D1 Transitions: 2 (Avg: 52.50 minutes)
+  D2 Transitions: 3 (Avg: 15.00 minutes)
+  D3 Transitions: 3 (Avg: 105.00 minutes)
+  Transitions: D1, D2, D1, D3, D2, D3, D2, D3
+
+2024-08-26 Circuit A D1 Duration: 15 minutes Start Time: 09:54 End Time: 10:09
+2024-08-26 Circuit A D2 Duration: 15 minutes Start Time: 10:09 End Time: 10:24
+2024-08-26 Circuit A D1 Duration: 15 minutes Start Time: 10:24 End Time: 10:39
+2024-08-26 Circuit A D2 Duration: 30 minutes Start Time: 10:39 End Time: 11:09
+2024-08-26 Circuit A D3 Duration: 15 minutes Start Time: 11:09 End Time: 11:24
+2024-08-26 Circuit A D2 Duration: 45 minutes Start Time: 11:24 End Time: 12:09
+2024-08-26 Circuit A D3 Duration: 465 minutes Start Time: 12:09 End Time: 19:39
+2024-08-26 Circuit A D2 Duration: 30 minutes Start Time: 19:39 End Time: 20:09
+2024-08-26 Circuit A D3 Duration: 105 minutes Start Time: 20:09 End Time: 21:54
+2024-08-26 Circuit A D2 Duration: 15 minutes Start Time: 21:54 End Time: 22:09
+Date: 2024-08-26, Circuit: A
+  Total Transitions: 10
+  D1 Transitions: 2 (Avg: 15.00 minutes)
+  D2 Transitions: 5 (Avg: 27.00 minutes)
+  D3 Transitions: 3 (Avg: 195.00 minutes)
+  Transitions: D1, D2, D1, D2, D3, D2, D3, D2, D3, D2
+
+2024-08-26 Circuit B D2 Duration: 90 minutes Start Time: 00:08 End Time: 01:23
+2024-08-26 Circuit B D1 Duration: 135 minutes Start Time: 01:23 End Time: 14:39
+2024-08-26 Circuit B D3 Duration: 60 minutes Start Time: 14:39 End Time: 15:54
+2024-08-26 Circuit B D1 Duration: 15 minutes Start Time: 15:54 End Time: 16:09
+2024-08-26 Circuit B D3 Duration: 30 minutes Start Time: 16:09 End Time: 16:39
+2024-08-26 Circuit B D1 Duration: 30 minutes Start Time: 16:39 End Time: 17:09
+2024-08-26 Circuit B D2 Duration: 45 minutes Start Time: 17:09 End Time: 17:54
+Date: 2024-08-26, Circuit: B
+  Total Transitions: 7
+  D1 Transitions: 3 (Avg: 60.00 minutes)
+  D2 Transitions: 2 (Avg: 67.50 minutes)
+  D3 Transitions: 2 (Avg: 45.00 minutes)
+  Transitions: D2, D1, D3, D1, D3, D1, D2
+
+2024-08-27 Circuit B D3 Duration: 105 minutes Start Time: 00:09 End Time: 01:55
+2024-08-27 Circuit B D2 Duration: 90 minutes Start Time: 01:55 End Time: 03:25
+2024-08-27 Circuit B D1 Duration: 60 minutes Start Time: 03:25 End Time: 04:25
+2024-08-27 Circuit B D2 Duration: 30 minutes Start Time: 04:25 End Time: 04:55
+2024-08-27 Circuit B D1 Duration: 30 minutes Start Time: 04:55 End Time: 05:25
+2024-08-27 Circuit B D2 Duration: 15 minutes Start Time: 05:25 End Time: 05:40
+2024-08-27 Circuit B D1 Duration: 30 minutes Start Time: 05:40 End Time: 06:10
+2024-08-27 Circuit B D2 Duration: 30 minutes Start Time: 06:10 End Time: 06:40
+2024-08-27 Circuit B D1 Duration: 15 minutes Start Time: 06:40 End Time: 06:55
+2024-08-27 Circuit B D2 Duration: 15 minutes Start Time: 06:55 End Time: 07:10
+2024-08-27 Circuit B D1 Duration: 30 minutes Start Time: 07:10 End Time: 07:40
+2024-08-27 Circuit B D2 Duration: 15 minutes Start Time: 07:40 End Time: 07:55
+2024-08-27 Circuit B D1 Duration: 60 minutes Start Time: 07:55 End Time: 14:40
+2024-08-27 Circuit B D2 Duration: 60 minutes Start Time: 14:40 End Time: 15:40
+2024-08-27 Circuit B D3 Duration: 15 minutes Start Time: 15:40 End Time: 15:55
+2024-08-27 Circuit B D2 Duration: 15 minutes Start Time: 15:55 End Time: 16:11
+Date: 2024-08-27, Circuit: B
+  Total Transitions: 16
+  D1 Transitions: 6 (Avg: 37.50 minutes)
+  D2 Transitions: 8 (Avg: 33.75 minutes)
+  D3 Transitions: 2 (Avg: 60.00 minutes)
+  Transitions: D3, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D3, D2
+
+2024-08-27 Circuit A D1 Duration: 30 minutes Start Time: 08:55 End Time: 09:25
+2024-08-27 Circuit A D2 Duration: 60 minutes Start Time: 09:25 End Time: 10:25
+2024-08-27 Circuit A D3 Duration: 180 minutes Start Time: 10:25 End Time: 13:26
+2024-08-27 Circuit A D2 Duration: 15 minutes Start Time: 13:26 End Time: 13:41
+2024-08-27 Circuit A D1 Duration: 15 minutes Start Time: 13:41 End Time: 13:56
+2024-08-27 Circuit A D3 Duration: 630 minutes Start Time: 13:56 End Time: 23:41
+Date: 2024-08-27, Circuit: A
+  Total Transitions: 6
+  D1 Transitions: 2 (Avg: 22.50 minutes)
+  D2 Transitions: 2 (Avg: 37.50 minutes)
+  D3 Transitions: 2 (Avg: 405.00 minutes)
+  Transitions: D1, D2, D3, D2, D1, D3
+
+2024-08-28 Circuit A D1 Duration: 315 minutes Start Time: 00:11 End Time: 07:12
+2024-08-28 Circuit A D2 Duration: 45 minutes Start Time: 07:12 End Time: 07:57
+2024-08-28 Circuit A D3 Duration: 15 minutes Start Time: 07:57 End Time: 08:12
+2024-08-28 Circuit A D2 Duration: 15 minutes Start Time: 08:12 End Time: 08:27
+2024-08-28 Circuit A D3 Duration: 45 minutes Start Time: 08:27 End Time: 09:12
+2024-08-28 Circuit A D2 Duration: 15 minutes Start Time: 09:12 End Time: 09:27
+2024-08-28 Circuit A D3 Duration: 510 minutes Start Time: 09:27 End Time: 17:42
+2024-08-28 Circuit A D2 Duration: 30 minutes Start Time: 17:42 End Time: 18:12
+2024-08-28 Circuit A D1 Duration: 120 minutes Start Time: 18:12 End Time: 20:13
+2024-08-28 Circuit A D3 Duration: 60 minutes Start Time: 20:13 End Time: 21:13
+2024-08-28 Circuit A D2 Duration: 30 minutes Start Time: 21:13 End Time: 21:43
+Date: 2024-08-28, Circuit: A
+  Total Transitions: 11
+  D1 Transitions: 2 (Avg: 217.50 minutes)
+  D2 Transitions: 5 (Avg: 27.00 minutes)
+  D3 Transitions: 4 (Avg: 157.50 minutes)
+  Transitions: D1, D2, D3, D2, D3, D2, D3, D2, D1, D3, D2
+
+2024-08-28 Circuit B D3 Duration: 810 minutes Start Time: 00:11 End Time: 11:42
+2024-08-28 Circuit B D2 Duration: 15 minutes Start Time: 11:42 End Time: 11:57
+2024-08-28 Circuit B D3 Duration: 30 minutes Start Time: 11:57 End Time: 14:27
+2024-08-28 Circuit B D1 Duration: 15 minutes Start Time: 14:27 End Time: 16:12
+Date: 2024-08-28, Circuit: B
+  Total Transitions: 4
+  D1 Transitions: 1 (Avg: 15.00 minutes)
+  D2 Transitions: 1 (Avg: 15.00 minutes)
+  D3 Transitions: 2 (Avg: 420.00 minutes)
+  Transitions: D3, D2, D3, D1
+
+2024-08-29 Circuit A D1 Duration: 120 minutes Start Time: 11:14 End Time: 12:59
+2024-08-29 Circuit A D2 Duration: 135 minutes Start Time: 12:59 End Time: 14:44
+Date: 2024-08-29, Circuit: A
+  Total Transitions: 2
+  D1 Transitions: 1 (Avg: 120.00 minutes)
+  D2 Transitions: 1 (Avg: 135.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2
+
+2024-08-29 Circuit B D3 Duration: 75 minutes Start Time: 00:13 End Time: 01:28
+2024-08-29 Circuit B D2 Duration: 15 minutes Start Time: 01:28 End Time: 01:43
+2024-08-29 Circuit B D3 Duration: 30 minutes Start Time: 01:43 End Time: 02:13
+2024-08-29 Circuit B D2 Duration: 60 minutes Start Time: 02:13 End Time: 03:13
+2024-08-29 Circuit B D1 Duration: 15 minutes Start Time: 03:13 End Time: 03:28
+2024-08-29 Circuit B D2 Duration: 15 minutes Start Time: 03:28 End Time: 03:43
+2024-08-29 Circuit B D1 Duration: 30 minutes Start Time: 03:43 End Time: 04:58
+2024-08-29 Circuit B D2 Duration: 15 minutes Start Time: 04:58 End Time: 05:13
+2024-08-29 Circuit B D1 Duration: 90 minutes Start Time: 05:13 End Time: 06:43
+2024-08-29 Circuit B D2 Duration: 15 minutes Start Time: 06:43 End Time: 06:58
+2024-08-29 Circuit B D1 Duration: 45 minutes Start Time: 06:58 End Time: 07:43
+2024-08-29 Circuit B D2 Duration: 15 minutes Start Time: 07:43 End Time: 07:58
+2024-08-29 Circuit B D1 Duration: 60 minutes Start Time: 07:58 End Time: 09:13
+2024-08-29 Circuit B D2 Duration: 15 minutes Start Time: 09:13 End Time: 09:43
+2024-08-29 Circuit B D3 Duration: 45 minutes Start Time: 09:43 End Time: 10:28
+2024-08-29 Circuit B D2 Duration: 15 minutes Start Time: 10:28 End Time: 10:43
+2024-08-29 Circuit B D1 Duration: 15 minutes Start Time: 10:43 End Time: 10:58
+2024-08-29 Circuit B D2 Duration: 15 minutes Start Time: 10:58 End Time: 11:13
+2024-08-29 Circuit B D3 Duration: 45 minutes Start Time: 11:13 End Time: 11:58
+2024-08-29 Circuit B D2 Duration: 45 minutes Start Time: 11:58 End Time: 12:28
+2024-08-29 Circuit B D1 Duration: 15 minutes Start Time: 12:28 End Time: 12:59
+2024-08-29 Circuit B D2 Duration: 60 minutes Start Time: 12:59 End Time: 13:44
+2024-08-29 Circuit B D1 Duration: 30 minutes Start Time: 13:44 End Time: 14:44
+Date: 2024-08-29, Circuit: B
+  Total Transitions: 23
+  D1 Transitions: 8 (Avg: 37.50 minutes)
+  D2 Transitions: 11 (Avg: 25.91 minutes)
+  D3 Transitions: 4 (Avg: 48.75 minutes)
+  Transitions: D3, D2, D3, D2, D1, D2, D1, D2, D1, D2, D1, D2, D1, D2, D3, D2, D1, D2, D3, D2, D1, D2, D1
+
+2024-08-30 Circuit A D1 Duration: 30 minutes Start Time: 09:15 End Time: 09:45
+2024-08-30 Circuit A D2 Duration: 30 minutes Start Time: 09:45 End Time: 10:15
+2024-08-30 Circuit A D3 Duration: 750 minutes Start Time: 10:15 End Time: 22:46
+2024-08-30 Circuit A D2 Duration: 30 minutes Start Time: 22:46 End Time: 23:16
+Date: 2024-08-30, Circuit: A
+  Total Transitions: 4
+  D1 Transitions: 1 (Avg: 30.00 minutes)
+  D2 Transitions: 2 (Avg: 30.00 minutes)
+  D3 Transitions: 1 (Avg: 750.00 minutes)
+  Transitions: D1, D2, D3, D2
+
+2024-08-30 Circuit B D3 Duration: 45 minutes Start Time: 00:14 End Time: 00:59
+2024-08-30 Circuit B D2 Duration: 150 minutes Start Time: 00:59 End Time: 03:14
+2024-08-30 Circuit B D1 Duration: 45 minutes Start Time: 03:14 End Time: 04:00
+2024-08-30 Circuit B D2 Duration: 15 minutes Start Time: 04:00 End Time: 04:15
+2024-08-30 Circuit B D1 Duration: 120 minutes Start Time: 04:15 End Time: 06:15
+2024-08-30 Circuit B D2 Duration: 105 minutes Start Time: 06:15 End Time: 08:00
+2024-08-30 Circuit B D3 Duration: 15 minutes Start Time: 08:00 End Time: 08:15
+2024-08-30 Circuit B D2 Duration: 15 minutes Start Time: 08:15 End Time: 08:30
+2024-08-30 Circuit B D1 Duration: 45 minutes Start Time: 08:30 End Time: 10:30
+2024-08-30 Circuit B D3 Duration: 60 minutes Start Time: 10:30 End Time: 11:30
+2024-08-30 Circuit B D1 Duration: 15 minutes Start Time: 11:30 End Time: 12:00
+2024-08-30 Circuit B D3 Duration: 45 minutes Start Time: 12:00 End Time: 14:00
+2024-08-30 Circuit B D2 Duration: 15 minutes Start Time: 14:00 End Time: 15:00
+2024-08-30 Circuit B D3 Duration: 60 minutes Start Time: 15:00 End Time: 16:30
+2024-08-30 Circuit B D2 Duration: 15 minutes Start Time: 16:30 End Time: 16:45
+2024-08-30 Circuit B D3 Duration: 15 minutes Start Time: 16:45 End Time: 17:00
+2024-08-30 Circuit B D2 Duration: 15 minutes Start Time: 17:00 End Time: 17:15
+Date: 2024-08-30, Circuit: B
+  Total Transitions: 17
+  D1 Transitions: 4 (Avg: 56.25 minutes)
+  D2 Transitions: 7 (Avg: 47.14 minutes)
+  D3 Transitions: 6 (Avg: 40.00 minutes)
+  Transitions: D3, D2, D1, D2, D1, D2, D3, D2, D1, D3, D1, D3, D2, D3, D2, D3, D2
+
+2024-08-31 Circuit A D1 Duration: 105 minutes Start Time: 11:02 End Time: 12:47
+2024-08-31 Circuit A D2 Duration: 60 minutes Start Time: 12:47 End Time: 13:47
+2024-08-31 Circuit A D1 Duration: 45 minutes Start Time: 13:47 End Time: 14:32
+2024-08-31 Circuit A D2 Duration: 30 minutes Start Time: 14:32 End Time: 15:02
+2024-08-31 Circuit A D1 Duration: 60 minutes Start Time: 15:02 End Time: 16:02
+2024-08-31 Circuit A D2 Duration: 165 minutes Start Time: 16:02 End Time: 18:47
+2024-08-31 Circuit A D1 Duration: 90 minutes Start Time: 18:47 End Time: 20:17
+2024-08-31 Circuit A D3 Duration: 30 minutes Start Time: 20:17 End Time: 20:47
+2024-08-31 Circuit A D2 Duration: 75 minutes Start Time: 20:47 End Time: 22:03
+Date: 2024-08-31, Circuit: A
+  Total Transitions: 9
+  D1 Transitions: 4 (Avg: 75.00 minutes)
+  D2 Transitions: 4 (Avg: 82.50 minutes)
+  D3 Transitions: 1 (Avg: 30.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D1, D3, D2
+
+2024-08-31 Circuit B D3 Duration: 420 minutes Start Time: 00:01 End Time: 07:01
+2024-08-31 Circuit B D2 Duration: 15 minutes Start Time: 07:01 End Time: 07:16
+2024-08-31 Circuit B D3 Duration: 15 minutes Start Time: 07:16 End Time: 07:31
+2024-08-31 Circuit B D2 Duration: 15 minutes Start Time: 07:31 End Time: 07:46
+2024-08-31 Circuit B D3 Duration: 15 minutes Start Time: 07:46 End Time: 08:01
+2024-08-31 Circuit B D2 Duration: 60 minutes Start Time: 08:01 End Time: 09:17
+2024-08-31 Circuit B D1 Duration: 30 minutes Start Time: 09:17 End Time: 10:02
+2024-08-31 Circuit B D2 Duration: 15 minutes Start Time: 10:02 End Time: 10:17
+2024-08-31 Circuit B D1 Duration: 45 minutes Start Time: 10:17 End Time: 11:02
+2024-08-31 Circuit B D2 Duration: 15 minutes Start Time: 11:02 End Time: 12:32
+2024-08-31 Circuit B D1 Duration: 15 minutes Start Time: 12:32 End Time: 13:17
+2024-08-31 Circuit B D2 Duration: 45 minutes Start Time: 13:17 End Time: 14:02
+2024-08-31 Circuit B D3 Duration: 30 minutes Start Time: 14:02 End Time: 14:32
+2024-08-31 Circuit B D1 Duration: 15 minutes Start Time: 14:32 End Time: 14:47
+2024-08-31 Circuit B D2 Duration: 15 minutes Start Time: 14:47 End Time: 15:17
+2024-08-31 Circuit B D3 Duration: 60 minutes Start Time: 15:17 End Time: 16:17
+2024-08-31 Circuit B D1 Duration: 30 minutes Start Time: 16:17 End Time: 16:47
+Date: 2024-08-31, Circuit: B
+  Total Transitions: 17
+  D1 Transitions: 5 (Avg: 27.00 minutes)
+  D2 Transitions: 7 (Avg: 25.71 minutes)
+  D3 Transitions: 5 (Avg: 108.00 minutes)
+  Transitions: D3, D2, D3, D2, D3, D2, D1, D2, D1, D2, D1, D2, D3, D1, D2, D3, D1
+
+2024-09-16 Circuit B D1 Duration: 75 minutes Start Time: 10:13 End Time: 12:13
+2024-09-16 Circuit B D2 Duration: 15 minutes Start Time: 12:13 End Time: 12:28
+2024-09-16 Circuit B D1 Duration: 60 minutes Start Time: 12:28 End Time: 13:28
+2024-09-16 Circuit B D2 Duration: 15 minutes Start Time: 13:28 End Time: 13:43
+2024-09-16 Circuit B D3 Duration: 15 minutes Start Time: 13:43 End Time: 13:58
+2024-09-16 Circuit B D2 Duration: 15 minutes Start Time: 13:58 End Time: 14:13
+2024-09-16 Circuit B D1 Duration: 15 minutes Start Time: 14:13 End Time: 14:28
+2024-09-16 Circuit B D2 Duration: 45 minutes Start Time: 14:28 End Time: 14:58
+2024-09-16 Circuit B D3 Duration: 60 minutes Start Time: 14:58 End Time: 15:58
+2024-09-16 Circuit B D2 Duration: 30 minutes Start Time: 15:58 End Time: 16:28
+2024-09-16 Circuit B D3 Duration: 15 minutes Start Time: 16:28 End Time: 16:43
+2024-09-16 Circuit B D2 Duration: 15 minutes Start Time: 16:43 End Time: 16:58
+2024-09-16 Circuit B D1 Duration: 15 minutes Start Time: 16:58 End Time: 17:13
+2024-09-16 Circuit B D2 Duration: 15 minutes Start Time: 17:13 End Time: 17:28
+Date: 2024-09-16, Circuit: B
+  Total Transitions: 14
+  D1 Transitions: 4 (Avg: 41.25 minutes)
+  D2 Transitions: 7 (Avg: 21.43 minutes)
+  D3 Transitions: 3 (Avg: 30.00 minutes)
+  Transitions: D1, D2, D1, D2, D3, D2, D1, D2, D3, D2, D3, D2, D1, D2
+
+2024-09-17 Circuit B D1 Duration: 75 minutes Start Time: 10:59 End Time: 12:14
+2024-09-17 Circuit B D2 Duration: 15 minutes Start Time: 12:14 End Time: 12:29
+2024-09-17 Circuit B D1 Duration: 135 minutes Start Time: 12:29 End Time: 14:59
+2024-09-17 Circuit B D2 Duration: 15 minutes Start Time: 14:59 End Time: 15:14
+2024-09-17 Circuit B D1 Duration: 15 minutes Start Time: 15:14 End Time: 15:29
+2024-09-17 Circuit B D2 Duration: 15 minutes Start Time: 15:29 End Time: 15:45
+2024-09-17 Circuit B D1 Duration: 15 minutes Start Time: 15:45 End Time: 16:00
+2024-09-17 Circuit B D2 Duration: 15 minutes Start Time: 16:00 End Time: 16:15
+2024-09-17 Circuit B D1 Duration: 30 minutes Start Time: 16:15 End Time: 16:45
+2024-09-17 Circuit B D2 Duration: 15 minutes Start Time: 16:45 End Time: 17:00
+Date: 2024-09-17, Circuit: B
+  Total Transitions: 10
+  D1 Transitions: 5 (Avg: 54.00 minutes)
+  D2 Transitions: 5 (Avg: 15.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-09-18 Circuit B D1 Duration: 120 minutes Start Time: 10:16 End Time: 12:16
+2024-09-18 Circuit B D2 Duration: 15 minutes Start Time: 12:16 End Time: 12:31
+2024-09-18 Circuit B D1 Duration: 75 minutes Start Time: 12:31 End Time: 13:46
+2024-09-18 Circuit B D2 Duration: 15 minutes Start Time: 13:46 End Time: 14:01
+2024-09-18 Circuit B D1 Duration: 15 minutes Start Time: 14:01 End Time: 14:16
+2024-09-18 Circuit B D2 Duration: 30 minutes Start Time: 14:16 End Time: 14:46
+2024-09-18 Circuit B D1 Duration: 15 minutes Start Time: 14:46 End Time: 15:01
+2024-09-18 Circuit B D2 Duration: 15 minutes Start Time: 15:01 End Time: 15:16
+2024-09-18 Circuit B D1 Duration: 30 minutes Start Time: 15:16 End Time: 15:46
+2024-09-18 Circuit B D2 Duration: 15 minutes Start Time: 15:46 End Time: 16:01
+Date: 2024-09-18, Circuit: B
+  Total Transitions: 10
+  D1 Transitions: 5 (Avg: 51.00 minutes)
+  D2 Transitions: 5 (Avg: 18.00 minutes)
+  D3 Transitions: 0 (Avg: 0.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D1, D2, D1, D2
+
+2024-09-19 Circuit B D1 Duration: 75 minutes Start Time: 11:32 End Time: 12:33
+2024-09-19 Circuit B D2 Duration: 15 minutes Start Time: 12:33 End Time: 12:48
+2024-09-19 Circuit B D1 Duration: 15 minutes Start Time: 12:48 End Time: 13:03
+2024-09-19 Circuit B D2 Duration: 15 minutes Start Time: 13:03 End Time: 13:18
+2024-09-19 Circuit B D1 Duration: 15 minutes Start Time: 13:18 End Time: 13:33
+2024-09-19 Circuit B D2 Duration: 45 minutes Start Time: 13:33 End Time: 14:18
+2024-09-19 Circuit B D3 Duration: 30 minutes Start Time: 14:18 End Time: 14:48
+2024-09-19 Circuit B D2 Duration: 45 minutes Start Time: 14:48 End Time: 15:33
+2024-09-19 Circuit B D3 Duration: 30 minutes Start Time: 15:33 End Time: 16:03
+2024-09-19 Circuit B D2 Duration: 45 minutes Start Time: 16:03 End Time: 16:48
+2024-09-19 Circuit B D1 Duration: 15 minutes Start Time: 16:48 End Time: 17:03
+2024-09-19 Circuit B D2 Duration: 15 minutes Start Time: 17:03 End Time: 17:18
+Date: 2024-09-19, Circuit: B
+  Total Transitions: 12
+  D1 Transitions: 4 (Avg: 30.00 minutes)
+  D2 Transitions: 6 (Avg: 30.00 minutes)
+  D3 Transitions: 2 (Avg: 30.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D2, D3, D2, D3, D2, D1, D2
+
+2024-09-20 Circuit B D1 Duration: 90 minutes Start Time: 09:49 End Time: 11:34
+2024-09-20 Circuit B D2 Duration: 45 minutes Start Time: 11:34 End Time: 12:19
+2024-09-20 Circuit B D1 Duration: 15 minutes Start Time: 12:19 End Time: 12:34
+2024-09-20 Circuit B D2 Duration: 60 minutes Start Time: 12:34 End Time: 13:34
+2024-09-20 Circuit B D1 Duration: 60 minutes Start Time: 13:34 End Time: 14:34
+2024-09-20 Circuit B D3 Duration: 15 minutes Start Time: 14:34 End Time: 14:49
+2024-09-20 Circuit B D2 Duration: 15 minutes Start Time: 14:49 End Time: 15:04
+2024-09-20 Circuit B D3 Duration: 15 minutes Start Time: 15:04 End Time: 15:19
+2024-09-20 Circuit B D2 Duration: 90 minutes Start Time: 15:19 End Time: 16:34
+2024-09-20 Circuit B D1 Duration: 15 minutes Start Time: 16:34 End Time: 16:49
+2024-09-20 Circuit B D2 Duration: 30 minutes Start Time: 16:49 End Time: 17:19
+Date: 2024-09-20, Circuit: B
+  Total Transitions: 11
+  D1 Transitions: 4 (Avg: 45.00 minutes)
+  D2 Transitions: 5 (Avg: 48.00 minutes)
+  D3 Transitions: 2 (Avg: 15.00 minutes)
+  Transitions: D1, D2, D1, D2, D1, D3, D2, D3, D2, D1, D2
+
+2024-09-27 Circuit A D3 Duration: 645 minutes Start Time: 12:01 End Time: 22:46
+2024-09-27 Circuit A D2 Duration: 15 minutes Start Time: 22:46 End Time: 23:01
+Date: 2024-09-27, Circuit: A
+  Total Transitions: 2
+  D1 Transitions: 0 (Avg: 0.00 minutes)
+  D2 Transitions: 1 (Avg: 15.00 minutes)
+  D3 Transitions: 1 (Avg: 645.00 minutes)
+  Transitions: D3, D2
+

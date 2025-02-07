@@ -1,0 +1,22 @@
+From D0 to D1
+    If it changes to D0 next: D1 Peak
+    If it changes to D2 next: D1 Rising
+
+From D1 to D2:
+
+    If it changes to D3 next: D2 Rising
+    If it changes to D1 next: D2 Peak
+
+From D2 to D1:
+
+    If it changes to D0 next: D1 Falling
+    If it changes to D2 next: D2 Catch
+
+From D2 to D3:
+
+    If it changes to D2 next: D3 Peak
+
+From D3 to D2:
+
+    If it changes to D1 next: D2 Falling
+    If it changes to D3 next: D2 Catch

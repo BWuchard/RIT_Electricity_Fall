@@ -1,0 +1,101 @@
+# Get unique months present in the DataFrame
+unique_months = df['Month'].unique()
+
+# Set colors for different D limits
+colors = {
+    'D1': 'blue',   # Color for D1
+    'D2': 'green',  # Color for D2
+    'D3': 'purple', # Color for D3
+    'D0': 'orange'  # Color for D0
+}
+
+# Iterate over each unique month
+for month in unique_months:
+    # Filter data for the current month
+    monthly_data = df[df['Month'] == month]
+    
+    if monthly_data.empty:
+        continue  # Skip if there is no data for the month
+
+    # Create a figure and axes for the plots
+    fig, axes = plt.subplots(nrows=2, ncols=1, figsize=(15, 10))
+
+    # Plot for Circuit A
+    circuit_a = monthly_data[monthly_data['Circuit'] == 'A']
+    axes[0].set_title(f'Circuit A: Value in Month {month}')
+    axes[0].set_xlabel('Date and Time')
+    axes[0].set_ylabel('Value')
+
+    # Assign colors based on the DemandLimit values
+    for index, row in circuit_a.iterrows():
+        if row['DemandLimit'] == 'D3':
+            axes[0].scatter(row['Date'], row['Value'], color=colors['D3'], label='D3 Limit' if 'D3 Limit' not in axes[0].get_legend_handles_labels()[1] else "")
+        elif row['DemandLimit'] == 'D2':
+            axes[0].scatter(row['Date'], row['Value'], color=colors['D2'], label='D2 Limit' if 'D2 Limit' not in axes[0].get_legend_handles_labels()[1] else "")
+        elif row['DemandLimit'] == 'D1':
+            axes[0].scatter(row['Date'], row['Value'], color=colors['D1'], label='D1 Limit' if 'D1 Limit' not in axes[0].get_legend_handles_labels()[1] else "")
+        else:
+            axes[0].scatter(row['Date'], row['Value'], color=colors['D0'], label='D0 Limit' if 'D0 Limit' not in axes[0].get_legend_handles_labels()[1] else "")
+    
+    # Add reference lines for D1Limit, D2Limit, and D3Limit
+    if not circuit_a.empty:
+        d1_limit_a = circuit_a['D1Limit'].iloc[0] if not circuit_a['D1Limit'].empty else np.nan
+        d2_limit_a = circuit_a['D2Limit'].iloc[0] if not circuit_a['D2Limit'].empty else np.nan
+        d3_limit_a = circuit_a['D3Limit'].iloc[0] if not circuit_a['D3Limit'].empty else np.nan
+
+        if pd.notna(d1_limit_a):
+            axes[0].axhline(y=d1_limit_a, color='red', linestyle='--', label='D1Limit')
+        if pd.notna(d2_limit_a):
+            axes[0].axhline(y=d2_limit_a, color='green', linestyle='--', label='D2Limit')
+        if pd.notna(d3_limit_a):
+            axes[0].axhline(y=d3_limit_a, color='purple', linestyle='--', label='D3Limit')
+
+    axes[0].legend()
+    axes[0].grid(True, which='both', axis='both')  # Enable grid lines for both axes
+
+    # Plot for Circuit B
+    circuit_b = monthly_data[monthly_data['Circuit'] == 'B']
+    axes[1].set_title(f'Circuit B: Value in Month {month}')
+    axes[1].set_xlabel('Date and Time')
+    axes[1].set_ylabel('Value')
+
+    # Assign colors based on the DemandLimit values
+    for index, row in circuit_b.iterrows():
+        if row['DemandLimit'] == 'D3':
+            axes[1].scatter(row['Date'], row['Value'], color=colors['D3'], label='D3 Limit' if 'D3 Limit' not in axes[1].get_legend_handles_labels()[1] else "")
+        elif row['DemandLimit'] == 'D2':
+            axes[1].scatter(row['Date'], row['Value'], color=colors['D2'], label='D2 Limit' if 'D2 Limit' not in axes[1].get_legend_handles_labels()[1] else "")
+        elif row['DemandLimit'] == 'D1':
+            axes[1].scatter(row['Date'], row['Value'], color=colors['D1'], label='D1 Limit' if 'D1 Limit' not in axes[1].get_legend_handles_labels()[1] else "")
+        else:
+            axes[1].scatter(row['Date'], row['Value'], color=colors['D0'], label='D0 Limit' if 'D0 Limit' not in axes[1].get_legend_handles_labels()[1] else "")
+
+    # Add reference lines for D1Limit, D2Limit, and D3Limit
+    if not circuit_b.empty:
+        d1_limit_b = circuit_b['D1Limit'].iloc[0] if not circuit_b['D1Limit'].empty else np.nan
+        d2_limit_b = circuit_b['D2Limit'].iloc[0] if not circuit_b['D2Limit'].empty else np.nan
+        d3_limit_b = circuit_b['D3Limit'].iloc[0] if not circuit_b['D3Limit'].empty else np.nan
+
+        if pd.notna(d1_limit_b):
+            axes[1].axhline(y=d1_limit_b, color='red', linestyle='--', label='D1Limit')
+        if pd.notna(d2_limit_b):
+            axes[1].axhline(y=d2_limit_b, color='green', linestyle='--', label='D2Limit')
+        if pd.notna(d3_limit_b):
+            axes[1].axhline(y=d3_limit_b, color='purple', linestyle='--', label='D3Limit')
+
+    axes[1].legend()
+    axes[1].grid(True, which='both', axis='both')  # Enable grid lines for both axes
+
+# Format x-axis date ticks to show every week (major) and every day (minor)
+    for ax in axes:
+        ax.xaxis.set_major_locator(mdates.WeekdayLocator(interval=1))  # Major ticks every week
+        ax.xaxis.set_major_formatter(mdates.DateFormatter('%d'))  # Format major ticks to show day only
+        ax.xaxis.set_minor_locator(mdates.DayLocator(interval=1))  # Minor ticks every day
+        ax.xaxis.set_minor_formatter(mdates.DateFormatter('%d'))  # Format minor ticks for daily grid lines
+        ax.grid(which='both', axis='x', linestyle='--', alpha=0.7)  # Enable vertical grid lines for major and minor ticks
+
+    # Adjust layout
+    plt.tight_layout()
+    
+    # Show the plots for the current month
+    plt.show()
